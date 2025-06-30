@@ -1,11 +1,5 @@
 # 🩺 SymptoWise – Your Personal AI Health Companion
 
-<br>
-
-![Banner](public/assets/preview/Image_11.webp)
-
-<br>
-
 **SymptoWise** is a sleek, responsive, and AI-Powered **Health & Wellness Web Application** designed to empower users in managing their well-being. From identifying symptoms with natural language input to generating personalized daily routines, exploring diet and skincare recommendations, consulting virtual doctors, and even unwinding with mental wellness activities – SymptoWise offers an all-in-one solution for holistic health.
 
 Built using **React**, **TypeScript**, **TailwindCSS**, **Firebase**, and the **OpenAI API**, it combines smart technology with user-friendly design to make proactive healthcare more accessible, engaging, and personalized.
@@ -140,7 +134,7 @@ npm run dev
 4. Open `http://localhost:5173` in your browser.
 
 ```text
-⚠️ You may need to set up Firebase and OpenAI credentials in a `.env` file.
+⚠️ You May Need To Set Up Firebase & OpenAI Credentials In a `.env` File.
 ```
 
 <br>
@@ -167,7 +161,7 @@ We’ve prepared a full walkthrough covering all the major features.
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/yZ8Swcb1dsA)
 
 ```text
-See how SymptoWise helps users check symptoms, plan routines, consult doctors, and manage wellness, all in one place.
+See How SymptoWise Helps Users Check Symptoms, Plan Routines, Consult Doctors, & Manage Wellness.
 ```
 
 <br>
