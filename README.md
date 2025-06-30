@@ -2,7 +2,7 @@
 
 <br>
 
-![Banner](/assets/preview/Image_11.webp)
+![Banner](public/assets/preview/Image_11.webp)
 
 <br>
 
@@ -47,23 +47,23 @@ Built using **React**, **TypeScript**, **TailwindCSS**, **Firebase**, and the **
 
 | **Login Page**                                   | **Home Page**                                    |
 | ------------------------------------------------ | ------------------------------------------------ |
-| ![Login Page](/assets/preview/Image_1.webp)      | ![Home Page](/assets/preview/Image_2.webp)       |
+| ![Login Page](public/assets/preview/Image_1.webp)      | ![Home Page](public/assets/preview/Image_2.webp)       |
 
 | **Symptom Checker Page**                         | **Routine Planner Page**                         |
 | ------------------------------------------------ | ------------------------------------------------ |
-| ![Symptom Checker](/assets/preview/Image_3.webp) | ![Routine Planner](/assets/preview/Image_4.webp) |
+| ![Symptom Checker](public/assets/preview/Image_3.webp) | ![Routine Planner](/public/assets/preview/Image_4.webp) |
 
 | **Skincare Solutions Page**                      | **Consult Doctor Page**                          |
 | ------------------------------------------------ | ------------------------------------------------ |
-| ![Skincare](/assets/preview/Image_5.webp)        | ![Consult Doctor](/assets/preview/Image_6.webp)  |
+| ![Skincare](public/assets/preview/Image_5.webp)        | ![Consult Doctor](public/assets/preview/Image_6.webp)  |
     
 | **Exercise Library Page**                        | **Nutrition Plans Page**                         |
 | ------------------------------------------------ | ------------------------------------------------ |
-| ![Exercise](/assets/preview/Image_7.webp)        | ![Nutrition](/assets/preview/Image_8.webp)       |
+| ![Exercise](public/assets/preview/Image_7.webp)        | ![Nutrition](public/assets/preview/Image_8.webp)       |
     
 | **Fun Zone Page**                                | **Profile Page**                                 |
 | ------------------------------------------------ | ------------------------------------------------ |
-| ![Fun Zone](/assets/preview/Image_9.webp)        | ![Profile](/assets/preview/Image_10.webp)        |
+| ![Fun Zone](public/assets/preview/Image_9.webp)        | ![Profile](public/assets/preview/Image_10.webp)        |
 
 
 <br>
