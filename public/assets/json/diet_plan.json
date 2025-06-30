@@ -1,0 +1,116 @@
+{
+  "kids": {
+    "calories": "1200-1800 kcal",
+    "protein": "34-52 g",
+    "carbs": "130-210 g",
+    "fats": "25-35% of total calories",
+    "fiber": "19-25 g",
+    "foodsToEat": [
+      "Whole grain breads and cereals",
+      "Fresh fruits (bananas, apples, berries)",
+      "Vegetables (carrots, cucumbers, sweet potatoes)",
+      "Lean proteins (chicken, turkey, fish)",
+      "Dairy products (milk, cheese, yogurt)",
+      "Healthy fats (avocados, nuts in moderation)",
+      "Eggs",
+      "Legumes (beans, lentils)"
+    ],
+    "foodsToAvoid": [
+      "Sugary cereals and snacks",
+      "Soda and sugary drinks",
+      "Deep-fried foods",
+      "Processed meats (hot dogs, sausages)",
+      "Artificial sweeteners",
+      "High-mercury fish",
+      "Excessive fruit juices",
+      "Foods with choking hazards (whole nuts for young kids)"
+    ]
+  },
+
+  
+  "teens": {
+    "calories": "1800-2800 kcal (depending on activity level)",
+    "protein": "46-52 g (girls), 52-60 g (boys)",
+    "carbs": "210-290 g",
+    "fats": "25-35% of total calories",
+    "fiber": "26-38 g",
+    "foodsToEat": [
+      "Whole grains (brown rice, quinoa, whole wheat pasta)",
+      "Lean proteins (chicken, fish, lean beef)",
+      "Dairy or dairy alternatives",
+      "Colorful fruits and vegetables",
+      "Healthy fats (olive oil, nuts, seeds)",
+      "Iron-rich foods (spinach, red meat, fortified cereals)",
+      "Calcium-rich foods (milk, yogurt, leafy greens)",
+      "Complex carbohydrates (sweet potatoes, oats)"
+    ],
+    "foodsToAvoid": [
+      "Energy drinks and excessive caffeine",
+      "Fast food and fried foods",
+      "Sugary snacks and desserts",
+      "Processed foods with artificial additives",
+      "Diet pills or supplements without medical advice",
+      "Alcohol",
+      "Excessive protein powders/supplements",
+      "Skipping meals"
+    ]
+  },
+
+  
+  "adults": {
+    "calories": "2000-2500 kcal (women), 2500-3000 kcal (men)",
+    "protein": "46-56 g (women), 56-70 g (men)",
+    "carbs": "225-325 g",
+    "fats": "20-35% of total calories",
+    "fiber": "25-38 g",
+    "foodsToEat": [
+      "Colorful vegetables (variety of colors)",
+      "Whole fruits (not juices)",
+      "Whole grains (quinoa, brown rice, whole wheat)",
+      "Lean proteins (fish, poultry, beans, tofu)",
+      "Healthy fats (avocados, nuts, olive oil)",
+      "Low-fat dairy or alternatives",
+      "Fermented foods (yogurt, kefir, sauerkraut)",
+      "Herbs and spices for flavor"
+    ],
+    "foodsToAvoid": [
+      "Processed meats (bacon, deli meats)",
+      "Refined carbohydrates (white bread, pastries)",
+      "Sugary beverages",
+      "Trans fats (check ingredient labels)",
+      "Excessive alcohol",
+      "High-sodium processed foods",
+      "Artificial sweeteners (in excess)",
+      "Deep-fried foods"
+    ]
+  },
+
+
+  "seniors": {
+    "calories": "1600-2200 kcal (depending on activity level)",
+    "protein": "46-56 g (to maintain muscle mass)",
+    "carbs": "130-210 g",
+    "fats": "20-35% of total calories",
+    "fiber": "21-30 g",
+    "foodsToEat": [
+      "High-fiber foods (berries, whole grains, legumes)",
+      "Calcium-rich foods (dairy, leafy greens, fortified foods)",
+      "Vitamin D sources (fatty fish, fortified foods)",
+      "Lean proteins (fish, poultry, eggs)",
+      "Healthy fats (nuts, seeds, olive oil)",
+      "Soft, easy-to-chew fruits (bananas, cooked apples)",
+      "Hydrating foods (soups, cucumbers, watermelon)",
+      "Iron-rich foods (lean red meat, spinach, lentils)"
+    ],
+    "foodsToAvoid": [
+      "High-sodium foods (canned soups, processed snacks)",
+      "Raw sprouts (bacteria risk)",
+      "Grapefruit (if on certain medications)",
+      "Undercooked eggs/meat",
+      "Excessive caffeine",
+      "High-sugar foods",
+      "Alcohol (or limit severely)",
+      "Tough, hard-to-chew meats"
+    ]
+  }
+}

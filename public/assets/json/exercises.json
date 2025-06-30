@@ -1,0 +1,1043 @@
+[  
+  {
+    "id": "jumping_jacks",
+    "title": "Jumping Jacks",
+    "category": "cardio",
+    "duration": "3 sets of 30 seconds",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685267/jumping_jacks_uv9rw4.json",
+    "steps": [
+      "Stand upright with feet together and arms at your sides",
+      "Jump while spreading your legs shoulder-width apart",
+      "Simultaneously raise your arms above your head",
+      "Jump again to return to starting position",
+      "Maintain a steady rhythm and controlled breathing"
+    ],
+    "safetyTips": [
+      "Land softly on the balls of your feet to reduce impact",
+      "Keep knees slightly bent during landing",
+      "Engage core muscles for stability",
+      "Avoid locking your elbows when arms are raised"
+    ],
+    "recommendation": "Great warm-up exercise. Perform 3 sets with 30 seconds rest between sets."
+  },
+
+  {
+    "id": "plank",
+    "title": "Plank",
+    "category": "core",
+    "duration": "3 sets of 30-60 seconds",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685271/plank_tdnlvl.json",
+    "steps": [
+      "Start in push-up position with hands directly under shoulders",
+      "Lower onto your forearms, keeping elbows aligned below shoulders",
+      "Form a straight line from head to heels",
+      "Engage core muscles by pulling belly button toward spine",
+      "Hold position while maintaining normal breathing"
+    ],
+    "safetyTips": [
+      "Avoid sagging hips or raising buttocks too high",
+      "Keep neck neutral by looking at floor slightly ahead of hands",
+      "Stop immediately if you feel lower back pain",
+      "Modify by dropping knees if needed"
+    ],
+    "recommendation": "Start with 30 second holds, gradually increasing to 2 minutes as strength improves."
+  },
+
+  {
+    "id": "squats",
+    "title": "Bodyweight Squats",
+    "category": "legs",
+    "duration": "3 sets of 12-15 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685277/squats_hilarl.json",
+    "steps": [
+      "Stand with feet shoulder-width apart, toes slightly turned out",
+      "Extend arms straight out for balance",
+      "Initiate movement by pushing hips back as if sitting in a chair",
+      "Lower until thighs are parallel to floor (or as low as comfortable)",
+      "Keep knees aligned with toes, chest lifted",
+      "Press through heels to return to standing"
+    ],
+    "safetyTips": [
+      "Never let knees cave inward during movement",
+      "Maintain weight in heels, not toes",
+      "Keep spine neutral - avoid rounding back",
+      "Go only as low as you can maintain proper form"
+    ],
+    "recommendation": "Perfect for building leg strength. Perform 3 times weekly with at least one rest day between sessions."
+  },
+
+  {
+    "id": "bicep_curls",
+    "title": "Bicep Curls",
+    "category": "biceps",
+    "duration": "3 sets of 10-12 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685259/bicep_curls_b9wmka.json",
+    "steps": [
+      "Stand tall with dumbbells in hands, palms facing forward",
+      "Keep elbows close to torso and shoulders relaxed",
+      "Curl weights upward while contracting biceps",
+      "Bring dumbbells to shoulder level without swinging",
+      "Slowly lower back to starting position with control"
+    ],
+    "safetyTips": [
+      "Avoid using momentum to lift weights",
+      "Keep wrists straight - don't bend them backward",
+      "Maintain slight bend in knees to protect lower back",
+      "Don't fully lock elbows at bottom position"
+    ],
+    "recommendation": "Use challenging but controllable weight. Rest 60 seconds between sets."
+  },
+
+  {
+    "id": "tricep_dips",
+    "title": "Tricep Dips",
+    "category": "triceps",
+    "duration": "3 sets of 8-10 reps",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685279/tricep_dips_d5mlyd.json",
+    "steps": [
+      "Position hands on parallel bars or bench edge, fingers forward",
+      "Extend legs straight out or bend knees (easier variation)",
+      "Lower body by bending elbows to 90 degrees",
+      "Keep elbows pointing backward, not flaring outward",
+      "Press back up to starting position using triceps"
+    ],
+    "safetyTips": [
+      "Don't sink shoulders up toward ears",
+      "Avoid going too low if you feel shoulder strain",
+      "Keep movement controlled - no bouncing at bottom",
+      "Engage core to prevent excessive forward lean"
+    ],
+    "recommendation": "Excellent for arm strength. Perform 2-3 times weekly with proper rest."
+  },
+
+  {
+    "id": "downward_dog",
+    "title": "Downward Facing",
+    "category": "yoga",
+    "duration": "Hold for 30-60 seconds",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685264/downward_dog_gcvkhc.json",
+    "steps": [
+      "Start on hands and knees (tabletop position)",
+      "Tuck toes and lift hips toward ceiling",
+      "Straighten legs as much as comfortable",
+      "Press hands firmly into mat, spreading fingers wide",
+      "Relax head between arms, ears in line with upper arms",
+      "Engage core and try to bring heels toward floor"
+    ],
+    "safetyTips": [
+      "Don't lock knees - maintain micro bend",
+      "If hamstrings are tight, keep knees slightly bent",
+      "Avoid rounding shoulders - keep them engaged",
+      "Modify by placing hands on elevated surface if needed"
+    ],
+    "recommendation": "Hold for 5-10 breaths. Great for full-body stretch and strength."
+  },
+
+  {
+    "id": "leg_raises",
+    "title": "Hanging Leg Raises",
+    "category": "abs",
+    "duration": "3 sets of 8-12 reps",
+    "difficulty": "Advanced",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685269/leg_raises_kdfnwo.json",
+    "steps": [
+      "Hang from pull-up bar with overhand grip",
+      "Engage core and lift legs straight up to 90 degrees",
+      "Keep movement controlled - avoid swinging",
+      "Pause briefly at top, squeezing abs",
+      "Slowly lower legs back down with control"
+    ],
+    "safetyTips": [
+      "Avoid using momentum to lift legs",
+      "Don't arch back excessively",
+      "Start with bent knees if straight legs are too challenging",
+      "Stop if you feel strain in shoulders or lower back"
+    ],
+    "recommendation": "Advanced core exercise. Build up to 3 sets of 12 reps with perfect form."
+  },
+
+  {
+    "id": "push_ups",
+    "title": "Push Ups",
+    "category": "chest",
+    "duration": "3 sets of 10-15 reps",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685272/push_ups_dh2tzt.json",
+    "steps": [
+      "Start in plank position with hands slightly wider than shoulders",
+      "Keep body straight from head to heels",
+      "Lower chest toward floor by bending elbows",
+      "Stop when elbows reach 90 degrees",
+      "Press back up to starting position"
+    ],
+    "safetyTips": [
+      "Don't let hips sag or rise too high",
+      "Keep neck neutral - don't crane head forward",
+      "Modify by dropping to knees if needed",
+      "Engage core throughout movement"
+    ],
+    "recommendation": "Fundamental upper body exercise. Perform 3-4 times weekly."
+  },
+
+  {
+    "id": "hamstring_stretch",
+    "title": "Hamstring Stretch",
+    "category": "stretching",
+    "duration": "Hold 30 seconds per side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685274/hamstring_stretch_vj7w3e.json",
+    "steps": [
+      "Sit on floor with legs extended straight in front",
+      "Keep spine tall and reach forward from hips",
+      "Reach toward toes without rounding back",
+      "Hold stretch at comfortable intensity",
+      "Breathe deeply and relax into stretch"
+    ],
+    "safetyTips": [
+      "Never bounce during stretch",
+      "Stretch only to point of mild tension, not pain",
+      "Keep knees slightly bent if hamstrings are tight",
+      "Maintain long spine - don't hunch forward"
+    ],
+    "recommendation": "Perform daily, especially after leg workouts. Hold each side for 30 seconds."
+  },
+
+  {
+    "id": "diaphragmatic_breathing",
+    "title": "Breathing",
+    "category": "breathing",
+    "duration": "5 minutes daily",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685263/diaphragmatic_breathing_lfajli.json",
+    "steps": [
+      "Lie on back with knees bent or sit comfortably",
+      "Place one hand on chest, one on belly",
+      "Inhale deeply through nose, filling belly with air",
+      "Feel hand on belly rise while chest remains still",
+      "Exhale slowly through pursed lips",
+      "Focus on slow, controlled breathing rhythm"
+    ],
+    "safetyTips": [
+      "Don't force breath beyond comfortable capacity",
+      "If dizzy, return to normal breathing",
+      "Keep shoulders relaxed - don't tense them",
+      "Practice in quiet environment for best results"
+    ],
+    "recommendation": "Excellent for stress reduction. Practice daily, ideally morning and evening."
+  },
+
+  {
+    "id": "burpees",
+    "title": "Burpees",
+    "category": "cardio",
+    "duration": "3 sets of 10 reps",
+    "difficulty": "Advanced",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685265/burpees_iotqwr.json",
+    "steps": [
+      "Start standing with feet shoulder-width apart",
+      "Squat down and place hands on floor",
+      "Jump feet back into plank position",
+      "Perform push-up (optional for advanced)",
+      "Jump feet back toward hands",
+      "Explode upward into jump with arms overhead"
+    ],
+    "safetyTips": [
+      "Land softly with knees slightly bent",
+      "Maintain proper push-up form if including",
+      "Modify by stepping back instead of jumping",
+      "Stop if form deteriorates due to fatigue"
+    ],
+    "recommendation": "Full-body conditioning exercise. Rest 60-90 seconds between sets."
+  },
+
+  {
+    "id": "russian_twists",
+    "title": "Russian Twists",
+    "category": "core",
+    "duration": "3 sets of 20 reps (10 per side)",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685275/russian_twists_fxoigt.json",
+    "steps": [
+      "Sit on floor with knees bent and heels on ground",
+      "Lean back slightly to engage core",
+      "Hold weight or medicine ball with both hands",
+      "Rotate torso to touch weight to floor beside hip",
+      "Return to center and rotate to opposite side"
+    ],
+    "safetyTips": [
+      "Move slowly with control - no jerking",
+      "Keep back straight - don't hunch shoulders",
+      "Engage core throughout entire movement",
+      "For easier version, keep feet on floor"
+    ],
+    "recommendation": "Great for oblique strength. Perform 3 times weekly."
+  },
+
+  {
+    "id": "lunges",
+    "title": "Walking Lunges",
+    "category": "legs",
+    "duration": "3 sets of 12 steps per leg",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685272/lunges_jwsauj.json",
+    "steps": [
+      "Stand tall with feet together",
+      "Step forward with right leg, lowering hips",
+      "Descend until both knees form 90-degree angles",
+      "Keep front knee aligned with ankle",
+      "Push through front heel to return to standing",
+      "Immediately step forward with left leg to repeat"
+    ],
+    "safetyTips": [
+      "Don't let front knee extend past toes",
+      "Keep torso upright - don't lean forward",
+      "Engage core for balance",
+      "Start without weights to master form"
+    ],
+    "recommendation": "Excellent for leg strength and balance. Perform 2-3 times weekly."
+  },
+
+  {
+    "id": "hammer_curls",
+    "title": "Hammer Curls",
+    "category": "biceps",
+    "duration": "3 sets of 10-12 reps",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685266/hammer_curls_uef2iu.json",
+    "steps": [
+      "Stand holding dumbbells with neutral grip (palms facing in)",
+      "Keep elbows close to sides, shoulders relaxed",
+      "Curl weights upward while maintaining neutral grip",
+      "Squeeze biceps at top of movement",
+      "Slowly lower back to starting position"
+    ],
+    "safetyTips": [
+      "Avoid swinging weights - use controlled motion",
+      "Don't arch back to lift heavier weights",
+      "Keep wrists straight throughout movement",
+      "Exhale while lifting, inhale while lowering"
+    ],
+    "recommendation": "Targets biceps and forearms. Rest 60 seconds between sets."
+  },
+
+  {
+    "id": "tricep_kickbacks",
+    "title": "Tricep Kickbacks",
+    "category": "triceps",
+    "duration": "3 sets of 12 reps per arm",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685279/tricep_kickbacks_ljibyv.json",
+    "steps": [
+      "Hold dumbbell in right hand, bend forward at hips",
+      "Place left hand on bench for support",
+      "Keep upper arm parallel to floor, elbow bent at 90 degrees",
+      "Extend arm straight back, contracting triceps",
+      "Hold briefly at full extension",
+      "Slowly return to starting position"
+    ],
+    "safetyTips": [
+      "Keep back flat - don't round shoulders",
+      "Only lower arm moves - upper arm stays fixed",
+      "Use appropriate weight to maintain form",
+      "Avoid locking elbow at full extension"
+    ],
+    "recommendation": "Great isolation exercise. Perform with controlled movement."
+  },
+
+  {
+    "id": "warrior_pose",
+    "title": "Warrior II Pose",
+    "category": "yoga",
+    "duration": "Hold for 30-60 seconds per side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685450/warrior_pose_igipcb.json",
+    "steps": [
+      "Stand with feet wide apart (about 4 feet)",
+      "Turn right foot out 90 degrees, left foot slightly in",
+      "Bend right knee until thigh is parallel to floor",
+      "Extend arms parallel to floor at shoulder height",
+      "Gaze over right fingertips",
+      "Keep torso centered between hips"
+    ],
+    "safetyTips": [
+      "Keep bent knee aligned over ankle",
+      "Don't let knee collapse inward",
+      "Engage core to protect lower back",
+      "Modify stance width if needed"
+    ],
+    "recommendation": "Builds strength and balance. Practice both sides equally."
+  },
+
+  {
+    "id": "bicycle_crunches",
+    "title": "Bicycle Crunches",
+    "category": "abs",
+    "duration": "3 sets of 20 reps (10 per side)",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685263/bicycle_crunches_fcyev4.json",
+    "steps": [
+      "Lie on back with hands behind head, elbows wide",
+      "Lift shoulders off mat and bring knees to tabletop",
+      "Extend right leg while rotating left elbow to right knee",
+      "Switch sides in pedaling motion",
+      "Keep lower back pressed into mat",
+      "Maintain slow, controlled movement"
+    ],
+    "safetyTips": [
+      "Don't pull on neck with hands",
+      "Keep movements controlled - no jerking",
+      "Exhale as you twist, inhale as you switch",
+      "Engage core throughout entire set"
+    ],
+    "recommendation": "Effective for obliques. Perform 3-4 times weekly."
+  },
+
+  {
+    "id": "mountain_climbers",
+    "title": "Mountain Climbers",
+    "category": "cardio",
+    "duration": "3 sets of 30 seconds",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685271/mountain_climbers_clwh1n.json",
+    "steps": [
+      "Start in plank position",
+      "Drive right knee toward chest",
+      "Quickly switch legs, bringing left knee in",
+      "Maintain steady pace and flat back"
+    ],
+    "safetyTips": [
+      "Avoid hiking hips up",
+      "Keep core engaged",
+      "Land softly on balls of feet"
+    ],
+    "recommendation": "Great for cardio endurance. Maintain controlled movement throughout."
+  },
+
+  {
+    "id": "glute_bridge",
+    "title": "Glute Bridge",
+    "category": "legs",
+    "duration": "3 sets of 12 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685265/glute_bridge_lygsov.json",
+    "steps": [
+      "Lie on back with knees bent",
+      "Lift hips until body forms straight line",
+      "Squeeze glutes at top",
+      "Lower slowly"
+    ],
+    "safetyTips": [
+      "Don't hyperextend lower back",
+      "Keep knees aligned with toes"
+    ],
+    "recommendation": "Excellent for glute activation. Hold top position for 2 seconds."
+  },
+
+  {
+    "id": "superman_hold",
+    "title": "Superman Hold",
+    "category": "back",
+    "duration": "3 sets of 20-30 seconds",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685279/superman_hold_ukluin.json",
+    "steps": [
+      "Lie face down with arms extended",
+      "Lift arms and legs simultaneously",
+      "Hold position"
+    ],
+    "safetyTips": [
+      "Avoid straining neck",
+      "Keep gaze downward"
+    ],
+    "recommendation": "Strengthens lower back. Start with shorter holds and progress."
+  },
+
+  {
+    "id": "wall_sit",
+    "title": "Wall Sit",
+    "category": "legs",
+    "duration": "3 sets of 30-60 seconds",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685444/wall_sit_ne0obv.json",
+    "steps": [
+      "Lean against wall with knees at 90°",
+      "Keep back flat against wall",
+      "Hold position"
+    ],
+    "safetyTips": [
+      "Don't let knees extend past toes",
+      "Stop if knee pain occurs"
+    ],
+    "recommendation": "Builds quad endurance. Increase time gradually."
+  },
+
+  {
+    "id": "calf_raises",
+    "title": "Calf Raises",
+    "category": "legs",
+    "duration": "3 sets of 15 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685265/calf_raises_tjkx5o.json",
+    "steps": [
+      "Stand on edge of step",
+      "Raise onto toes",
+      "Lower heels below step level"
+    ],
+    "safetyTips": [
+      "Hold rail for balance",
+      "Control descent"
+    ],
+    "recommendation": "Do both straight-leg and bent-knee variations for complete calf development."
+  },
+
+  {
+    "id": "bird_dog",
+    "title": "Bird Dog",
+    "category": "core",
+    "duration": "3 sets of 10 reps/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685263/bird_dog_ydjden.json",
+    "steps": [
+      "On hands and knees",
+      "Extend opposite arm/leg",
+      "Keep hips level"
+    ],
+    "safetyTips": [
+      "Avoid arching back",
+      "Move slowly"
+    ],
+    "recommendation": "Excellent for core stability. Hold each extension for 2-3 seconds."
+  },
+
+  {
+    "id": "side_plank",
+    "title": "Side Plank",
+    "category": "core",
+    "duration": "3 sets of 20-30 sec/side",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685278/side_plank_nqbqfw.json",
+    "steps": [
+      "Prop up on one forearm",
+      "Stack feet",
+      "Lift hips"
+    ],
+    "safetyTips": [
+      "Don't let hips sag",
+      "Modify with knee down"
+    ],
+    "recommendation": "Builds oblique strength. Progress to lifting top leg for added challenge."
+  },
+
+  {
+    "id": "inchworm",
+    "title": "Inchworm",
+    "category": "full body",
+    "duration": "3 sets of 8 reps",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685269/inchworm_loirdp.json",
+    "steps": [
+      "Stand with feet hip-width apart",
+      "Bend forward and walk hands out to plank",
+      "Hold plank for 1 second",
+      "Walk hands back to feet"
+    ],
+    "safetyTips": [
+      "Keep core engaged throughout",
+      "Maintain slight bend in knees if hamstrings are tight"
+    ],
+    "recommendation": "Great dynamic warm-up. Focus on controlled movement."
+  },
+
+  {
+    "id": "dead_bug",
+    "title": "Dead Bug",
+    "category": "core",
+    "duration": "3 sets of 10 reps/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685259/dead_bug_q5zv7m.json",
+    "steps": [
+      "Lie on back with arms extended toward ceiling",
+      "Bring knees to tabletop position",
+      "Slowly extend opposite arm/leg",
+      "Return to start"
+    ],
+    "safetyTips": [
+      "Maintain lower back contact with floor",
+      "Move slowly with control"
+    ],
+    "recommendation": "Excellent for core coordination. Exhale during extension."
+  },
+
+  {
+    "id": "step_ups",
+    "title": "Step Ups",
+    "category": "legs",
+    "duration": "3 sets of 10 reps/leg",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685278/step_ups_uzwkaa.json",
+    "steps": [
+      "Stand facing bench or step",
+      "Step up with right foot",
+      "Bring left knee up",
+      "Step down with control"
+    ],
+    "safetyTips": [
+      "Use step height that keeps knee at 90°",
+      "Don't push off back foot"
+    ],
+    "recommendation": "Focus on controlled lowering phase. Add weight for progression."
+  },
+
+  {
+    "id": "reverse_crunches",
+    "title": "Reverse Crunches",
+    "category": "abs",
+    "duration": "3 sets of 12 reps",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685272/reverse_crunches_gkq1u2.json",
+    "steps": [
+      "Lie on back with knees bent",
+      "Lift knees toward chest",
+      "Roll pelvis off floor",
+      "Lower with control"
+    ],
+    "safetyTips": [
+      "Avoid using momentum",
+      "Keep lower back pressed to floor"
+    ],
+    "recommendation": "Focus on slow, controlled movement. Exhale during lift."
+  },
+
+  {
+    "id": "side_lying_leg_raises",
+    "title": "Side-Lying Leg Raises",
+    "category": "legs",
+    "duration": "3 sets of 12 reps/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685276/side_leg_raises_wlcuds.json",
+    "steps": [
+      "Lie on side with legs stacked",
+      "Lift top leg toward ceiling",
+      "Lower with control"
+    ],
+    "safetyTips": [
+      "Keep hips stacked",
+      "Move slowly"
+    ],
+    "recommendation": "Targets hip abductors. Keep toes pointed forward."
+  },
+
+  {
+    "id": "flutter_kicks",
+    "title": "Flutter Kicks",
+    "category": "core",
+    "duration": "3 sets of 30 seconds",
+    "difficulty": "Intermediate",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685265/flutter_kicks_zjf8oa.json",
+    "steps": [
+      "Lie on back with legs extended",
+      "Lift heels 6 inches off floor",
+      "Alternate small up/down kicks"
+    ],
+    "safetyTips": [
+      "Press lower back into floor",
+      "Keep movements small and controlled"
+    ],
+    "recommendation": "Engages lower abs. Start with shorter durations."
+  },
+
+  {
+    "id": "wall_pushups",
+    "title": "Wall Push Ups",
+    "category": "chest",
+    "duration": "3 sets of 15 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685280/wall_pushups_tlpxlv.json",
+    "steps": [
+      "Stand facing wall",
+      "Place hands on wall at chest height",
+      "Bend elbows to bring chest toward wall",
+      "Push back to start"
+    ],
+    "safetyTips": [
+      "Keep body straight",
+      "Control movement"
+    ],
+    "recommendation": "Good introductory push-up variation. Progress to incline push-ups."
+  },
+
+  {
+    "id": "seated_shoulder_press",
+    "title": "Seated Shoulder Press",
+    "category": "shoulders",
+    "duration": "3 sets of 10-12 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685275/seated_shoulder_press_li2ahk.json",
+    "steps": [
+      "Sit on bench with back support",
+      "Hold dumbbells at shoulder height",
+      "Press upward until arms are straight",
+      "Lower with control"
+    ],
+    "safetyTips": [
+      "Don't arch back",
+      "Keep wrists straight"
+    ],
+    "recommendation": "Start with light weights to perfect form before progressing."
+  },
+
+  {
+    "id": "standing_calf_stretch",
+    "title": "Standing Calf Stretch",
+    "category": "stretching",
+    "duration": "Hold 30 sec/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685262/calf_stretch_ah5mga.json",
+    "steps": [
+      "Stand facing wall",
+      "Step one foot back",
+      "Keep back leg straight",
+      "Lean into wall until stretch is felt"
+    ],
+    "safetyTips": [
+      "Keep both heels down",
+      "Don't bounce"
+    ],
+    "recommendation": "Do after calf exercises or running. Bend back knee to stretch soleus."
+  },
+
+  {
+    "id": "quadruped_shoulder_circles",
+    "title": "Shoulder Circles",
+    "category": "mobility",
+    "duration": "2 sets of 8 circles/direction",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685276/shoulder_circles_kelwei.json",
+    "steps": [
+      "On hands and knees",
+      "Make small circles with shoulders",
+      "Alternate directions"
+    ],
+    "safetyTips": [
+      "Keep core engaged",
+      "Move slowly"
+    ],
+    "recommendation": "Great for shoulder mobility. Do before upper body workouts."
+  },
+
+  {
+    "id": "seated_spinal_twist",
+    "title": "Seated Spinal Twist",
+    "category": "stretching",
+    "duration": "Hold 30 sec/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685277/spinal_twist_ckbaov.json",
+    "steps": [
+      "Sit with legs extended",
+      "Bend right knee and cross over left leg",
+      "Twist torso to right",
+      "Use left arm to deepen stretch"
+    ],
+    "safetyTips": [
+      "Twist from torso, not neck",
+      "Keep spine tall"
+    ],
+    "recommendation": "Improves spinal mobility. Breathe deeply into the stretch."
+  },
+  
+  {
+    "id": "scapular_pushups",
+    "title": "Scapular Push Ups",
+    "category": "back",
+    "duration": "3 sets of 12 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685274/scapular_pushups_zub5np.json",
+    "steps": [
+      "Start in plank position",
+      "Protract and retract shoulder blades",
+      "Keep arms straight"
+    ],
+    "safetyTips": [
+      "Don't sag hips",
+      "Move slowly"
+    ],
+    "recommendation": "Excellent for shoulder health. Focus on scapular movement."
+  },
+
+  {
+    "id": "lying_leg_circles",
+    "title": "Lying Leg Circles",
+    "category": "core",
+    "duration": "3 sets of 8 circles/direction",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685267/leg_circles_rxfvjg.json",
+    "steps": [
+      "Lie on back with one leg extended up",
+      "Make small circles with raised leg",
+      "Alternate directions"
+    ],
+    "safetyTips": [
+      "Keep lower back pressed down",
+      "Control movement"
+    ],
+    "recommendation": "Works hip flexors and core. Keep circles small at first."
+  },
+
+  {
+    "id": "standing_oblique_crunches",
+    "title": "Oblique Crunches",
+    "category": "core",
+    "duration": "3 sets of 15 reps/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685277/standing_obliques_mkvcdo.json",
+    "steps": [
+      "Stand with feet shoulder-width apart",
+      "Place hands behind head",
+      "Bend sideways at waist",
+      "Return to center"
+    ],
+    "safetyTips": [
+      "Don't pull on neck",
+      "Move slowly"
+    ],
+    "recommendation": "Good alternative to floor oblique exercises. Engage core throughout."
+  },
+
+  {
+    "id": "ankle_circles",
+    "title": "Ankle Circles",
+    "category": "mobility",
+    "duration": "2 sets of 10 circles/direction",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685263/ankle_circles_csjhfo.json",
+    "steps": [
+      "Sit or stand on one leg",
+      "Rotate other ankle in circles",
+      "Alternate directions"
+    ],
+    "safetyTips": [
+      "Move slowly",
+      "Stop if pain occurs"
+    ],
+    "recommendation": "Do before lower body workouts or running. Helps prevent ankle injuries."
+  },
+
+  {
+    "id": "seated_leg_extensions",
+    "title": "Leg Extensions",
+    "category": "legs",
+    "duration": "3 sets of 12 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685268/leg_extensions_c7arao.json",
+    "steps": [
+      "Sit tall on chair",
+      "Extend one leg straight",
+      "Flex foot",
+      "Lower with control"
+    ],
+    "safetyTips": [
+      "Don't lock knee",
+      "Keep back straight"
+    ],
+    "recommendation": "Good for quad strength. Add ankle weights for progression."
+  },
+
+  {
+    "id": "standing_hip_circles",
+    "title": "Standing Hip Circles",
+    "category": "mobility",
+    "duration": "2 sets of 8 circles/direction",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685276/hip_circles_c3l3sm.json",
+    "steps": [
+      "Stand with hands on hips",
+      "Make circles with hips",
+      "Alternate directions"
+    ],
+    "safetyTips": [
+      "Keep knees slightly bent",
+      "Engage core"
+    ],
+    "recommendation": "Great warm-up for lower body workouts. Increases hip mobility."
+  },
+
+  {
+    "id": "chair_dips",
+    "title": "Chair Dips",
+    "category": "triceps",
+    "duration": "3 sets of 10 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685266/chair_dips_m6kgnr.json",
+    "steps": [
+      "Sit on edge of chair with hands gripping edge",
+      "Slide butt off chair",
+      "Lower body by bending elbows",
+      "Push back up"
+    ],
+    "safetyTips": [
+      "Keep elbows pointing back",
+      "Don't sink shoulders"
+    ],
+    "recommendation": "Beginner-friendly triceps exercise. Keep movement controlled."
+  },
+
+  {
+    "id": "standing_hamstring_curl",
+    "title": "Hamstring Curl",
+    "category": "legs",
+    "duration": "3 sets of 12 reps/leg",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685267/hamstring_curl_e34tro.json",
+    "steps": [
+      "Stand holding chair for balance",
+      "Bend one knee to bring heel toward glutes",
+      "Slowly lower"
+    ],
+    "safetyTips": [
+      "Keep knees aligned",
+      "Control movement"
+    ],
+    "recommendation": "Targets hamstrings. Add ankle weights for progression."
+  },
+
+  {
+    "id": "seated_march",
+    "title": "Seated March",
+    "category": "cardio",
+    "duration": "3 sets of 30 seconds",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685275/seated_march_a5kab7.json",
+    "steps": [
+      "Sit tall on chair",
+      "Alternate lifting knees",
+      "Pump arms"
+    ],
+    "safetyTips": [
+      "Maintain good posture",
+      "Keep movements controlled"
+    ],
+    "recommendation": "Good seated cardio option. Increase speed gradually."
+  },
+
+  {
+    "id": "wall_angels",
+    "title": "Wall Angels",
+    "category": "posture",
+    "duration": "3 sets of 10 reps",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685280/wall_angels_z6pixc.json",
+    "steps": [
+      "Stand with back against wall",
+      "Bend elbows to 90° with arms against wall",
+      "Slide arms up and down"
+    ],
+    "safetyTips": [
+      "Maintain contact with wall",
+      "Move slowly"
+    ],
+    "recommendation": "Improves shoulder mobility and posture. Do daily if possible."
+  },
+
+  {
+    "id": "neck_stretch",
+    "title": "Neck Stretch",
+    "category": "stretching",
+    "duration": "Hold 30 sec/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685270/neck_stretch_appqhe.json",
+    "steps": [
+      "Gently tilt head to one side",
+      "Use hand to deepen stretch",
+      "Switch sides"
+    ],
+    "safetyTips": [
+      "Don't pull forcefully",
+      "Keep shoulders relaxed"
+    ],
+    "recommendation": "Relieves neck tension. Breathe deeply during stretch."
+  },
+
+  {
+    "id": "standing_quad_stretch",
+    "title": "Quad Stretch",
+    "category": "stretching",
+    "duration": "Hold 30 sec/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685273/quad_stretch_wmnfxp.json",
+    "steps": [
+      "Stand holding chair for balance",
+      "Bend one knee to bring heel toward glutes",
+      "Hold ankle",
+      "Keep knees together"
+    ],
+    "safetyTips": [
+      "Don't arch back",
+      "Stand tall"
+    ],
+    "recommendation": "Essential after quad-focused exercises. Modify with towel if needed."
+  },
+
+  {
+    "id": "seated_toe_taps",
+    "title": "Seated Toe Taps",
+    "category": "cardio",
+    "duration": "3 sets of 30 seconds",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685278/toe_taps_xjtiy5.json",
+    "steps": [
+      "Sit tall on chair",
+      "Alternate tapping toes quickly",
+      "Keep heels on floor"
+    ],
+    "safetyTips": [
+      "Maintain good posture",
+      "Control movement"
+    ],
+    "recommendation": "Low-impact cardio option. Increase speed as able."
+  },
+
+  {
+    "id": "shoulder_rolls",
+    "title": "Shoulder Rolls",
+    "category": "mobility",
+    "duration": "2 sets of 10 reps/direction",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685276/shoulder_rolls_vg7iqw.json",
+    "steps": [
+      "Stand or sit tall",
+      "Roll shoulders backward in circles",
+      "Alternate directions"
+    ],
+    "safetyTips": [
+      "Keep movements controlled",
+      "Don't hunch shoulders"
+    ],
+    "recommendation": "Relieves shoulder tension. Do throughout the day."
+  },
+
+  {
+    "id": "seated_knee_lifts",
+    "title": "Seated Knee Lifts",
+    "category": "core",
+    "duration": "3 sets of 12 reps/side",
+    "difficulty": "Beginner",
+    "animationUrl": "https://res.cloudinary.com/dhn92qb61/raw/upload/v1750685273/seated_knee_lifts_a4zk3r.json",
+    "steps": [
+      "Sit tall",
+      "Lift your knees towards chest",
+      "Lower with control"
+    ],
+    "safetyTips": [
+      "Don't lean back",
+      "Engage core"
+    ],
+    "recommendation": "Beginner-friendly core exercise. Exhale when lifting knee."
+  }
+]
+

@@ -1,0 +1,397 @@
+{
+  "intents": [
+    {
+      "name": "Default Welcome Intent",
+      "description": "Greets the user and explains the bot's capabilities",
+      "trainingPhrases": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "What can you do?",
+        "Help"
+      ],
+      "responses": [
+        {
+          "text": "Hello! I'm MediQ, your AI Health Assistant Chatbot. I can help you with:\n- Symptom checking\n- Diet plans\n- Exercise routines\n- Doctor consultations\n- Skincare advice\n\nWhat would you like help with today?"
+        }
+      ],
+      "contexts": ["welcome"]
+    },
+    {
+      "name": "Symptom Checker - Basic",
+      "description": "Handles basic symptom description and initial assessment",
+      "trainingPhrases": [
+        "I have a headache",
+        "My stomach hurts",
+        "I'm feeling dizzy",
+        "I have pain in my chest",
+        "I think I might be sick"
+      ],
+      "responses": [
+        {
+          "text": "I can help assess your $symptom. To give you better advice, could you tell me:\n1. How severe is it (mild, moderate, severe)?\n2. How long have you had it?\n3. Any other symptoms?"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "symptom",
+          "entityType": "@sys.any",
+          "isList": false,
+          "required": true,
+          "prompts": ["What symptom are you experiencing?"]
+        }
+      ],
+      "contexts": ["symptom-checking"]
+    },
+    {
+      "name": "Symptom Checker - Detailed",
+      "description": "Handles detailed symptom analysis",
+      "trainingPhrases": [
+        "I've had a severe headache for 2 days with nausea",
+        "Mild stomach pain since yesterday",
+        "Moderate back pain for a week",
+        "Severe cough with fever for 3 days"
+      ],
+      "responses": [
+        {
+          "text": "Based on your symptoms ($symptom, $severity, $duration), I recommend:\n\n$careplan\n\nWould you like me to:\n1. Save this to your health log\n2. Find a doctor\n3. Get diet/exercise suggestions?"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "symptom",
+          "entityType": "@sys.any",
+          "isList": false,
+          "required": true
+        },
+        {
+          "name": "severity",
+          "entityType": "@sys.any",
+          "isList": false,
+          "required": true,
+          "prompts": ["How severe is it? (mild/moderate/severe)"]
+        },
+        {
+          "name": "duration",
+          "entityType": "@sys.any",
+          "isList": false,
+          "required": true,
+          "prompts": ["How long have you had these symptoms?"]
+        },
+        {
+          "name": "careplan",
+          "entityType": "@sys.any",
+          "isList": false,
+          "required": false
+        }
+      ],
+      "contexts": ["symptom-analysis"],
+      "outputContexts": ["awaiting-symptom-action"]
+    },
+    {
+      "name": "Diet Plan Request",
+      "description": "Handles requests for diet/nutrition plans",
+      "trainingPhrases": [
+        "I need a diet plan",
+        "What should I eat for my condition?",
+        "Nutrition advice",
+        "Meal plan for weight loss",
+        "Healthy eating tips"
+      ],
+      "responses": [
+        {
+          "text": "I can suggest diet plans based on:\n1. Health condition\n2. Weight goals\n3. Dietary restrictions\n\nWhich would you like help with?"
+        }
+      ],
+      "contexts": ["diet-planning"]
+    },
+    {
+      "name": "Exercise Routine Request",
+      "description": "Handles requests for exercise routines",
+      "trainingPhrases": [
+        "I need an exercise plan",
+        "Workout routine",
+        "Physical activity suggestions",
+        "Exercises for back pain",
+        "Fitness routine"
+      ],
+      "responses": [
+        {
+          "text": "I can recommend exercises based on:\n1. Fitness level\n2. Health conditions\n3. Available equipment\n4. Time commitment\n\nWhat are your goals?"
+        }
+      ],
+      "contexts": ["exercise-planning"]
+    },
+    {
+      "name": "Doctor Consultation Request",
+      "description": "Handles requests to find/consult doctors",
+      "trainingPhrases": [
+        "I need to see a doctor",
+        "Find me a physician",
+        "Book a doctor appointment",
+        "Medical consultation",
+        "I need professional help"
+      ],
+      "responses": [
+        {
+          "text": "I can help you find a doctor based on:\n1. Specialty needed\n2. Location preference\n3. Availability\n\nWould you like to browse available doctors now?"
+        }
+      ],
+      "contexts": ["doctor-consultation"]
+    },
+    {
+      "name": "Skincare Advice Request",
+      "description": "Handles skincare-related queries",
+      "trainingPhrases": [
+        "Skincare routine",
+        "Help with acne",
+        "Dry skin solutions",
+        "Best products for my skin",
+        "Skin problems"
+      ],
+      "responses": [
+        {
+          "text": "I can provide skincare advice based on:\n1. Skin type\n2. Concerns (acne, aging, dryness)\n3. Current routine\n\nWhat would you like to improve?"
+        }
+      ],
+      "contexts": ["skincare-advice"]
+    },
+    {
+      "name": "Routine Generator Request",
+      "description": "Handles requests for daily health routines",
+      "trainingPhrases": [
+        "Create a daily routine",
+        "Healthy daily schedule",
+        "Wellness routine",
+        "Daily health plan",
+        "Morning/night routine"
+      ],
+      "responses": [
+        {
+          "text": "I can generate a personalized routine including:\n1. Sleep schedule\n2. Meal times\n3. Exercise\n4. Self-care\n\nWhat aspects would you like to focus on?"
+        }
+      ],
+      "contexts": ["routine-generation"]
+    },
+    {
+      "name": "Fun Zone Interaction",
+      "description": "Handles interactions with the fun zone features",
+      "trainingPhrases": [
+        "Show me something fun",
+        "Health games",
+        "Fun activities",
+        "Entertainment",
+        "Take a break"
+      ],
+      "responses": [
+        {
+          "text": "The Fun Zone offers:\n1. Health quizzes\n2. Wellness challenges\n3. Relaxation exercises\n4. Educational games\n\nWhat would you like to try?"
+        }
+      ],
+      "contexts": ["fun-zone"]
+    },
+    {
+      "name": "User Profile Management",
+      "description": "Handles profile-related requests",
+      "trainingPhrases": [
+        "Update my profile",
+        "Change my settings",
+        "View my health data",
+        "My information",
+        "Account details"
+      ],
+      "responses": [
+        {
+          "text": "You can manage your profile by:\n1. Viewing health history\n2. Updating personal details\n3. Setting preferences\n\nWould you like to go to your profile page?"
+        }
+      ],
+      "contexts": ["profile-management"]
+    },
+    {
+      "name": "Authentication Help",
+      "description": "Handles login/registration queries",
+      "trainingPhrases": [
+        "How do I login?",
+        "Register new account",
+        "Forgot password",
+        "Sign in help",
+        "Account recovery"
+      ],
+      "responses": [
+        {
+          "text": "For account help:\n1. Login at /login\n2. Register at /register\n3. Reset password option available\n\nWould you like me to direct you to the right page?"
+        }
+      ],
+      "contexts": ["authentication"]
+    },
+    {
+      "name": "Emergency Assistance",
+      "description": "Handles emergency situations",
+      "trainingPhrases": [
+        "Emergency!",
+        "I need help now",
+        "Call ambulance",
+        "Life threatening situation",
+        "Critical condition"
+      ],
+      "responses": [
+        {
+          "text": "🚨 For immediate medical emergencies, please call your local emergency number. I cannot provide emergency services.\n\nIf this is not life-threatening, please describe your symptoms so I can help appropriately."
+        }
+      ],
+      "contexts": ["emergency"]
+    },
+    {
+      "name": "General Health Advice",
+      "description": "Provides general wellness tips",
+      "trainingPhrases": [
+        "Health tips",
+        "Stay healthy",
+        "Wellness advice",
+        "Prevent illness",
+        "Healthy living"
+      ],
+      "responses": [
+        {
+          "text": "General health tips:\n1. Drink plenty of water\n2. Get 7-9 hours of sleep\n3. Eat balanced meals\n4. Exercise regularly\n5. Manage stress\n\nWould you like specific advice on any of these?"
+        }
+      ],
+      "contexts": ["general-health"]
+    },
+    {
+      "name": "Feature Explanation",
+      "description": "Explains what Symptowise can do",
+      "trainingPhrases": [
+        "What can you do?",
+        "Features",
+        "Capabilities",
+        "How can you help?",
+        "Services"
+      ],
+      "responses": [
+        {
+          "text": "Symptowise offers:\n\n🩺 Symptom Checker - Analyze symptoms\n🥗 Diet Plans - Personalized nutrition\n💪 Exercise Routines - Custom workouts\n👨‍⚕️ Doctor Consultations - Find specialists\n🧴 Skincare Advice - Personalized routines\n📅 Routine Generator - Daily health plans\n🎮 Fun Zone - Health games & activities\n\nWhat would you like to explore?"
+        }
+      ],
+      "contexts": ["feature-info"]
+    },
+    {
+      "name": "Technical Support",
+      "description": "Handles technical issues",
+      "trainingPhrases": [
+        "Not working",
+        "Bug report",
+        "Technical problem",
+        "Site error",
+        "Feature broken"
+      ],
+      "responses": [
+        {
+          "text": "For technical support:\n1. Try refreshing the page\n2. Clear browser cache\n3. Check your internet connection\n\nIf the issue persists, please describe the problem in detail for our team to investigate."
+        }
+      ],
+      "contexts": ["tech-support"]
+    },
+    {
+      "name": "Feedback Submission",
+      "description": "Handles user feedback",
+      "trainingPhrases": [
+        "I have feedback",
+        "Suggest improvement",
+        "Rate this service",
+        "Complaint",
+        "Review"
+      ],
+      "responses": [
+        {
+          "text": "We appreciate your feedback! Please share your thoughts about:\n1. What worked well\n2. What could be improved\n3. Any specific features\n\nYour input helps us enhance Symptowise."
+        }
+      ],
+      "contexts": ["feedback"]
+    },
+    {
+      "name": "Session End",
+      "description": "Handles conversation endings",
+      "trainingPhrases": [
+        "Bye",
+        "Goodbye",
+        "That's all",
+        "I'm done",
+        "Exit"
+      ],
+      "responses": [
+        {
+          "text": "Thank you for using Symptowise! Remember:\n1. Save your health data in your profile\n2. Consult a doctor for serious concerns\n3. Check back for daily health tips\n\nStay healthy! 👋"
+        }
+      ],
+      "contexts": ["session-end"]
+    }
+  ],
+  "entities": [
+    {
+      "name": "symptom",
+      "entries": [
+        {
+          "value": "headache",
+          "synonyms": ["head pain", "migraine", "head ache"]
+        },
+        {
+          "value": "fever",
+          "synonyms": ["high temperature", "pyrexia"]
+        },
+        {
+          "value": "cough",
+          "synonyms": ["coughing", "hacking", "dry cough"]
+        }
+      ]
+    },
+    {
+      "name": "severity",
+      "entries": [
+        {
+          "value": "mild",
+          "synonyms": ["slight", "minor", "low"]
+        },
+        {
+          "value": "moderate",
+          "synonyms": ["medium", "average", "middle"]
+        },
+        {
+          "value": "severe",
+          "synonyms": ["serious", "acute", "intense"]
+        }
+      ]
+    },
+    {
+      "name": "duration",
+      "entries": [
+        {
+          "value": "hours",
+          "synonyms": ["hour", "hrs"]
+        },
+        {
+          "value": "days",
+          "synonyms": ["day", "d"]
+        },
+        {
+          "value": "weeks",
+          "synonyms": ["week", "wks"]
+        }
+      ]
+    }
+  ],
+  "contexts": [
+    {
+      "name": "welcome",
+      "lifespan": 5
+    },
+    {
+      "name": "symptom-checking",
+      "lifespan": 10
+    },
+    {
+      "name": "awaiting-symptom-action",
+      "lifespan": 5
+    }
+  ]
+}

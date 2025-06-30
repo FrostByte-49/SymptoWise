@@ -1,0 +1,4376 @@
+{
+  "headache": {
+    "dietTips": [
+      "Stay hydrated with at least 8 glasses of water daily",
+      "Avoid caffeine and alcohol",
+      "Eat small, frequent meals to maintain stable blood sugar",
+      "Include magnesium-rich foods like nuts, seeds, and leafy greens"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply cold compress to forehead for 15 minutes",
+      "Rest in a dark, quiet room",
+      "Practice deep breathing or meditation",
+      "Gentle head massage focusing on temples"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get adequate sleep (7-9 hours)",
+        "Take short breaks from screen time",
+        "Stay in well-ventilated areas",
+        "Practice stress reduction techniques"
+      ],
+      "donts": [
+        "Avoid bright lights and loud noises",
+        "Don't skip meals",
+        "Avoid strong odors or perfumes",
+        "Don't strain your eyes with prolonged screen time"
+      ]
+    }
+  },
+  "cough": {
+    "dietTips": [
+      "Drink warm liquids like herbal teas with honey",
+      "Stay well-hydrated with water and clear broths",
+      "Consume vitamin C-rich foods like citrus fruits",
+      "Add ginger and turmeric to meals for anti-inflammatory benefits"
+    ],
+    "medications": [
+      {
+        "name": "Dextromethorphan",
+        "dosage": "10-20mg",
+        "timing": "Every 4 hours as needed for dry cough"
+      },
+      {
+        "name": "Guaifenesin",
+        "dosage": "200-400mg",
+        "timing": "Every 4 hours as needed for productive cough"
+      }
+    ],
+    "homeRemedies": [
+      "Use a humidifier in your room, especially at night",
+      "Gargle with warm salt water several times daily",
+      "Take a hot shower to breathe in steam",
+      "Try honey and lemon in warm water"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Rest your voice if coughing is causing soreness",
+        "Sleep with head slightly elevated",
+        "Stay home and rest when possible",
+        "Cover your mouth when coughing"
+      ],
+      "donts": [
+        "Don't smoke or be around smoke",
+        "Avoid cold beverages and foods",
+        "Don't suppress a productive cough completely",
+        "Avoid exposure to irritants like dust or strong cleaning products"
+      ]
+    }
+  },
+  "acne": {
+    "dietTips": [
+      "Increase consumption of omega-3 fatty acids (fish, flaxseeds)",
+      "Consume antioxidant-rich fruits and vegetables",
+      "Reduce dairy and high-glycemic index foods",
+      "Stay hydrated with at least 8 glasses of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Benzoyl Peroxide",
+        "dosage": "2.5-5% gel",
+        "timing": "Apply to affected areas once daily"
+      },
+      {
+        "name": "Salicylic Acid",
+        "dosage": "2% solution",
+        "timing": "Apply to affected areas twice daily"
+      }
+    ],
+    "homeRemedies": [
+      "Apply tea tree oil diluted with carrier oil to spots",
+      "Use honey as a natural face mask for 15-20 minutes",
+      "Apply aloe vera gel to reduce inflammation",
+      "Green tea extract as a toner or face mask"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash face twice daily with gentle cleanser",
+        "Change pillowcases 2-3 times weekly",
+        "Use non-comedogenic skincare and makeup products",
+        "Remove makeup completely before sleeping"
+      ],
+      "donts": [
+        "Don't pick or squeeze pimples",
+        "Avoid touching your face unnecessarily",
+        "Don't over-cleanse or use harsh products",
+        "Avoid greasy hair products that can contact skin"
+      ]
+    }
+  },
+  "cold": {
+    "dietTips": [
+      "Drink warm fluids (herbal teas, broth, warm water with honey)",
+      "Consume vitamin C-rich foods (oranges, bell peppers, kiwi)",
+      "Eat garlic & ginger (natural antiviral/antibacterial properties)",
+      "Avoid dairy if it increases mucus production"
+    ],
+    "medications": [
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours for fever/body aches"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "200-400mg",
+        "timing": "Every 6-8 hours for inflammation"
+      },
+      {
+        "name": "Decongestant (Pseudoephedrine)",
+        "dosage": "As per label",
+        "timing": "Short-term use for nasal congestion"
+      }
+    ],
+    "homeRemedies": [
+      "Gargle with warm salt water (3x/day for sore throat)",
+      "Use a humidifier to ease nasal congestion",
+      "Steam inhalation with eucalyptus oil (clears sinuses)",
+      "Elevate head with extra pillows while sleeping"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash hands frequently to prevent spread",
+        "Rest for 7-9 hours to boost immunity",
+        "Use disposable tissues (not reusable handkerchiefs)",
+        "Stay home if contagious"
+      ],
+      "donts": [
+        "Don't touch eyes/nose with unwashed hands",
+        "Avoid smoking or secondhand smoke",
+        "Don't overuse decongestant sprays (>3 days)",
+        "Avoid excessive physical exertion"
+      ]
+    }
+  },
+  "flu": {
+    "dietTips": [
+      "Drink plenty of fluids (water, herbal teas, broth) to prevent dehydration",
+      "Consume vitamin C-rich foods (oranges, bell peppers, kiwi) to support immunity",
+      "Eat easily digestible foods (bananas, rice, toast) if nauseated",
+      "Include garlic and ginger for their antiviral properties"
+    ],
+    "medications": [
+      {
+        "name": "Oseltamivir (Tamiflu)",
+        "dosage": "75mg",
+        "timing": "Twice daily for 5 days (must start within 48h of symptoms)",
+        "note": "Prescription required"
+      },
+      {
+        "name": "Acetaminophen (Tylenol)",
+        "dosage": "500-1000mg",
+        "timing": "Every 6 hours as needed for fever/aches",
+        "max": "4000mg/day"
+      },
+      {
+        "name": "Ibuprofen (Advil)",
+        "dosage": "200-400mg",
+        "timing": "Every 6-8 hours as needed",
+        "max": "1200mg/day"
+      }
+    ],
+    "homeRemedies": [
+      "Use a humidifier to ease congestion and sore throat",
+      "Gargle with warm salt water (1/2 tsp salt in 8oz water) 3x/day",
+      "Try honey (1-2 tsp) in warm tea to soothe throat (not for children under 1)",
+      "Apply warm compresses to sinus areas for congestion relief"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get plenty of rest (sleep 8-10 hours daily)",
+        "Stay home until fever-free for 24h without medication",
+        "Wash hands frequently with soap for 20 seconds",
+        "Use disposable tissues and discard immediately"
+      ],
+      "donts": [
+        "Don't take aspirin (risk of Reye's syndrome in children/teens)",
+        "Avoid alcohol (worsens dehydration)",
+        "Don't share utensils, towels, or pillows",
+        "Avoid strenuous exercise until fully recovered"
+      ]
+    }
+  },
+  "fever": {
+    "dietTips": [
+      "Drink plenty of fluids (water, oral rehydration solutions) to prevent dehydration",
+      "Consume easily digestible foods like bananas, rice, and toast (BRAT diet) if nauseous",
+      "Try coconut water or electrolyte drinks to replenish minerals",
+      "Eat vitamin C-rich fruits (oranges, kiwis) to support immunity",
+      "Have warm broths or soups for easy nutrition"
+    ],
+    "medications": [
+      {
+        "name": "Acetaminophen (Tylenol)",
+        "dosage": "500-1000mg",
+        "timing": "Every 6 hours as needed",
+        "note": "Max 4000mg/day"
+      },
+      {
+        "name": "Ibuprofen (Advil)",
+        "dosage": "200-400mg",
+        "timing": "Every 6-8 hours as needed",
+        "note": "Max 1200mg/day"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "325-650mg",
+        "timing": "Every 4-6 hours (Adults only)",
+        "warning": "Never give to children/teens (Reye's syndrome risk)"
+      }
+    ],
+    "homeRemedies": [
+      "Apply lukewarm (not cold) sponge baths to help reduce fever",
+      "Use damp washcloths on forehead, armpits, and groin area",
+      "Wear lightweight clothing and use a light blanket if shivering",
+      "Keep room temperature cool (around 70°F/21°C)",
+      "Try peppermint or chamomile tea for comfort"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Monitor temperature every 4-6 hours",
+        "Rest as much as possible",
+        "Change sweat-dampened clothes promptly",
+        "Use a fan for air circulation (not directly blowing)"
+      ],
+      "donts": [
+        "Don't bundle up in heavy blankets",
+        "Avoid alcohol rubs or ice baths",
+        "Don't take multiple fever-reducers simultaneously",
+        "Avoid caffeine (can worsen dehydration)"
+      ]
+    }
+  },
+  "fatigue": {
+    "dietTips": [
+      "Eat iron-rich foods (spinach, red meat, lentils) to combat potential anemia",
+      "Include complex carbohydrates (whole grains, oats) for sustained energy",
+      "Consume vitamin B12 sources (eggs, dairy, fortified cereals)",
+      "Stay hydrated with water and electrolyte drinks",
+      "Limit caffeine and sugar to avoid energy crashes"
+    ],
+    "medications": [
+      {
+        "name": "Multivitamin",
+        "dosage": "1 tablet",
+        "timing": "Daily with breakfast"
+      },
+      {
+        "name": "Iron supplement",
+        "dosage": "65mg elemental iron",
+        "timing": "Every other day (only if deficient)",
+        "note": "Take with vitamin C for absorption"
+      }
+    ],
+    "homeRemedies": [
+      "Take 10-15 minute power naps when needed",
+      "Practice deep breathing exercises 3x daily",
+      "Try gentle yoga or stretching in the morning",
+      "Establish a consistent sleep schedule",
+      "Use cold water splashes on face when fatigued"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get 7-9 hours of quality sleep nightly",
+        "Take short breaks every 90 minutes during work",
+        "Exercise moderately for 30 minutes daily",
+        "Expose yourself to natural light in mornings"
+      ],
+      "donts": [
+        "Don't skip breakfast",
+        "Avoid long daytime naps (>30 minutes)",
+        "Don't rely on energy drinks",
+        "Avoid screens 1 hour before bedtime"
+      ]
+    }
+  },
+  "dehydration": {
+    "dietTips": [
+      "Drink small amounts of water frequently (1-2 cups every 15-30 minutes)",
+      "Consume oral rehydration solutions (ORS) with proper electrolyte balance",
+      "Eat water-rich fruits (watermelon, oranges, strawberries)",
+      "Include broths or soups for sodium replacement",
+      "Try coconut water for natural electrolytes"
+    ],
+    "medications": [
+      {
+        "name": "Oral Rehydration Salts (ORS)",
+        "dosage": "1 packet in 1L clean water",
+        "timing": "Drink 2-3L over 24 hours"
+      },
+      {
+        "name": "Electrolyte tablets",
+        "dosage": "1 tablet in 500ml water",
+        "timing": "Every 2-3 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Suck on ice chips if unable to keep liquids down",
+      "Use a spray bottle to mist water on skin for cooling",
+      "Apply cool, wet cloths to neck and wrists",
+      "Measure urine color (aim for pale yellow)",
+      "Set phone reminders to drink water hourly"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Monitor for signs of severe dehydration (sunken eyes, no urine)",
+        "Drink before feeling thirsty",
+        "Increase fluids in hot weather or when ill",
+        "Weigh yourself daily if at risk (losing >2% body weight indicates dehydration)"
+      ],
+      "donts": [
+        "Don't drink only plain water for severe dehydration (need electrolytes)",
+        "Avoid alcohol and caffeine",
+        "Don't wait until you're thirsty to drink",
+        "Avoid strenuous exercise when dehydrated"
+      ]
+    }
+  },
+  "stress": {
+    "dietTips": [
+      "Increase magnesium-rich foods (spinach, almonds, avocados)",
+      "Consume omega-3 fatty acids (fatty fish, walnuts, flaxseeds)",
+      "Try chamomile or peppermint tea 2-3 times daily",
+      "Eat complex carbs (whole grains, sweet potatoes) to stabilize blood sugar",
+      "Limit caffeine and alcohol intake"
+    ],
+    "medications": [
+      {
+        "name": "Diphenhydramine (Benadryl)",
+        "dosage": "25-50mg",
+        "timing": "At bedtime as needed for sleep"
+      },
+      {
+        "name": "Magnesium supplement",
+        "dosage": "200-400mg",
+        "timing": "Daily with food"
+      }
+    ],
+    "homeRemedies": [
+      "Practice 4-7-8 breathing (inhale 4s, hold 7s, exhale 8s)",
+      "Try progressive muscle relaxation techniques",
+      "Use lavender essential oil (inhale or dilute for wrists)",
+      "Keep a gratitude journal and write daily",
+      "Take 10-minute walks in nature"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get 7-9 hours of quality sleep nightly",
+        "Establish a consistent daily routine",
+        "Limit news/social media consumption",
+        "Practice mindfulness for 5-10 minutes daily"
+      ],
+      "donts": [
+        "Don't isolate yourself from loved ones",
+        "Avoid procrastinating on important tasks",
+        "Don't neglect physical activity",
+        "Avoid late-night screen time"
+      ]
+    }
+  },
+  "insomnia": {
+    "dietTips": [
+      "Consume tryptophan-rich foods (turkey, milk, bananas) in evening",
+      "Try tart cherry juice (natural melatonin source) before bed",
+      "Eat magnesium-rich foods (almonds, spinach, pumpkin seeds) at dinner",
+      "Have light carb snack (whole grain toast) if hungry at night",
+      "Avoid heavy meals 3 hours before bedtime"
+    ],
+    "medications": [
+      {
+        "name": "Melatonin",
+        "dosage": "0.5-5mg",
+        "timing": "30-60 minutes before bedtime"
+      },
+      {
+        "name": "Diphenhydramine (Benadryl)",
+        "dosage": "25-50mg",
+        "timing": "At bedtime as needed (short-term use only)"
+      }
+    ],
+    "homeRemedies": [
+      "Establish consistent sleep/wake times (even weekends)",
+      "Try 4-7-8 breathing technique before bed",
+      "Use white noise machine or earplugs if noise-sensitive",
+      "Take warm bath (100-102°F) 1-2 hours before bed",
+      "Practice progressive muscle relaxation in bed"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Keep bedroom cool (60-67°F) and completely dark",
+        "Get sunlight exposure within 30 minutes of waking",
+        "Use bed only for sleep and intimacy",
+        "Establish pre-sleep routine (reading, light stretching)"
+      ],
+      "donts": [
+        "Don't check clock during night",
+        "Avoid screens 1 hour before bed",
+        "Don't nap after 3pm",
+        "Avoid caffeine after 2pm"
+      ]
+    }
+  },
+  "seasonalAllergies": {
+    "dietTips": [
+      "Consume local honey (may help build tolerance to pollen)",
+      "Increase quercetin-rich foods (apples, onions, berries)",
+      "Eat spicy foods (may help clear nasal passages)",
+      "Try probiotic foods (yogurt, kefir) to support immunity",
+      "Stay hydrated to thin mucus secretions"
+    ],
+    "medications": [
+      {
+        "name": "Loratadine (Claritin)",
+        "dosage": "10mg",
+        "timing": "Once daily"
+      },
+      {
+        "name": "Fluticasone nasal spray",
+        "dosage": "1-2 sprays per nostril",
+        "timing": "Once daily (takes 2-3 days to work)"
+      },
+      {
+        "name": "Artificial tears",
+        "dosage": "1-2 drops",
+        "timing": "As needed for itchy eyes"
+      }
+    ],
+    "homeRemedies": [
+      "Use saline nasal rinse (neti pot) daily",
+      "Apply cold compress to itchy eyes",
+      "Keep windows closed during high pollen counts",
+      "Shower and change clothes after being outdoors",
+      "Try steam inhalation with eucalyptus oil"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Check daily pollen forecasts",
+        "Wear sunglasses outdoors",
+        "Use HEPA air filters in bedroom",
+        "Wash bedding weekly in hot water"
+      ],
+      "donts": [
+        "Don't hang laundry outside to dry",
+        "Avoid outdoor activities in early morning (high pollen)",
+        "Don't rub itchy eyes (makes symptoms worse)",
+        "Avoid cigarette smoke (worsens symptoms)"
+      ]
+    }
+  },
+  "motionSickness": {
+    "dietTips": [
+      "Eat small, bland meals before travel (crackers, toast)",
+      "Try ginger (tea, candies, or capsules) before and during travel",
+      "Stay hydrated with small sips of water or clear fluids",
+      "Avoid heavy, greasy, or spicy foods before traveling",
+      "Suck on hard candies (peppermint or ginger) during motion"
+    ],
+    "medications": [
+      {
+        "name": "Dimenhydrinate (Dramamine)",
+        "dosage": "50-100mg",
+        "timing": "30-60 minutes before travel, repeat every 4-6 hours"
+      },
+      {
+        "name": "Meclizine (Bonine)",
+        "dosage": "25-50mg",
+        "timing": "1 hour before travel, once daily"
+      },
+      {
+        "name": "Scopolamine patch",
+        "dosage": "1.5mg",
+        "timing": "Apply behind ear 4 hours before travel, lasts 3 days"
+      }
+    ],
+    "homeRemedies": [
+      "Focus on distant stationary objects (horizon)",
+      "Sit in front seat of car or over wings in plane",
+      "Apply acupressure to P6 point (inner wrist)",
+      "Use peppermint or lavender oil for nausea",
+      "Keep head still against headrest"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Travel when well-rested",
+        "Choose seats with least motion (bus: front/middle; ship: middle/lower deck)",
+        "Get fresh air when possible",
+        "Take breaks during long trips"
+      ],
+      "donts": [
+        "Don't read or use screens while moving",
+        "Avoid facing backward during travel",
+        "Don't watch moving objects (waves, passing cars)",
+        "Avoid strong food odors during travel"
+      ]
+    }
+  },
+  "soreThroat": {
+    "dietTips": [
+      "Drink warm liquids (herbal teas, broth) frequently",
+      "Consume honey (1-2 tsp in warm water or tea) - not for children under 1",
+      "Eat cold or frozen treats (ice chips, popsicles) to numb pain",
+      "Try slippery elm lozenges or tea for throat coating",
+      "Avoid acidic foods (citrus, tomatoes) that may irritate"
+    ],
+    "medications": [
+      {
+        "name": "Acetaminophen (Tylenol)",
+        "dosage": "500-1000mg",
+        "timing": "Every 6 hours as needed"
+      },
+      {
+        "name": "Ibuprofen (Advil)",
+        "dosage": "200-400mg",
+        "timing": "Every 6-8 hours as needed"
+      },
+      {
+        "name": "Chloraseptic spray",
+        "dosage": "1 spray",
+        "timing": "Every 2 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Gargle with warm salt water (1/2 tsp salt in 8oz water) 3x daily",
+      "Use humidifier or steam inhalation to moisten throat",
+      "Try throat lozenges (menthol or benzocaine)",
+      "Rest voice as much as possible",
+      "Apply warm compress to neck"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Stay well-hydrated",
+        "Get plenty of rest",
+        "Wash hands frequently to prevent spread",
+        "Use clean humidifier daily"
+      ],
+      "donts": [
+        "Don't smoke or expose yourself to smoke",
+        "Avoid alcohol (dehydrates)",
+        "Don't share eating utensils or drinks",
+        "Avoid whispering (strains vocal cords more than talking)"
+      ]
+    }
+  },
+  "sinusitis": {
+    "dietTips": [
+      "Drink plenty of fluids (water, herbal teas) to thin mucus",
+      "Consume spicy foods (horseradish, chili peppers) to help clear sinuses",
+      "Eat vitamin C-rich foods (oranges, bell peppers) to boost immunity",
+      "Try warm broths or soups to soothe nasal passages",
+      "Include garlic and onions (natural antimicrobial properties)"
+    ],
+    "medications": [
+      {
+        "name": "Pseudoephedrine (Sudafed)",
+        "dosage": "30-60mg",
+        "timing": "Every 4-6 hours (max 240mg/day)"
+      },
+      {
+        "name": "Fluticasone nasal spray",
+        "dosage": "1-2 sprays per nostril",
+        "timing": "Once daily"
+      },
+      {
+        "name": "Saline nasal spray",
+        "dosage": "2-3 sprays per nostril",
+        "timing": "As needed throughout day"
+      }
+    ],
+    "homeRemedies": [
+      "Use neti pot with saline solution 1-2 times daily",
+      "Apply warm compresses to sinus areas 3-4 times daily",
+      "Try steam inhalation with eucalyptus or peppermint oil",
+      "Sleep with head elevated to promote drainage",
+      "Use humidifier in bedroom at night"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Blow nose gently, one nostril at a time",
+        "Stay hydrated to keep mucus thin",
+        "Get plenty of rest",
+        "Wash hands frequently to prevent spread"
+      ],
+      "donts": [
+        "Don't fly if possible (pressure changes worsen symptoms)",
+        "Avoid swimming in chlorinated pools",
+        "Don't overuse decongestant nasal sprays (>3 days)",
+        "Avoid cigarette smoke and pollutants"
+      ]
+    }
+  },
+  "asthma": {
+    "dietTips": [
+      "Eat omega-3 rich foods (salmon, flaxseeds) to reduce inflammation",
+      "Include magnesium-rich foods (spinach, pumpkin seeds) to support lung function",
+      "Consume vitamin D sources (fortified milk, eggs) for immune support",
+      "Try warm herbal teas (ginger, licorice root) to soothe airways",
+      "Avoid sulfite-containing foods (dried fruits, wine) that may trigger symptoms"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol inhaler",
+        "dosage": "2 puffs",
+        "timing": "Every 4-6 hours as needed for symptoms"
+      },
+      {
+        "name": "Fluticasone inhaler",
+        "dosage": "1-2 puffs",
+        "timing": "Twice daily for maintenance"
+      },
+      {
+        "name": "Montelukast (Singulair)",
+        "dosage": "10mg tablet",
+        "timing": "Once daily in evening"
+      }
+    ],
+    "homeRemedies": [
+      "Practice pursed-lip breathing during mild symptoms",
+      "Use steam inhalation with essential oils (eucalyptus)",
+      "Try caffeine (similar to theophylline) during mild attacks",
+      "Maintain good posture to maximize lung expansion",
+      "Use air purifier in bedroom"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Identify and avoid personal triggers (pollen, dust)",
+        "Get annual flu vaccine",
+        "Keep quick-relief inhaler accessible at all times",
+        "Monitor peak flow readings if recommended by doctor"
+      ],
+      "donts": [
+        "Don't ignore worsening symptoms",
+        "Avoid outdoor activities during high pollen/pollution days",
+        "Don't smoke or expose yourself to secondhand smoke",
+        "Avoid extremely cold air without covering mouth/nose"
+      ]
+    }
+  },
+  "pneumonia": {
+    "dietTips": [
+      "Drink plenty of fluids (water, herbal teas, broth) to loosen mucus",
+      "Consume protein-rich foods (lean meats, eggs, beans) for healing",
+      "Eat vitamin C-rich foods (citrus fruits, bell peppers) for immunity",
+      "Try warm honey-lemon water to soothe throat irritation",
+      "Include zinc sources (pumpkin seeds, chickpeas) for immune support"
+    ],
+    "medications": [
+      {
+        "name": "Azithromycin",
+        "dosage": "500mg",
+        "timing": "Once daily for 5 days (if bacterial)"
+      },
+      {
+        "name": "Amoxicillin",
+        "dosage": "500mg",
+        "timing": "Every 8 hours for 7-10 days"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500-1000mg",
+        "timing": "Every 6 hours for fever/pain"
+      }
+    ],
+    "homeRemedies": [
+      "Use humidifier to keep air moist",
+      "Practice deep breathing exercises hourly",
+      "Try chest percussion with caregiver assistance",
+      "Prop up with pillows to ease breathing",
+      "Gargle with warm salt water for throat comfort"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get plenty of rest",
+        "Take all prescribed antibiotics as directed",
+        "Monitor temperature daily",
+        "Practice good hand hygiene"
+      ],
+      "donts": [
+        "Don't suppress productive coughs completely",
+        "Avoid smoking or secondhand smoke",
+        "Don't overexert yourself",
+        "Avoid dairy if it thickens mucus"
+      ]
+    }
+  },
+  "tonsillitis": {
+    "dietTips": [
+      "Drink warm fluids like herbal teas or warm water with honey",
+      "Avoid spicy, acidic, or crunchy foods that may irritate the throat",
+      "Consume soft foods like soups, mashed potatoes, and yogurt",
+      "Stay hydrated with at least 8 glasses of water daily",
+      "Include immune-boosting foods like garlic, ginger, and citrus fruits"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "dosage": "500mg–1000mg",
+        "timing": "Every 4–6 hours as needed"
+      },
+      {
+        "name": "Amoxicillin",
+        "dosage": "500mg",
+        "timing": "Every 8 hours for 7–10 days (if prescribed by doctor)"
+      }
+    ],
+    "homeRemedies": [
+      "Gargle with warm salt water 2–3 times a day",
+      "Use a humidifier to keep the air moist",
+      "Suck on throat lozenges or ice chips for relief",
+      "Rest your voice and avoid speaking loudly",
+      "Inhale steam from hot water for 10–15 minutes"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get plenty of rest to help the body recover",
+        "Wash hands frequently to avoid spreading infection",
+        "Use a separate towel and utensils to prevent contagion",
+        "Consult a doctor if symptoms persist beyond a few days"
+      ],
+      "donts": [
+        "Avoid sharing food, drinks, or personal items",
+        "Don't smoke or expose yourself to smoke",
+        "Avoid cold or refrigerated foods and drinks if they worsen symptoms",
+        "Don't self-medicate with antibiotics without a prescription"
+      ]
+    }
+  },
+  "laryngitis": {
+    "dietTips": [
+      "Drink plenty of warm fluids like herbal teas and broths",
+      "Avoid caffeine and alcohol as they can dehydrate the vocal cords",
+      "Consume soothing foods like honey, ginger, and warm soups",
+      "Avoid spicy and acidic foods that may irritate the throat",
+      "Stay well-hydrated with at least 8 glasses of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "dosage": "500mg–1000mg",
+        "timing": "Every 4–6 hours as needed for pain or fever"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6–8 hours as needed to reduce inflammation"
+      }
+    ],
+    "homeRemedies": [
+      "Rest your voice completely—avoid whispering or speaking unnecessarily",
+      "Use a humidifier to keep your throat moist",
+      "Gargle with warm salt water 2–3 times a day",
+      "Inhale steam from hot water for 10–15 minutes",
+      "Suck on throat lozenges or honey for soothing relief"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Drink warm, non-caffeinated fluids regularly",
+        "Use handkerchiefs or tissues to cover your mouth when coughing",
+        "Rest adequately to support immune recovery",
+        "Keep the air around you moist with a humidifier"
+      ],
+      "donts": [
+        "Avoid talking, singing, or whispering excessively",
+        "Don't smoke or expose yourself to secondhand smoke",
+        "Avoid cold air or dry environments that irritate the throat",
+        "Don’t clear your throat forcefully as it strains the vocal cords"
+      ]
+    }
+  },
+  "hayFever": {
+    "dietTips": [
+      "Consume foods rich in vitamin C like oranges, bell peppers, and strawberries to support immune function",
+      "Include local honey in your diet to potentially reduce pollen sensitivity",
+      "Eat anti-inflammatory foods like turmeric, ginger, and leafy greens",
+      "Avoid dairy products if they worsen mucus production",
+      "Stay hydrated with at least 8 glasses of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Loratadine",
+        "dosage": "10mg",
+        "timing": "Once daily as needed"
+      },
+      {
+        "name": "Cetirizine",
+        "dosage": "10mg",
+        "timing": "Once daily as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Rinse nasal passages with a saline solution using a neti pot or spray",
+      "Keep windows closed during high pollen seasons",
+      "Use an air purifier to reduce indoor allergens",
+      "Apply a cold compress to the eyes to relieve itching and swelling"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Shower and change clothes after being outdoors to remove pollen",
+        "Vacuum and dust regularly to reduce indoor allergens",
+        "Use hypoallergenic bedding and pillow covers",
+        "Monitor daily pollen forecasts and stay indoors on high-pollen days"
+      ],
+      "donts": [
+        "Avoid going outside during early morning hours when pollen levels are highest",
+        "Don't hang laundry outdoors to dry during pollen season",
+        "Avoid smoking or exposure to strong odors and pollutants",
+        "Don't rub your eyes excessively, as it can worsen irritation"
+      ]
+    }
+  },
+  "covid19": {
+    "dietTips": [
+      "Stay hydrated with at least 8–10 glasses of water daily",
+      "Include immune-boosting foods like citrus fruits, garlic, ginger, and turmeric",
+      "Eat a balanced diet with plenty of vegetables, fruits, whole grains, and lean proteins",
+      "Avoid sugary, oily, and processed foods",
+      "Take warm fluids like soups and herbal teas to soothe the throat and support recovery"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "dosage": "500mg–1000mg",
+        "timing": "Every 4–6 hours as needed for fever and body aches"
+      },
+      {
+        "name": "Vitamin C",
+        "dosage": "500mg",
+        "timing": "Once or twice daily as advised"
+      }
+    ],
+    "homeRemedies": [
+      "Isolate yourself to prevent spreading the virus to others",
+      "Do steam inhalation 2–3 times a day to ease nasal congestion",
+      "Gargle with warm salt water to soothe a sore throat",
+      "Take adequate rest and sleep to help your body recover",
+      "Use a humidifier to ease breathing if you have a cough or congestion"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wear a mask if you're around others, even at home",
+        "Monitor oxygen levels regularly with a pulse oximeter",
+        "Disinfect commonly touched surfaces frequently",
+        "Consult a healthcare provider if symptoms worsen or persist"
+      ],
+      "donts": [
+        "Don't ignore symptoms like breathlessness or chest pain—seek medical attention",
+        "Avoid close contact with others, especially vulnerable individuals",
+        "Don't self-medicate with antibiotics or steroids without a doctor's advice",
+        "Avoid smoking and alcohol as they can worsen respiratory symptoms"
+      ]
+    }
+  },
+  "diarrhea": {
+    "dietTips": [
+      "Drink plenty of fluids like water, clear broths, and oral rehydration solutions to prevent dehydration",
+      "Follow the BRAT diet: Bananas, Rice, Applesauce, and Toast",
+      "Avoid dairy products, greasy, spicy, and high-fiber foods until recovery",
+      "Eat small, frequent meals that are easy to digest",
+      "Include probiotics like yogurt (if tolerated) or probiotic supplements to restore gut flora"
+    ],
+    "medications": [
+      {
+        "name": "ORS (Oral Rehydration Salts)",
+        "dosage": "As per packet instructions",
+        "timing": "After every loose stool"
+      },
+      {
+        "name": "Loperamide",
+        "dosage": "2mg",
+        "timing": "Initially 2 tablets, then 1 tablet after each loose stool (max 8 per day)"
+      }
+    ],
+    "homeRemedies": [
+      "Consume mashed bananas and plain rice to help firm up stools",
+      "Drink ginger or chamomile tea to soothe the digestive tract",
+      "Avoid caffeine and alcohol as they can worsen symptoms",
+      "Use a hot water bag on the stomach for abdominal cramps",
+      "Rest adequately to help your body recover"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash hands frequently, especially after using the toilet and before eating",
+        "Maintain good hygiene and clean contaminated surfaces",
+        "Continue eating bland foods to provide energy and nutrients",
+        "Consult a doctor if diarrhea persists for more than 2 days or if there’s blood in stool"
+      ],
+      "donts": [
+        "Don't consume raw or undercooked foods",
+        "Avoid milk and dairy products if they worsen symptoms",
+        "Don't ignore signs of dehydration like dry mouth, dizziness, or reduced urination",
+        "Avoid self-medicating with antibiotics unless prescribed"
+      ]
+    }
+  },
+  "constipation": {
+    "dietTips": [
+      "Increase intake of high-fiber foods like fruits, vegetables, whole grains, and legumes",
+      "Drink at least 8–10 glasses of water daily to soften stools",
+      "Include natural laxatives like prunes, figs, and papaya",
+      "Limit processed foods, red meat, and dairy which can worsen constipation",
+      "Start the day with a warm glass of water or lemon water to stimulate digestion"
+    ],
+    "medications": [
+      {
+        "name": "Psyllium Husk (Isabgol)",
+        "dosage": "1–2 teaspoons",
+        "timing": "Once daily with warm water, preferably at night"
+      },
+      {
+        "name": "Lactulose",
+        "dosage": "15–30ml",
+        "timing": "Once daily or as directed by a doctor"
+      }
+    ],
+    "homeRemedies": [
+      "Establish a regular toilet routine, preferably after meals",
+      "Engage in daily physical activity like walking or yoga",
+      "Drink warm fluids, especially in the morning",
+      "Apply a warm compress to the abdomen to ease discomfort",
+      "Massage the abdomen in a clockwise direction to encourage bowel movement"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Chew food slowly and thoroughly",
+        "Create a consistent eating and toilet schedule",
+        "Incorporate regular exercise into your routine",
+        "Consult a doctor if constipation lasts more than a week"
+      ],
+      "donts": [
+        "Don't ignore the urge to have a bowel movement",
+        "Avoid excessive use of over-the-counter laxatives",
+        "Don’t consume foods low in fiber and high in fat regularly",
+        "Avoid holding in stools, which can worsen the condition"
+      ]
+    }
+  },
+  "foodPoisoning": {
+    "dietTips": [
+      "Drink plenty of fluids like water, clear broths, and oral rehydration solutions to prevent dehydration",
+      "Start with bland, easy-to-digest foods like toast, rice, bananas, and applesauce",
+      "Avoid spicy, greasy, dairy-based, and high-fiber foods during recovery",
+      "Eat small, frequent meals as your appetite returns",
+      "Include probiotic-rich foods like plain yogurt (if tolerated) to restore gut balance"
+    ],
+    "medications": [
+      {
+        "name": "ORS (Oral Rehydration Salts)",
+        "dosage": "As per packet instructions",
+        "timing": "After every episode of vomiting or diarrhea"
+      },
+      {
+        "name": "Domperidone",
+        "dosage": "10mg",
+        "timing": "Three times a day before meals to relieve nausea"
+      }
+    ],
+    "homeRemedies": [
+      "Sip fluids slowly throughout the day to stay hydrated",
+      "Rest as much as possible to help your body fight the infection",
+      "Use ginger tea or peppermint tea to ease nausea",
+      "Apply a hot water bag to the stomach for cramps",
+      "Avoid solid food for the first few hours, then gradually reintroduce bland foods"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash hands thoroughly before eating and after using the toilet",
+        "Ensure all food is cooked properly and stored at the correct temperature",
+        "Clean and disinfect kitchen surfaces and utensils regularly",
+        "Consult a doctor if symptoms persist more than 2 days or if there's blood in vomit/stool"
+      ],
+      "donts": [
+        "Don’t eat raw or undercooked meat, eggs, or seafood",
+        "Avoid caffeine, alcohol, and carbonated drinks during recovery",
+        "Don’t take anti-diarrheal medicine without consulting a doctor",
+        "Avoid dairy and high-fat foods which can irritate the stomach further"
+      ]
+    }
+  },
+  "acidReflux": {
+    "dietTips": [
+      "Eat smaller, more frequent meals instead of large ones",
+      "Avoid trigger foods like spicy, fatty, and fried items, chocolate, citrus, tomatoes, garlic, and onions",
+      "Limit or avoid caffeine and carbonated beverages",
+      "Stay upright for at least 2–3 hours after eating",
+      "Include alkaline and soothing foods like oatmeal, bananas, ginger, and green vegetables"
+    ],
+    "medications": [
+      {
+        "name": "Pantoprazole",
+        "dosage": "40mg",
+        "timing": "Once daily, 30 minutes before breakfast"
+      },
+      {
+        "name": "Antacids (e.g., Gelusil)",
+        "dosage": "1–2 teaspoons or tablets",
+        "timing": "After meals or as needed for immediate relief"
+      }
+    ],
+    "homeRemedies": [
+      "Elevate the head of your bed by 6–8 inches to prevent nighttime reflux",
+      "Drink warm water with a teaspoon of honey and a few drops of ginger juice",
+      "Chew sugar-free gum after meals to stimulate saliva production",
+      "Wear loose-fitting clothes to avoid abdominal pressure",
+      "Practice deep breathing or relaxation techniques to manage stress"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Eat meals at least 3 hours before bedtime",
+        "Maintain a healthy weight to reduce abdominal pressure",
+        "Keep a food diary to track and avoid personal triggers",
+        "Stay physically active, but avoid strenuous activity right after meals"
+      ],
+      "donts": [
+        "Don’t lie down immediately after eating",
+        "Avoid smoking and alcohol, as they relax the lower esophageal sphincter",
+        "Don’t overeat or eat in a hurry",
+        "Avoid drinking large amounts of fluids with meals"
+      ]
+    }
+  },
+  "stomachFlu": {
+    "dietTips": [
+      "Stay hydrated with water, clear broths, and oral rehydration solutions",
+      "Follow the BRAT diet: Bananas, Rice, Applesauce, and Toast",
+      "Avoid dairy, spicy, oily, and high-fiber foods until recovery",
+      "Eat small, frequent meals that are easy on the stomach",
+      "Gradually reintroduce bland, soft foods as symptoms improve"
+    ],
+    "medications": [
+      {
+        "name": "ORS (Oral Rehydration Salts)",
+        "dosage": "As per packet instructions",
+        "timing": "After each episode of diarrhea or vomiting"
+      },
+      {
+        "name": "Paracetamol",
+        "dosage": "500mg–1000mg",
+        "timing": "Every 4–6 hours as needed for fever or body aches"
+      }
+    ],
+    "homeRemedies": [
+      "Sip fluids slowly throughout the day to stay hydrated",
+      "Use ginger or peppermint tea to reduce nausea and vomiting",
+      "Apply a warm compress to the stomach to relieve cramps",
+      "Get plenty of rest to support recovery",
+      "Avoid solid foods during the first few hours, then ease into bland foods"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash hands frequently to prevent spreading the infection",
+        "Disinfect commonly touched surfaces regularly",
+        "Stay home and rest to avoid infecting others",
+        "Seek medical attention if symptoms persist more than 2–3 days or if signs of dehydration appear"
+      ],
+      "donts": [
+        "Don’t consume raw or undercooked foods",
+        "Avoid caffeine, alcohol, and carbonated beverages",
+        "Don’t self-medicate with antibiotics unless prescribed",
+        "Avoid solid food too soon if you're still vomiting or have severe diarrhea"
+      ]
+    }
+  },
+
+  "irritableBowelSyndrome": {
+    "dietTips": [
+      "Eat smaller, regular meals and avoid large, heavy meals",
+      "Identify and avoid trigger foods such as caffeine, alcohol, spicy foods, and high-fat items",
+      "Increase soluble fiber intake through foods like oats, bananas, carrots, and apples",
+      "Avoid insoluble fiber (like bran) if it worsens symptoms",
+      "Consider a low-FODMAP diet under guidance to reduce bloating and gas"
+    ],
+    "medications": [
+      {
+        "name": "Mebeverine",
+        "dosage": "135mg",
+        "timing": "Three times daily before meals for abdominal cramps"
+      },
+      {
+        "name": "Loperamide",
+        "dosage": "2mg",
+        "timing": "As needed for diarrhea (max 8mg/day unless otherwise advised)"
+      }
+    ],
+    "homeRemedies": [
+      "Apply a hot water bottle to the abdomen to relieve cramps",
+      "Practice regular yoga or stretching to aid digestion and reduce stress",
+      "Drink peppermint tea to help with bloating and cramping",
+      "Keep a food diary to track triggers and patterns",
+      "Use mindfulness or deep-breathing techniques to manage stress"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Exercise regularly to support digestion and reduce stress",
+        "Stay hydrated with at least 8 glasses of water daily",
+        "Eat slowly and chew food thoroughly",
+        "Consult a doctor for personalized dietary and treatment plans"
+      ],
+      "donts": [
+        "Don't skip meals or eat erratically",
+        "Avoid excessive caffeine, alcohol, and fizzy drinks",
+        "Don't overuse laxatives or antidiarrheal medications without guidance",
+        "Avoid high-gas foods like beans, cabbage, and onions if they trigger symptoms"
+      ]
+    }
+  },
+  "nauseaVomiting": {
+    "dietTips": [
+      "Drink clear fluids like water, ginger ale, or oral rehydration solutions in small sips",
+      "Eat bland, easy-to-digest foods like crackers, toast, bananas, and rice once vomiting subsides",
+      "Avoid greasy, spicy, or heavy foods until fully recovered",
+      "Eat small, frequent meals instead of large meals",
+      "Include ginger in your diet, such as ginger tea or ginger candies, to help reduce nausea"
+    ],
+    "medications": [
+      {
+        "name": "Ondansetron",
+        "dosage": "4mg",
+        "timing": "Every 8 hours as prescribed for severe nausea"
+      },
+      {
+        "name": "Dimenhydrinate",
+        "dosage": "50mg",
+        "timing": "Every 4-6 hours as needed for motion sickness or mild nausea"
+      }
+    ],
+    "homeRemedies": [
+      "Rest in a quiet, well-ventilated room",
+      "Practice deep breathing exercises to reduce nausea",
+      "Use acupressure on the wrist (P6 point) to help control vomiting",
+      "Apply a cool compress to the forehead or back of the neck",
+      "Avoid strong odors and stuffy environments"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Sip fluids slowly to stay hydrated",
+        "Avoid sudden movements or strenuous activity",
+        "Eat foods at room temperature rather than hot or cold",
+        "Seek medical attention if vomiting persists more than 24 hours or if there are signs of dehydration"
+      ],
+      "donts": [
+        "Don't eat solid foods until vomiting stops",
+        "Avoid alcohol, caffeine, and carbonated drinks",
+        "Don't lie flat after eating or drinking",
+        "Avoid strong smells or environments that trigger nausea"
+      ]
+    }
+  },
+  "indigestion": {
+    "dietTips": [
+      "Eat smaller, more frequent meals rather than large heavy ones",
+      "Avoid spicy, fatty, and fried foods that can irritate the stomach",
+      "Limit caffeine, carbonated drinks, and alcohol",
+      "Include fiber-rich foods like whole grains, fruits, and vegetables to aid digestion",
+      "Chew food thoroughly and eat slowly to reduce digestive strain"
+    ],
+    "medications": [
+      {
+        "name": "Antacids (e.g., Aluminum hydroxide)",
+        "dosage": "1–2 teaspoons or tablets",
+        "timing": "After meals or as needed for relief"
+      },
+      {
+        "name": "Simethicone",
+        "dosage": "80mg",
+        "timing": "After meals to reduce bloating and gas"
+      }
+    ],
+    "homeRemedies": [
+      "Drink warm water with lemon in the morning to stimulate digestion",
+      "Avoid lying down immediately after meals; stay upright for at least 2 hours",
+      "Practice gentle abdominal massage to relieve discomfort",
+      "Try herbal teas like ginger or peppermint to soothe the stomach",
+      "Maintain regular physical activity to promote healthy digestion"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Eat meals at regular intervals",
+        "Stay hydrated with plenty of water",
+        "Manage stress through relaxation techniques",
+        "Consult a doctor if indigestion persists or worsens"
+      ],
+      "donts": [
+        "Don't overeat or eat too quickly",
+        "Avoid smoking and excessive alcohol consumption",
+        "Don't consume very hot or very cold foods immediately after each other",
+        "Avoid carbonated beverages and gas-forming foods"
+      ]
+    }
+  },
+  "hemorrhoids": {
+    "dietTips": [
+      "Increase fiber intake with fruits, vegetables, whole grains, and legumes to soften stools",
+      "Drink plenty of water (at least 8 glasses daily) to prevent constipation",
+      "Avoid spicy and processed foods that can irritate hemorrhoids",
+      "Eat small, frequent meals to maintain regular bowel movements",
+      "Include foods rich in flavonoids like berries and citrus fruits to strengthen blood vessels"
+    ],
+    "medications": [
+      {
+        "name": "Hydrocortisone cream",
+        "dosage": "Apply a thin layer",
+        "timing": "2-3 times daily to reduce inflammation and itching"
+      },
+      {
+        "name": "Witch hazel pads",
+        "dosage": "Use as needed",
+        "timing": "Apply after bowel movements for soothing relief"
+      }
+    ],
+    "homeRemedies": [
+      "Take warm sitz baths for 15-20 minutes several times a day to relieve pain and swelling",
+      "Use cold compresses to reduce swelling and discomfort",
+      "Avoid straining during bowel movements",
+      "Keep the anal area clean and dry",
+      "Practice gentle anal massage to improve blood flow"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Maintain regular bowel habits and avoid prolonged sitting on the toilet",
+        "Exercise regularly to promote healthy digestion",
+        "Use soft, unscented toilet paper or moist wipes",
+        "Wear loose-fitting cotton underwear"
+      ],
+      "donts": [
+        "Don't delay bowel movements or hold in stool",
+        "Avoid heavy lifting and strenuous activity",
+        "Don't use harsh soaps or irritants around the anal area",
+        "Avoid prolonged sitting or standing without breaks"
+      ]
+    }
+  },
+  "ulcers": {
+    "dietTips": [
+      "Eat smaller, frequent meals to avoid stomach acid buildup",
+      "Avoid spicy, acidic, and fried foods that can irritate the ulcer",
+      "Limit caffeine, alcohol, and carbonated drinks",
+      "Include foods rich in fiber like fruits, vegetables, and whole grains",
+      "Consume probiotic-rich foods like yogurt to promote gut health"
+    ],
+    "medications": [
+      {
+        "name": "Omeprazole",
+        "dosage": "20mg",
+        "timing": "Once daily before breakfast to reduce stomach acid"
+      },
+      {
+        "name": "Antacids",
+        "dosage": "As per instructions",
+        "timing": "After meals and at bedtime for symptom relief"
+      }
+    ],
+    "homeRemedies": [
+      "Avoid eating late at night to reduce acid reflux",
+      "Manage stress with relaxation techniques such as meditation or yoga",
+      "Avoid smoking as it delays ulcer healing",
+      "Drink aloe vera juice in small amounts to soothe the stomach lining",
+      "Use honey to help coat and protect the stomach lining"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take medications as prescribed by your doctor",
+        "Maintain a balanced diet and healthy lifestyle",
+        "Stay hydrated throughout the day",
+        "Seek medical advice if symptoms worsen or persist"
+      ],
+      "donts": [
+        "Don't consume NSAIDs without medical supervision",
+        "Avoid spicy and acidic foods",
+        "Don't smoke or consume alcohol",
+        "Avoid stress and get adequate sleep"
+      ]
+    }
+  },
+  "bronchitis": {
+    "dietTips": [
+      "Drink plenty of fluids like water, herbal teas, and clear broths to stay hydrated",
+      "Eat foods rich in antioxidants such as fruits and vegetables to support immune health",
+      "Include warm soups and stews to soothe the throat",
+      "Avoid dairy if it increases mucus production",
+      "Consume honey to help soothe the throat"
+    ],
+    "medications": [
+      {
+        "name": "Cough suppressants (e.g., Dextromethorphan)",
+        "dosage": "10-20mg",
+        "timing": "Every 4-6 hours as needed"
+      },
+      {
+        "name": "Bronchodilators (e.g., Albuterol inhaler)",
+        "dosage": "As prescribed",
+        "timing": "Use as directed to open airways"
+      }
+    ],
+    "homeRemedies": [
+      "Use a humidifier or inhale steam to loosen mucus",
+      "Rest in a comfortable position and avoid exertion",
+      "Gargle with warm salt water to reduce throat irritation",
+      "Avoid exposure to smoke and other irritants",
+      "Practice controlled breathing exercises to ease breathing"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get adequate rest and sleep",
+        "Stay hydrated throughout the day",
+        "Cover your mouth when coughing to prevent spread",
+        "Consult a healthcare provider if symptoms worsen or last more than 3 weeks"
+      ],
+      "donts": [
+        "Don't smoke or expose yourself to secondhand smoke",
+        "Avoid cold air and sudden temperature changes",
+        "Don't ignore persistent cough or breathing difficulties",
+        "Avoid using antibiotics unless prescribed by a doctor"
+      ]
+    }
+  },
+  "eczema": {
+    "dietTips": [
+      "Include anti-inflammatory foods like fatty fish, flaxseeds, and walnuts",
+      "Avoid common food triggers such as dairy, nuts, or gluten if sensitive",
+      "Stay hydrated by drinking plenty of water throughout the day",
+      "Eat foods rich in antioxidants like berries, spinach, and sweet potatoes",
+      "Consider probiotics to support skin health"
+    ],
+    "medications": [
+      {
+        "name": "Topical corticosteroids",
+        "dosage": "Apply thin layer",
+        "timing": "Once or twice daily as prescribed"
+      },
+      {
+        "name": "Moisturizers/emollients",
+        "dosage": "Apply generously",
+        "timing": "Several times a day to keep skin hydrated"
+      }
+    ],
+    "homeRemedies": [
+      "Take lukewarm baths with colloidal oatmeal to soothe skin",
+      "Use gentle, fragrance-free soaps and detergents",
+      "Apply cool compresses to reduce itching and inflammation",
+      "Wear soft, breathable cotton clothing",
+      "Avoid scratching to prevent infection"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Keep skin moisturized regularly",
+        "Maintain a consistent skincare routine",
+        "Avoid known allergens and irritants",
+        "Use humidifiers in dry environments to prevent skin dryness"
+      ],
+      "donts": [
+        "Don't use harsh soaps or scented products",
+        "Avoid hot showers or baths that dry out skin",
+        "Don't scratch affected areas",
+        "Avoid extreme temperatures and sweating"
+      ]
+    }
+  },
+  "psoriasis": {
+    "dietTips": [
+      "Include anti-inflammatory foods such as fatty fish, fruits, and vegetables",
+      "Avoid processed foods, red meat, and dairy if they trigger symptoms",
+      "Stay hydrated by drinking plenty of water daily",
+      "Incorporate foods rich in omega-3 fatty acids like flaxseeds and walnuts",
+      "Limit alcohol consumption as it may worsen flare-ups"
+    ],
+    "medications": [
+      {
+        "name": "Topical corticosteroids",
+        "dosage": "Apply as prescribed",
+        "timing": "Once or twice daily"
+      },
+      {
+        "name": "Vitamin D analogs (e.g., Calcipotriene)",
+        "dosage": "Apply thin layer",
+        "timing": "Once daily"
+      }
+    ],
+    "homeRemedies": [
+      "Take regular lukewarm baths with added oatmeal or Epsom salts",
+      "Moisturize skin frequently to prevent dryness",
+      "Avoid scratching to reduce skin damage",
+      "Use gentle, fragrance-free skin care products",
+      "Manage stress through relaxation techniques such as meditation or yoga"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow a consistent skincare routine",
+        "Protect skin from excessive sun exposure",
+        "Seek medical advice for flare-ups or worsening symptoms",
+        "Maintain a balanced diet and healthy lifestyle"
+      ],
+      "donts": [
+        "Avoid harsh soaps and detergents",
+        "Don't scratch or pick at psoriasis plaques",
+        "Avoid smoking and excessive alcohol intake",
+        "Don't expose skin to extreme temperatures"
+      ]
+    }
+  },
+  "hivesUrticaria": {
+    "dietTips": [
+      "Avoid known food allergens such as nuts, shellfish, eggs, and dairy if sensitive",
+      "Eat fresh, unprocessed foods to reduce potential triggers",
+      "Stay hydrated by drinking plenty of water",
+      "Limit intake of alcohol and caffeinated beverages",
+      "Include anti-inflammatory foods like leafy greens and berries"
+    ],
+    "medications": [
+      {
+        "name": "Antihistamines (e.g., Loratadine)",
+        "dosage": "10mg",
+        "timing": "Once daily or as directed"
+      },
+      {
+        "name": "Calamine lotion",
+        "dosage": "Apply topically",
+        "timing": "As needed to relieve itching"
+      }
+    ],
+    "homeRemedies": [
+      "Apply cool compresses to affected areas to reduce itching and swelling",
+      "Wear loose, breathable clothing to avoid irritation",
+      "Take lukewarm baths with colloidal oatmeal to soothe skin",
+      "Avoid scratching to prevent skin damage and infection",
+      "Manage stress through relaxation techniques like deep breathing"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Identify and avoid triggers whenever possible",
+        "Keep skin moisturized to prevent dryness",
+        "Seek medical advice if hives persist more than a few days",
+        "Use gentle skin care products without fragrance"
+      ],
+      "donts": [
+        "Don't scratch or rub the affected skin",
+        "Avoid hot showers or baths that can worsen itching",
+        "Don't consume alcohol or caffeine if they worsen symptoms",
+        "Avoid tight clothing and harsh detergents"
+      ]
+    }
+  },
+  "sunburn": {
+    "dietTips": [
+      "Stay hydrated by drinking plenty of water throughout the day",
+      "Include foods rich in antioxidants like berries, tomatoes, and leafy greens",
+      "Eat vitamin C-rich foods such as oranges and strawberries to support skin repair",
+      "Consume foods high in omega-3 fatty acids like salmon and flaxseeds to reduce inflammation",
+      "Avoid alcohol and caffeine which can dehydrate the skin"
+    ],
+    "medications": [
+      {
+        "name": "Aloe vera gel",
+        "dosage": "Apply generously",
+        "timing": "Several times daily to soothe skin"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain and inflammation"
+      }
+    ],
+    "homeRemedies": [
+      "Take cool baths or showers to relieve pain and heat",
+      "Apply cold compresses to affected areas for 15-20 minutes",
+      "Wear loose, soft clothing to avoid irritating the skin",
+      "Avoid further sun exposure until healed",
+      "Keep the skin moisturized with fragrance-free lotions"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Stay out of the sun during peak hours (10 am to 4 pm)",
+        "Use sunscreen with at least SPF 30 when going outdoors",
+        "Drink plenty of fluids to prevent dehydration",
+        "Seek medical help if blistering or severe pain occurs"
+      ],
+      "donts": [
+        "Don't use harsh soaps or exfoliants on sunburned skin",
+        "Avoid hot showers or baths that can worsen irritation",
+        "Don't scratch or peel peeling skin",
+        "Avoid sun exposure until the skin fully heals"
+      ]
+    }
+  },
+  "dandruff": {
+    "dietTips": [
+      "Include foods rich in zinc such as nuts and seeds to support scalp health",
+      "Consume omega-3 fatty acids found in fish and flaxseeds to reduce inflammation",
+      "Eat a balanced diet with plenty of fruits and vegetables",
+      "Stay hydrated by drinking adequate water daily",
+      "Avoid excessive sugar and processed foods"
+    ],
+    "medications": [
+      {
+        "name": "Anti-dandruff shampoo (e.g., Ketoconazole, Selenium sulfide)",
+        "dosage": "Use as directed",
+        "timing": "2-3 times per week"
+      },
+      {
+        "name": "Topical corticosteroids",
+        "dosage": "Apply a thin layer",
+        "timing": "As prescribed for severe itching"
+      }
+    ],
+    "homeRemedies": [
+      "Massage scalp regularly to improve circulation",
+      "Rinse hair with diluted apple cider vinegar to balance scalp pH",
+      "Avoid excessive use of hair styling products",
+      "Keep scalp clean and dry",
+      "Limit washing hair with very hot water"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Use gentle shampoos suitable for your scalp type",
+        "Maintain regular hair washing routine",
+        "Avoid scratching or picking at the scalp",
+        "Protect scalp from excessive sun exposure"
+      ],
+      "donts": [
+        "Don't use harsh hair products or dyes frequently",
+        "Avoid stress as it can worsen dandruff",
+        "Don't share combs or hats to prevent infections",
+        "Avoid excessive heat styling that can irritate scalp"
+      ]
+    }
+  },
+  "athletesFoot": {
+    "dietTips": [
+      "Maintain a balanced diet to support immune health",
+      "Include foods rich in probiotics like yogurt to promote gut health",
+      "Eat garlic and ginger for their natural antifungal properties",
+      "Stay hydrated by drinking plenty of water",
+      "Limit sugar intake as high sugar can encourage fungal growth"
+    ],
+    "medications": [
+      {
+        "name": "Topical antifungal creams (e.g., Clotrimazole)",
+        "dosage": "Apply thin layer",
+        "timing": "Twice daily for 2-4 weeks"
+      },
+      {
+        "name": "Antifungal powders or sprays",
+        "dosage": "Use as directed",
+        "timing": "Apply to feet and shoes regularly"
+      }
+    ],
+    "homeRemedies": [
+      "Keep feet clean and dry, especially between toes",
+      "Wear breathable socks and change them daily",
+      "Avoid walking barefoot in public areas like pools and locker rooms",
+      "Soak feet in diluted vinegar or salt water to reduce fungal growth",
+      "Use separate towels for feet and other body parts"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash feet daily with soap and water",
+        "Dry feet thoroughly after washing",
+        "Wear well-ventilated shoes to prevent moisture buildup",
+        "Replace old shoes to avoid reinfection"
+      ],
+      "donts": [
+        "Don't share shoes, socks, or towels",
+        "Avoid tight, non-breathable footwear",
+        "Don't walk barefoot in communal areas",
+        "Avoid scratching affected areas to prevent spread"
+      ]
+    }
+  },
+  "ringworm": {
+    "dietTips": [
+      "Eat a balanced diet rich in vitamins and minerals to support skin health",
+      "Include antifungal foods like garlic, coconut oil, and ginger",
+      "Stay hydrated by drinking plenty of water",
+      "Limit sugar and processed foods that can promote fungal growth",
+      "Consume probiotics such as yogurt to help maintain healthy skin flora"
+    ],
+    "medications": [
+      {
+        "name": "Topical antifungal creams (e.g., Terbinafine)",
+        "dosage": "Apply thin layer",
+        "timing": "Twice daily for 2-4 weeks"
+      },
+      {
+        "name": "Oral antifungal medication",
+        "dosage": "As prescribed by doctor",
+        "timing": "Usually for severe or widespread infections"
+      }
+    ],
+    "homeRemedies": [
+      "Keep the affected area clean and dry",
+      "Avoid sharing towels, clothes, or personal items",
+      "Wear loose, breathable clothing",
+      "Apply coconut oil to soothe and fight fungus",
+      "Wash clothes and bedding regularly in hot water"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Maintain good personal hygiene",
+        "Disinfect surfaces and personal items regularly",
+        "Seek medical advice if symptoms persist or worsen",
+        "Use antifungal treatments as directed until fully healed"
+      ],
+      "donts": [
+        "Don't scratch or pick the infected area",
+        "Avoid tight or non-breathable clothing",
+        "Don't share personal items such as towels or clothing",
+        "Avoid excessive moisture on the affected skin"
+      ]
+    }
+  },
+  "coldSoresHerpesSimplex": {
+    "dietTips": [
+      "Consume foods rich in lysine such as yogurt, cheese, and fish to help reduce outbreaks",
+      "Avoid foods high in arginine like nuts, chocolate, and seeds which may trigger flare-ups",
+      "Stay hydrated by drinking plenty of water",
+      "Include immune-boosting foods like citrus fruits, leafy greens, and garlic",
+      "Limit intake of processed foods and sugar"
+    ],
+    "medications": [
+      {
+        "name": "Antiviral creams (e.g., Acyclovir)",
+        "dosage": "Apply thin layer",
+        "timing": "5 times daily at first sign of outbreak"
+      },
+      {
+        "name": "Oral antiviral medications",
+        "dosage": "As prescribed",
+        "timing": "Usually 5 days or as directed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply cold compresses to reduce pain and swelling",
+      "Keep the affected area clean and dry",
+      "Avoid touching or picking the sores",
+      "Use lip balms with sunscreen to protect from sun-induced outbreaks",
+      "Rest and manage stress to support immune system"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Practice good hand hygiene",
+        "Avoid close contact with others during outbreaks",
+        "Use separate towels and utensils",
+        "Seek medical advice for frequent or severe outbreaks"
+      ],
+      "donts": [
+        "Don't share personal items like lip balm or razors",
+        "Avoid kissing or oral contact during active sores",
+        "Don't pick or scratch sores to prevent spreading",
+        "Avoid excessive sun exposure without protection"
+      ]
+    }
+  },
+  "warts": {
+    "dietTips": [
+      "Eat a balanced diet rich in vitamins A, C, and E to support skin health",
+      "Include foods high in zinc such as nuts, seeds, and legumes to boost immunity",
+      "Stay hydrated by drinking plenty of water",
+      "Consume immune-supporting foods like garlic and probiotics",
+      "Limit processed foods and excessive sugar intake"
+    ],
+    "medications": [
+      {
+        "name": "Salicylic acid treatments",
+        "dosage": "Apply as directed",
+        "timing": "Daily until wart resolves"
+      },
+      {
+        "name": "Cryotherapy (freezing treatment)",
+        "dosage": "Performed by healthcare professional",
+        "timing": "As needed"
+      }
+    ],
+    "homeRemedies": [
+      "Keep the affected area clean and dry",
+      "Avoid picking or scratching the wart",
+      "Cover warts with waterproof bandages during swimming or bathing",
+      "Apply duct tape over wart as a home remedy to stimulate removal",
+      "Maintain good hygiene to prevent spread"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wash hands thoroughly after touching warts",
+        "Avoid sharing personal items like towels or razors",
+        "Seek medical advice if warts persist or multiply",
+        "Use treatments consistently for best results"
+      ],
+      "donts": [
+        "Don't pick or scratch warts to avoid spreading",
+        "Avoid walking barefoot in public places",
+        "Don't share footwear or socks",
+        "Avoid using harsh chemicals not recommended by a doctor"
+      ]
+    }
+  },
+  "backPain": {
+    "dietTips": [
+      "Maintain a balanced diet rich in calcium and vitamin D to support bone health",
+      "Include anti-inflammatory foods like fatty fish, nuts, and leafy greens",
+      "Stay hydrated by drinking plenty of water",
+      "Avoid excessive caffeine and processed foods that may increase inflammation",
+      "Incorporate foods high in magnesium such as bananas and spinach"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply heat or cold packs to the affected area",
+      "Practice gentle stretching and strengthening exercises",
+      "Maintain good posture while sitting and standing",
+      "Use supportive chairs and mattresses",
+      "Avoid heavy lifting and sudden movements"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take regular breaks to move and stretch during prolonged sitting",
+        "Maintain a healthy weight to reduce strain on the back",
+        "Use proper techniques when lifting objects",
+        "Consult a healthcare professional if pain persists or worsens"
+      ],
+      "donts": [
+        "Don't stay in bed for prolonged periods",
+        "Avoid high-impact activities that worsen pain",
+        "Don't ignore sudden or severe back pain",
+        "Avoid poor posture and slouching"
+      ]
+    }
+  },
+  "neckPain": {
+    "dietTips": [
+      "Consume foods rich in magnesium such as leafy greens and nuts to help muscle relaxation",
+      "Include anti-inflammatory foods like fatty fish, turmeric, and ginger",
+      "Stay hydrated by drinking plenty of water",
+      "Eat a balanced diet with adequate vitamins B and D for nerve and bone health",
+      "Avoid excessive caffeine and processed foods that can increase inflammation"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply warm compress or heating pad to the neck",
+      "Practice gentle neck stretches and range-of-motion exercises",
+      "Maintain good posture, especially while working or using devices",
+      "Use ergonomic pillows and sleeping positions",
+      "Avoid sudden neck movements and heavy lifting"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take frequent breaks when working at a desk or computer",
+        "Sleep with the neck properly supported",
+        "Use proper lifting techniques",
+        "Seek medical advice if pain persists or worsens"
+      ],
+      "donts": [
+        "Don't sleep in awkward positions",
+        "Avoid prolonged poor posture such as looking down at phones",
+        "Don't ignore severe or radiating pain",
+        "Avoid carrying heavy bags on one shoulder"
+      ]
+    }
+  },
+  "arthritisOsteoarthritisRheumatoid": {
+    "dietTips": [
+      "Include anti-inflammatory foods such as fatty fish, turmeric, and berries",
+      "Consume foods rich in omega-3 fatty acids like flaxseeds and walnuts",
+      "Eat plenty of fruits and vegetables for antioxidants",
+      "Maintain a healthy weight to reduce joint stress",
+      "Limit processed foods, sugar, and saturated fats that can increase inflammation"
+    ],
+    "medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      },
+      {
+        "name": "Disease-modifying antirheumatic drugs (DMARDs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed by physician"
+      }
+    ],
+    "homeRemedies": [
+      "Apply heat or cold packs to affected joints",
+      "Engage in low-impact exercises like swimming or walking",
+      "Practice gentle stretching to maintain joint flexibility",
+      "Use supportive devices like braces or cushions if needed",
+      "Maintain good posture to reduce joint strain"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Stay active with regular exercise suited to your ability",
+        "Maintain a healthy weight",
+        "Follow prescribed medication regimen",
+        "Consult healthcare provider for flare-ups or worsening symptoms"
+      ],
+      "donts": [
+        "Avoid high-impact activities that stress joints",
+        "Don't ignore persistent joint pain or swelling",
+        "Avoid smoking as it can worsen symptoms",
+        "Don't overuse affected joints causing pain"
+      ]
+    }
+  },
+  "sprainsStrains": {
+    "dietTips": [
+      "Eat protein-rich foods to support tissue repair",
+      "Include vitamin C-rich foods like citrus fruits for healing",
+      "Consume foods high in magnesium and potassium to reduce muscle cramps",
+      "Stay hydrated with plenty of water",
+      "Avoid excessive caffeine and alcohol that may slow healing"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain and inflammation"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Rest the injured area and avoid strenuous activities",
+      "Apply ice packs for 15-20 minutes every 2-3 hours during the first 48 hours",
+      "Use compression bandages to reduce swelling",
+      "Elevate the injured limb above heart level when possible",
+      "Gradually perform gentle stretching and strengthening exercises as healing progresses"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow R.I.C.E. method (Rest, Ice, Compression, Elevation)",
+        "Seek medical advice if severe pain or swelling occurs",
+        "Use proper technique during physical activity to prevent re-injury",
+        "Perform rehabilitation exercises as recommended"
+      ],
+      "donts": [
+        "Don't put weight on the injured area too soon",
+        "Avoid heat application in the first 48 hours",
+        "Don't ignore severe or persistent pain",
+        "Avoid sudden movements or activities that strain the injured area"
+      ]
+    }
+  },
+  "muscleCramps": {
+    "dietTips": [
+      "Consume foods rich in potassium such as bananas, oranges, and potatoes",
+      "Include magnesium-rich foods like nuts, seeds, and leafy greens",
+      "Maintain adequate calcium intake from dairy or fortified alternatives",
+      "Stay well hydrated by drinking plenty of water",
+      "Avoid excessive caffeine and alcohol which can dehydrate muscles"
+    ],
+    "medications": [
+      {
+        "name": "Muscle relaxants",
+        "dosage": "As prescribed",
+        "timing": "As directed by a healthcare provider"
+      },
+      {
+        "name": "Pain relievers like Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Gently stretch and massage the cramped muscle",
+      "Apply warm compress or heating pad to relax muscles",
+      "Engage in regular physical activity to prevent cramps",
+      "Ensure proper warm-up and cool-down during exercise",
+      "Avoid standing or sitting in the same position for too long"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Stay hydrated throughout the day",
+        "Maintain a balanced diet with essential minerals",
+        "Practice regular stretching exercises",
+        "Seek medical advice if cramps are frequent or severe"
+      ],
+      "donts": [
+        "Don't ignore persistent or worsening cramps",
+        "Avoid sudden intense physical activity without preparation",
+        "Don't overuse muscles leading to fatigue",
+        "Avoid dehydration by limiting excessive caffeine and alcohol"
+      ]
+    }
+  },
+  "gout": {
+    "dietTips": [
+      "Limit intake of purine-rich foods like red meat, organ meats, and shellfish",
+      "Avoid sugary drinks and excessive alcohol, especially beer",
+      "Eat plenty of low-fat dairy products to help reduce uric acid levels",
+      "Include cherries and berries which may help lower gout flare-ups",
+      "Stay well hydrated by drinking plenty of water"
+    ],
+    "medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain"
+      },
+      {
+        "name": "Colchicine",
+        "dosage": "As prescribed",
+        "timing": "At onset of flare-ups"
+      },
+      {
+        "name": "Allopurinol",
+        "dosage": "As prescribed",
+        "timing": "Daily to reduce uric acid levels"
+      }
+    ],
+    "homeRemedies": [
+      "Rest and elevate the affected joint during flare-ups",
+      "Apply ice packs to reduce swelling and pain",
+      "Maintain a healthy weight to reduce stress on joints",
+      "Avoid sudden intense physical activity during flare-ups",
+      "Practice stress reduction techniques"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow prescribed medication regimen",
+        "Drink plenty of water to help flush uric acid",
+        "Maintain a balanced diet with low purine foods",
+        "Seek medical advice for frequent or severe flare-ups"
+      ],
+      "donts": [
+        "Avoid high-purine foods and alcohol during flare-ups",
+        "Don't ignore joint pain or swelling",
+        "Avoid dehydration by limiting caffeine and alcohol",
+        "Don't self-medicate without consulting a healthcare provider"
+      ]
+    }
+  },
+
+  "carpalTunnelSyndrome": {
+    "dietTips": [
+      "Maintain a balanced diet rich in anti-inflammatory foods like fruits, vegetables, and omega-3 fatty acids",
+      "Include foods high in vitamin B6 such as poultry, fish, and bananas",
+      "Stay hydrated by drinking plenty of water",
+      "Limit caffeine and processed foods that may increase inflammation",
+      "Consider magnesium-rich foods like nuts and leafy greens to support nerve health"
+    ],
+    "medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain and inflammation"
+      },
+      {
+        "name": "Corticosteroid injections",
+        "dosage": "As prescribed",
+        "timing": "Administered by healthcare professional"
+      }
+    ],
+    "homeRemedies": [
+      "Perform wrist stretches and strengthening exercises",
+      "Use wrist splints, especially at night, to keep the wrist in a neutral position",
+      "Take frequent breaks from repetitive hand activities",
+      "Apply cold packs to reduce swelling",
+      "Maintain good posture to reduce nerve pressure"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Keep wrists straight during activities",
+        "Take regular breaks to avoid repetitive strain",
+        "Use ergonomic tools and keyboards",
+        "Consult a healthcare provider if symptoms worsen or persist"
+      ],
+      "donts": [
+        "Avoid repetitive wrist movements without breaks",
+        "Don’t sleep with wrists bent",
+        "Avoid heavy lifting or activities that strain the wrist",
+        "Don’t ignore numbness or weakness in the hand"
+      ]
+    }
+  },
+  "tendonitis": {
+    "dietTips": [
+      "Include anti-inflammatory foods like fatty fish, turmeric, and berries",
+      "Consume foods rich in vitamin C such as citrus fruits to support tendon repair",
+      "Stay hydrated by drinking plenty of water",
+      "Eat protein-rich foods to aid tissue healing",
+      "Limit processed foods and excessive sugar that may increase inflammation"
+    ],
+    "medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain and inflammation"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Rest the affected tendon and avoid repetitive movements",
+      "Apply ice packs for 15-20 minutes several times daily to reduce swelling",
+      "Use compression bandages if recommended",
+      "Perform gentle stretching and strengthening exercises as healing progresses",
+      "Elevate the affected area when possible"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow R.I.C.E. protocol (Rest, Ice, Compression, Elevation)",
+        "Seek medical advice if pain persists or worsens",
+        "Gradually return to activity with proper technique",
+        "Use ergonomic tools to reduce strain"
+      ],
+      "donts": [
+        "Avoid repetitive strain on the affected tendon",
+        "Don’t ignore persistent pain or swelling",
+        "Avoid sudden increases in physical activity intensity",
+        "Don’t apply heat in the acute phase of inflammation"
+      ]
+    }
+  },
+  "fibromyalgia": {
+    "dietTips": [
+      "Eat a balanced diet rich in fruits, vegetables, and whole grains",
+      "Include foods high in omega-3 fatty acids like fish and flaxseeds",
+      "Limit processed foods, excessive sugar, and caffeine which may worsen symptoms",
+      "Stay hydrated by drinking plenty of water",
+      "Consider small, frequent meals to maintain energy levels"
+    ],
+    "medications": [
+      {
+        "name": "Pain relievers like Acetaminophen or NSAIDs",
+        "dosage": "As directed",
+        "timing": "As needed for pain"
+      },
+      {
+        "name": "Antidepressants",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed by healthcare provider"
+      },
+      {
+        "name": "Anti-seizure medications",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in low-impact aerobic exercises such as walking or swimming",
+      "Practice relaxation techniques like meditation or deep breathing",
+      "Maintain a regular sleep schedule to improve rest",
+      "Use warm baths or heating pads to relieve muscle stiffness",
+      "Pace activities and avoid overexertion"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow a consistent exercise routine",
+        "Manage stress through mindfulness or counseling",
+        "Get adequate sleep (7-9 hours)",
+        "Consult healthcare provider for symptom management"
+      ],
+      "donts": [
+        "Avoid excessive physical exertion",
+        "Don’t skip meals or sleep",
+        "Avoid caffeine and alcohol if they worsen symptoms",
+        "Don’t ignore worsening pain or fatigue"
+      ]
+    }
+  },
+
+    "menstrualCramps": {
+    "dietTips": [
+      "Eat foods rich in magnesium like bananas, leafy greens, and nuts to ease muscle cramps",
+      "Include anti-inflammatory foods such as berries, turmeric, and fatty fish",
+      "Stay hydrated by drinking plenty of water throughout the day",
+      "Reduce intake of caffeine, alcohol, and salty foods",
+      "Consume complex carbohydrates like whole grains and legumes to maintain energy levels"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for pain"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "250mg",
+        "timing": "Every 8-12 hours as needed"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply a heating pad or hot water bottle to the lower abdomen",
+      "Take a warm bath to relax muscles",
+      "Practice yoga or gentle stretching exercises",
+      "Massage the lower abdomen in circular motions",
+      "Engage in light physical activity like walking to improve blood flow"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Get adequate rest and sleep",
+        "Track your menstrual cycle to prepare in advance",
+        "Stay active with gentle exercise",
+        "Use relaxation techniques like deep breathing or meditation"
+      ],
+      "donts": [
+        "Avoid excessive caffeine and salty foods",
+        "Don't smoke or consume alcohol during menstruation",
+        "Avoid skipping meals",
+        "Don't ignore severe or abnormal pain—consult a doctor if needed"
+      ]
+    }
+  },
+  "pms": {
+    "dietTips": [
+      "Eat complex carbohydrates like whole grains, fruits, and vegetables to stabilize mood",
+      "Include calcium-rich foods such as dairy, almonds, and leafy greens",
+      "Reduce salt intake to help prevent bloating and water retention",
+      "Limit caffeine and alcohol which can worsen mood swings and breast tenderness",
+      "Stay hydrated and eat smaller, more frequent meals throughout the day"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for cramps or headaches"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "250mg",
+        "timing": "Every 8-12 hours as needed"
+      },
+      {
+        "name": "Calcium or Magnesium Supplements",
+        "dosage": "As prescribed",
+        "timing": "Daily to help with mood and bloating"
+      }
+    ],
+    "homeRemedies": [
+      "Practice stress-relief techniques like yoga or meditation",
+      "Apply a heating pad for cramping or back pain",
+      "Engage in regular physical activity to reduce mood swings and fatigue",
+      "Take warm baths to relax muscles and relieve tension",
+      "Keep a symptom diary to track patterns and triggers"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Maintain a regular sleep schedule",
+        "Eat balanced, nutrient-rich meals",
+        "Exercise regularly to reduce PMS symptoms",
+        "Communicate feelings and seek support if needed"
+      ],
+      "donts": [
+        "Avoid excessive caffeine, sugar, and processed foods",
+        "Don't skip meals",
+        "Avoid alcohol and smoking",
+        "Don't ignore severe symptoms—seek medical help if PMS interferes with daily life"
+      ]
+    }
+  },
+  "yeastInfection": {
+    "dietTips": [
+      "Reduce sugar intake as yeast feeds on sugar",
+      "Include probiotic-rich foods like yogurt, kefir, and sauerkraut to support healthy flora",
+      "Stay hydrated with plenty of water",
+      "Avoid refined carbs and processed foods",
+      "Consume garlic and coconut oil for their antifungal properties"
+    ],
+    "medications": [
+      {
+        "name": "Fluconazole",
+        "dosage": "150mg",
+        "timing": "Single dose or as prescribed by doctor"
+      },
+      {
+        "name": "Clotrimazole (Topical Cream)",
+        "dosage": "Apply thin layer",
+        "timing": "Twice daily for 3–7 days or as directed"
+      },
+      {
+        "name": "Miconazole (Vaginal Suppository)",
+        "dosage": "100-200mg",
+        "timing": "Once daily at bedtime for 3–7 days"
+      }
+    ],
+    "homeRemedies": [
+      "Apply plain, unsweetened yogurt externally to soothe itching",
+      "Use diluted tea tree oil externally (only if not sensitive)",
+      "Take warm (not hot) sitz baths with baking soda or Epsom salt",
+      "Wear loose, breathable cotton underwear",
+      "Maintain proper hygiene and keep the area dry"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Change out of wet clothing promptly (e.g., swimsuits, workout clothes)",
+        "Wipe front to back after using the restroom",
+        "Use unscented hygiene products",
+        "Consult a doctor if symptoms persist after treatment"
+      ],
+      "donts": [
+        "Avoid douching or using scented soaps in the genital area",
+        "Don't wear tight-fitting underwear or pants",
+        "Avoid using perfumed products like sprays or wipes",
+        "Don't self-medicate repeatedly without medical advice"
+      ]
+    }
+  },
+  "uti": {
+    "dietTips": [
+      "Drink plenty of water to flush out bacteria",
+      "Include cranberry juice (unsweetened) which may help prevent bacterial adhesion",
+      "Eat probiotic-rich foods like yogurt and kefir to support healthy bacteria",
+      "Avoid caffeine, alcohol, and carbonated drinks as they may irritate the bladder",
+      "Consume foods rich in vitamin C to help acidify the urine and inhibit bacterial growth"
+    ],
+    "medications": [
+      {
+        "name": "Nitrofurantoin",
+        "dosage": "100mg",
+        "timing": "Twice daily for 5-7 days or as prescribed"
+      },
+      {
+        "name": "Trimethoprim-sulfamethoxazole",
+        "dosage": "160/800mg",
+        "timing": "Twice daily for 3-5 days or as prescribed"
+      },
+      {
+        "name": "Phenazopyridine (for pain relief)",
+        "dosage": "100-200mg",
+        "timing": "Three times daily for no more than 2 days"
+      }
+    ],
+    "homeRemedies": [
+      "Use a warm compress on the lower abdomen to relieve pain or pressure",
+      "Drink plenty of water consistently throughout the day",
+      "Empty your bladder frequently and completely",
+      "Take unsweetened cranberry supplements if juice is not preferred",
+      "Practice good hygiene to reduce bacterial spread"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Wipe front to back after using the toilet",
+        "Urinate before and after sexual activity",
+        "Wear breathable, cotton underwear",
+        "Take the full course of antibiotics as prescribed"
+      ],
+      "donts": [
+        "Avoid holding urine for long periods",
+        "Don't use douches or scented feminine hygiene products",
+        "Avoid tight-fitting synthetic underwear or pants",
+        "Don't self-treat recurrent UTIs without consulting a healthcare provider"
+      ]
+    }
+  },
+  "vaginalDryness": {
+    "dietTips": [
+      "Stay well-hydrated by drinking at least 8 glasses of water daily",
+      "Include omega-3 fatty acids from flaxseeds, chia seeds, and fatty fish to support tissue health",
+      "Eat phytoestrogen-rich foods like soy, tofu, and lentils which may help balance hormones",
+      "Avoid caffeine and alcohol, which can contribute to dehydration",
+      "Consume vitamin E-rich foods like nuts, seeds, and avocados to support skin and mucosal health"
+    ],
+    "medications": [
+      {
+        "name": "Water-based vaginal lubricant",
+        "dosage": "Apply as needed",
+        "timing": "Before or during sexual activity"
+      },
+      {
+        "name": "Vaginal moisturizer",
+        "dosage": "Apply small amount",
+        "timing": "Every 2–3 days or as directed"
+      },
+      {
+        "name": "Low-dose vaginal estrogen (cream, ring, or tablet)",
+        "dosage": "As prescribed",
+        "timing": "Daily or as directed by doctor"
+      }
+    ],
+    "homeRemedies": [
+      "Use a humidifier to maintain moisture in dry indoor environments",
+      "Apply natural oils like coconut or vitamin E oil externally (only if not sensitive)",
+      "Take warm (not hot) baths with oatmeal to soothe discomfort",
+      "Practice pelvic floor exercises (Kegels) to improve blood flow",
+      "Wear loose, breathable cotton underwear to avoid irritation"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Maintain regular physical activity to support circulation",
+        "Use unscented, gentle soaps and products for hygiene",
+        "Communicate openly with a partner about discomfort",
+        "Consult a healthcare provider for persistent symptoms"
+      ],
+      "donts": [
+        "Avoid douching or using perfumed soaps in the genital area",
+        "Don't use petroleum jelly or oil-based products with latex condoms",
+        "Avoid tight or synthetic clothing that traps moisture",
+        "Don't ignore symptoms that worsen or affect quality of life"
+      ]
+    }
+  },
+  "pcos": {
+    "dietTips": [
+      "Follow a balanced, low-glycemic diet rich in whole grains, vegetables, and lean proteins",
+      "Include anti-inflammatory foods like berries, leafy greens, and fatty fish",
+      "Limit sugar, refined carbs, and processed foods to help regulate insulin",
+      "Eat smaller, more frequent meals to maintain stable blood sugar levels",
+      "Stay well-hydrated by drinking plenty of water"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500–1000mg",
+        "timing": "Once or twice daily as prescribed"
+      },
+      {
+        "name": "Oral contraceptives",
+        "dosage": "Varies by brand",
+        "timing": "Daily at the same time each day"
+      },
+      {
+        "name": "Spironolactone",
+        "dosage": "50–100mg",
+        "timing": "Once or twice daily as prescribed"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular physical activity such as walking, yoga, or strength training",
+      "Use warm compresses for relief from menstrual discomfort",
+      "Practice stress-reducing techniques like meditation or deep breathing",
+      "Maintain a healthy sleep routine with 7–9 hours of rest",
+      "Track menstrual cycles and symptoms to understand body patterns"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Maintain a healthy weight to improve insulin sensitivity and hormone balance",
+        "Get regular checkups to monitor hormone levels and metabolic health",
+        "Be consistent with medications and lifestyle changes",
+        "Consider support groups or counseling if feeling overwhelmed"
+      ],
+      "donts": [
+        "Avoid crash diets or skipping meals",
+        "Don't ignore signs like irregular periods or sudden weight gain",
+        "Avoid high-sugar and processed foods",
+        "Don't self-medicate without a healthcare provider's advice"
+      ]
+    }
+  },
+  "menopauseSymptoms": {
+    "dietTips": [
+      "Eat calcium-rich foods like dairy, leafy greens, and fortified products to support bone health",
+      "Include phytoestrogen-rich foods such as soy, flaxseeds, and legumes to help balance hormones",
+      "Consume foods high in omega-3 fatty acids like fatty fish, chia seeds, and walnuts",
+      "Limit caffeine, spicy foods, and alcohol which may trigger hot flashes",
+      "Stay hydrated by drinking at least 8 glasses of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Hormone Replacement Therapy (HRT)",
+        "dosage": "Varies",
+        "timing": "As prescribed by a doctor"
+      },
+      {
+        "name": "Gabapentin",
+        "dosage": "300–600mg",
+        "timing": "At bedtime or as prescribed for hot flashes"
+      },
+      {
+        "name": "Paroxetine (low-dose)",
+        "dosage": "7.5–10mg",
+        "timing": "Once daily for mood or hot flashes"
+      }
+    ],
+    "homeRemedies": [
+      "Use cooling fans or cold packs to manage hot flashes",
+      "Practice yoga or meditation to reduce stress and improve mood",
+      "Dress in layers and use breathable fabrics to stay comfortable",
+      "Establish a relaxing bedtime routine to improve sleep quality",
+      "Apply vaginal moisturizers or lubricants for dryness as needed"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Exercise regularly to improve mood, sleep, and bone health",
+        "Get regular health screenings for bone density, cholesterol, and blood pressure",
+        "Maintain a consistent sleep schedule",
+        "Discuss symptoms openly with your healthcare provider"
+      ],
+      "donts": [
+        "Avoid smoking as it worsens symptoms and increases health risks",
+        "Don't consume excessive caffeine or alcohol",
+        "Avoid processed and high-sugar foods that can cause hormonal fluctuations",
+        "Don't ignore emotional changes—seek support if needed"
+      ]
+    }
+  },
+  "breastPainMastalgia": {
+    "dietTips": [
+      "Reduce intake of caffeine from coffee, tea, and chocolate as it may worsen symptoms",
+      "Eat a low-fat diet with plenty of fruits, vegetables, and whole grains",
+      "Increase intake of omega-3 fatty acids from flaxseeds, walnuts, and fatty fish",
+      "Stay well-hydrated with at least 8 glasses of water daily",
+      "Limit salty foods to reduce water retention and swelling"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6–8 hours as needed for pain"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed"
+      },
+      {
+        "name": "Danazol or Tamoxifen (for severe cases)",
+        "dosage": "As prescribed",
+        "timing": "Daily under medical supervision"
+      }
+    ],
+    "homeRemedies": [
+      "Wear a supportive, well-fitted bra to reduce breast movement",
+      "Apply warm or cold compresses to the affected area",
+      "Practice relaxation techniques like deep breathing or gentle yoga",
+      "Reduce stress, which can worsen hormonal breast pain",
+      "Track your menstrual cycle to identify patterns in pain"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Perform regular self-breast exams to monitor changes",
+        "Maintain a healthy weight to support hormonal balance",
+        "Exercise regularly to improve circulation and reduce stress",
+        "Consult a doctor if pain is persistent, localized, or worsening"
+      ],
+      "donts": [
+        "Avoid tight or underwired bras that cause discomfort",
+        "Don't ignore lumps, discharge, or significant breast changes",
+        "Avoid smoking, as it may contribute to breast pain",
+        "Don't self-medicate with hormonal treatments without guidance"
+      ]
+    }
+  },
+  "endometriosis": {
+    "dietTips": [
+      "Eat anti-inflammatory foods like berries, leafy greens, and fatty fish",
+      "Include fiber-rich foods such as whole grains, fruits, and vegetables to support hormone balance",
+      "Avoid red meat, processed foods, and trans fats that may worsen inflammation",
+      "Limit caffeine and alcohol to help reduce estrogen levels",
+      "Stay hydrated with at least 8 glasses of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400–600mg",
+        "timing": "Every 6 hours as needed for pain"
+      },
+      {
+        "name": "Hormonal therapy (e.g., birth control pills)",
+        "dosage": "As prescribed",
+        "timing": "Daily at the same time"
+      },
+      {
+        "name": "Gonadotropin-releasing hormone (GnRH) agonists",
+        "dosage": "Varies",
+        "timing": "Monthly or as prescribed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply heating pads to the lower abdomen for cramp relief",
+      "Engage in regular low-impact exercises like yoga or walking",
+      "Practice stress management through meditation or deep breathing",
+      "Use warm baths to ease pelvic discomfort",
+      "Track symptoms using a journal to identify triggers and patterns"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow up regularly with your healthcare provider",
+        "Maintain a healthy weight and active lifestyle",
+        "Consider physical therapy for pelvic pain relief",
+        "Seek emotional support or counseling if feeling overwhelmed"
+      ],
+      "donts": [
+        "Avoid ignoring severe or persistent pelvic pain",
+        "Don't skip medications or stop treatment without consulting a doctor",
+        "Avoid high-fat, highly processed foods that may worsen symptoms",
+        "Don't overexert during flare-ups—rest when needed"
+      ]
+    }
+  },
+  "pregnancyRelatedDiscomfort": {
+    "dietTips": [
+      "Eat small, frequent meals to reduce nausea and heartburn",
+      "Include plenty of fiber-rich foods like fruits, vegetables, and whole grains to prevent constipation",
+      "Stay hydrated by drinking at least 8-10 glasses of water daily",
+      "Consume foods rich in calcium and iron to support maternal and fetal health",
+      "Avoid spicy, fatty, and greasy foods that can worsen indigestion"
+    ],
+    "medications": [
+      {
+        "name": "Prenatal vitamins",
+        "dosage": "As prescribed",
+        "timing": "Daily"
+      },
+      {
+        "name": "Acetaminophen",
+        "dosage": "500mg",
+        "timing": "Every 6 hours as needed for mild pain"
+      },
+      {
+        "name": "Antacids (e.g., calcium carbonate)",
+        "dosage": "As directed",
+        "timing": "After meals or as needed for heartburn"
+      }
+    ],
+    "homeRemedies": [
+      "Practice gentle prenatal yoga or stretching to relieve back and joint pain",
+      "Use warm compresses to soothe muscle aches",
+      "Elevate legs to reduce swelling",
+      "Get adequate rest and sleep with supportive pillows",
+      "Wear comfortable, supportive footwear to ease leg and back discomfort"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Attend regular prenatal checkups",
+        "Stay active with doctor-approved exercises",
+        "Maintain good posture to reduce strain",
+        "Report any severe or unusual symptoms promptly"
+      ],
+      "donts": [
+        "Avoid heavy lifting and strenuous activities",
+        "Don't take any medication without consulting your healthcare provider",
+        "Avoid smoking, alcohol, and caffeine in excess",
+        "Don't ignore persistent pain, bleeding, or severe swelling"
+      ]
+    }
+  },
+  "erectileDysfunction": {
+    "dietTips": [
+      "Eat a heart-healthy diet rich in fruits, vegetables, whole grains, and lean proteins",
+      "Include foods high in antioxidants such as berries, nuts, and dark leafy greens",
+      "Limit intake of processed foods, excessive alcohol, and sugary drinks",
+      "Maintain a healthy weight through balanced nutrition",
+      "Stay hydrated by drinking plenty of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Sildenafil (Viagra)",
+        "dosage": "50mg",
+        "timing": "30-60 minutes before sexual activity"
+      },
+      {
+        "name": "Tadalafil (Cialis)",
+        "dosage": "10mg",
+        "timing": "Daily or before sexual activity as prescribed"
+      },
+      {
+        "name": "Vardenafil (Levitra)",
+        "dosage": "10mg",
+        "timing": "30-60 minutes before sexual activity"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular physical exercise to improve circulation",
+      "Practice stress reduction techniques such as meditation or deep breathing",
+      "Avoid smoking and limit alcohol consumption",
+      "Maintain a healthy sleep routine",
+      "Communicate openly with your partner about concerns and expectations"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Consult a healthcare provider for proper diagnosis and treatment",
+        "Adopt a healthy lifestyle including diet and exercise",
+        "Follow prescribed medication guidelines carefully",
+        "Manage underlying conditions like diabetes or hypertension"
+      ],
+      "donts": [
+        "Don't use medications without prescription",
+        "Avoid illicit drugs or unverified supplements claiming to treat ED",
+        "Don't ignore psychological factors such as anxiety or depression",
+        "Avoid excessive alcohol and smoking"
+      ]
+    }
+  },
+  "prostateIssuesBPH": {
+    "dietTips": [
+      "Eat a diet rich in fruits, vegetables, and whole grains",
+      "Include foods high in zinc like pumpkin seeds and nuts",
+      "Limit red meat and high-fat dairy products",
+      "Stay hydrated but reduce fluid intake in the evening to lessen nighttime urination",
+      "Avoid caffeine and alcohol which can irritate the bladder"
+    ],
+    "medications": [
+      {
+        "name": "Alpha blockers (e.g., Tamsulosin)",
+        "dosage": "0.4mg",
+        "timing": "Once daily"
+      },
+      {
+        "name": "5-alpha reductase inhibitors (e.g., Finasteride)",
+        "dosage": "5mg",
+        "timing": "Once daily"
+      },
+      {
+        "name": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "dosage": "As prescribed",
+        "timing": "As needed for discomfort"
+      }
+    ],
+    "homeRemedies": [
+      "Practice pelvic floor exercises (Kegels) to improve urinary control",
+      "Maintain a healthy weight through diet and exercise",
+      "Avoid drinking large amounts of fluids at once",
+      "Limit intake of spicy foods and irritants",
+      "Empty your bladder completely when urinating"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Schedule regular checkups with your healthcare provider",
+        "Monitor symptoms and report any worsening or new issues",
+        "Follow medication instructions carefully",
+        "Maintain an active lifestyle to support urinary health"
+      ],
+      "donts": [
+        "Avoid caffeine and alcohol in excess",
+        "Don't delay urination when you feel the urge",
+        "Avoid over-the-counter decongestants and antihistamines without consulting a doctor",
+        "Don't ignore symptoms like blood in urine or severe pain"
+      ]
+    }
+  },
+  "jockItch": {
+    "dietTips": [
+      "Maintain a balanced diet rich in vitamins and minerals to support immune health",
+      "Stay hydrated with at least 8 glasses of water daily",
+      "Limit sugary and processed foods that can promote fungal growth",
+      "Include probiotic foods like yogurt to support skin health",
+      "Avoid excessive consumption of greasy and fried foods"
+    ],
+    "medications": [
+      {
+        "name": "Topical antifungal creams (e.g., Clotrimazole)",
+        "dosage": "Apply twice daily",
+        "timing": "For 2-4 weeks or as directed"
+      },
+      {
+        "name": "Oral antifungal medication (e.g., Fluconazole)",
+        "dosage": "150mg",
+        "timing": "Single dose or as prescribed"
+      }
+    ],
+    "homeRemedies": [
+      "Keep the affected area clean and dry",
+      "Wear loose-fitting, breathable cotton clothing",
+      "Change underwear daily and after sweating",
+      "Avoid sharing towels or personal items",
+      "Apply cold compresses to reduce itching and inflammation"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Practice good hygiene consistently",
+        "Use antifungal treatments as directed",
+        "Keep the groin area dry and well-ventilated",
+        "Wash clothes and towels regularly in hot water"
+      ],
+      "donts": [
+        "Avoid tight or synthetic clothing that traps moisture",
+        "Don't scratch the affected area to prevent spreading infection",
+        "Avoid using harsh soaps or irritants on the affected skin",
+        "Don't share personal items such as towels or clothing"
+      ]
+    }
+  },
+  "lowTestosteroneSymptoms": {
+    "dietTips": [
+      "Consume a balanced diet rich in lean proteins, healthy fats, and whole grains",
+      "Include foods high in zinc such as nuts, seeds, and shellfish",
+      "Eat vitamin D rich foods like fatty fish and fortified dairy products",
+      "Limit processed foods and excessive sugar intake",
+      "Stay hydrated with at least 8 glasses of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Testosterone replacement therapy (TRT)",
+        "dosage": "As prescribed",
+        "timing": "Usually daily or weekly depending on form"
+      },
+      {
+        "name": "Clomiphene citrate",
+        "dosage": "As prescribed",
+        "timing": "As directed by healthcare provider"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular strength training and aerobic exercise",
+      "Manage stress through relaxation techniques like meditation or yoga",
+      "Maintain a healthy weight and avoid excessive alcohol consumption",
+      "Get adequate sleep (7-9 hours per night)",
+      "Avoid smoking and recreational drugs"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Consult a healthcare provider for proper diagnosis and treatment",
+        "Follow prescribed medication and therapy plans",
+        "Adopt a healthy lifestyle including diet and exercise",
+        "Monitor symptoms and report any changes to your doctor"
+      ],
+      "donts": [
+        "Don't self-medicate with testosterone or supplements without medical advice",
+        "Avoid anabolic steroids or unverified hormone boosters",
+        "Don't ignore symptoms of low energy, mood changes, or sexual dysfunction",
+        "Avoid excessive alcohol and smoking"
+      ]
+    }
+  },
+  "malePatternBaldness": {
+    "dietTips": [
+      "Include protein-rich foods like eggs, lean meats, and legumes to support hair growth",
+      "Eat foods high in iron and zinc such as spinach, nuts, and seeds",
+      "Consume omega-3 fatty acids found in fatty fish and flaxseeds",
+      "Maintain a balanced diet with plenty of fruits and vegetables for vitamins",
+      "Stay hydrated by drinking adequate water daily"
+    ],
+    "medications": [
+      {
+        "name": "Minoxidil (topical)",
+        "dosage": "Apply 1ml twice daily",
+        "timing": "As directed"
+      },
+      {
+        "name": "Finasteride (oral)",
+        "dosage": "1mg",
+        "timing": "Once daily"
+      }
+    ],
+    "homeRemedies": [
+      "Massage scalp gently to stimulate blood flow",
+      "Avoid harsh hair treatments and excessive heat styling",
+      "Use mild shampoos and conditioners suitable for thinning hair",
+      "Manage stress through relaxation techniques",
+      "Avoid tight hairstyles that pull on the hair"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow medication instructions consistently",
+        "Maintain a healthy lifestyle and balanced diet",
+        "Consult a dermatologist or healthcare provider for personalized advice",
+        "Protect scalp from excessive sun exposure"
+      ],
+      "donts": [
+        "Don't use unverified hair growth products",
+        "Avoid excessive use of chemical treatments and dyes",
+        "Don't ignore early signs of hair thinning",
+        "Avoid smoking and reduce alcohol consumption"
+      ]
+    }
+  },
+  "diabetesType2": {
+    "dietTips": [
+      "Follow a balanced diet rich in fiber from vegetables, fruits, and whole grains",
+      "Limit intake of refined sugars and processed carbohydrates",
+      "Choose lean proteins like fish, poultry, and legumes",
+      "Include healthy fats from sources like nuts, seeds, and olive oil",
+      "Stay hydrated with water and avoid sugary beverages"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg to 2000mg",
+        "timing": "Twice daily or as prescribed"
+      },
+      {
+        "name": "Sulfonylureas (e.g., Glipizide)",
+        "dosage": "As prescribed",
+        "timing": "Once or twice daily"
+      },
+      {
+        "name": "SGLT2 inhibitors (e.g., Canagliflozin)",
+        "dosage": "As prescribed",
+        "timing": "Once daily"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular physical activity like walking or swimming",
+      "Monitor blood sugar levels regularly",
+      "Maintain a healthy weight through diet and exercise",
+      "Manage stress using relaxation techniques like meditation",
+      "Get adequate sleep (7-9 hours per night)"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow prescribed medication and treatment plans",
+        "Keep regular medical checkups",
+        "Adopt a consistent meal and exercise schedule",
+        "Wear proper footwear to prevent foot injuries"
+      ],
+      "donts": [
+        "Avoid excessive consumption of sugary and high-carb foods",
+        "Don't skip medications or medical appointments",
+        "Avoid smoking and limit alcohol intake",
+        "Don't ignore symptoms like frequent urination or extreme thirst"
+      ]
+    }
+  },
+  "hypertension": {
+    "dietTips": [
+      "Follow a DASH diet rich in fruits, vegetables, whole grains, and low-fat dairy",
+      "Reduce sodium intake to less than 2,300 mg per day",
+      "Limit consumption of processed and fried foods",
+      "Include potassium-rich foods like bananas, spinach, and sweet potatoes",
+      "Limit alcohol intake and avoid sugary drinks"
+    ],
+    "medications": [
+      {
+        "name": "ACE inhibitors (e.g., Lisinopril)",
+        "dosage": "As prescribed",
+        "timing": "Once daily"
+      },
+      {
+        "name": "Beta blockers (e.g., Atenolol)",
+        "dosage": "As prescribed",
+        "timing": "Once daily"
+      },
+      {
+        "name": "Diuretics (e.g., Hydrochlorothiazide)",
+        "dosage": "As prescribed",
+        "timing": "Once daily"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular aerobic exercise like brisk walking or cycling",
+      "Maintain a healthy weight through diet and physical activity",
+      "Manage stress with relaxation techniques such as yoga or meditation",
+      "Limit caffeine intake",
+      "Monitor blood pressure regularly at home"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take medications as prescribed without skipping doses",
+        "Follow a heart-healthy lifestyle and diet",
+        "Attend regular doctor appointments for monitoring",
+        "Reduce salt in cooking and avoid adding extra salt at the table"
+      ],
+      "donts": [
+        "Avoid smoking and limit alcohol consumption",
+        "Don't consume excessive caffeine or energy drinks",
+        "Avoid high-sodium fast foods and snacks",
+        "Don't ignore symptoms like severe headaches or dizziness"
+      ]
+    }
+  },
+  "highCholesterol": {
+    "dietTips": [
+      "Eat plenty of fruits, vegetables, and whole grains",
+      "Include healthy fats from sources like olive oil, avocados, and nuts",
+      "Limit saturated fats found in red meat and full-fat dairy products",
+      "Avoid trans fats found in processed and fried foods",
+      "Increase intake of soluble fiber from oats, beans, and lentils"
+    ],
+    "medications": [
+      {
+        "name": "Statins (e.g., Atorvastatin)",
+        "dosage": "As prescribed",
+        "timing": "Once daily"
+      },
+      {
+        "name": "Ezetimibe",
+        "dosage": "10mg",
+        "timing": "Once daily"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular physical activity such as walking, swimming, or cycling",
+      "Maintain a healthy weight through diet and exercise",
+      "Avoid tobacco smoking",
+      "Limit alcohol intake",
+      "Manage stress through mindfulness or relaxation techniques"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow medication and lifestyle recommendations consistently",
+        "Choose heart-healthy cooking methods like baking or grilling",
+        "Get regular cholesterol screenings as advised",
+        "Incorporate regular aerobic exercise into your routine"
+      ],
+      "donts": [
+        "Avoid foods high in saturated and trans fats",
+        "Don't skip medications or medical follow-ups",
+        "Limit consumption of sugary snacks and beverages",
+        "Avoid excessive alcohol intake"
+      ]
+    }
+  },
+  "thyroidDisorders": {
+    "dietTips": [
+      "Include iodine-rich foods like seaweed, fish, and dairy (moderate intake)",
+      "Eat selenium-rich foods such as Brazil nuts and sunflower seeds",
+      "Consume foods high in zinc like meat, shellfish, and legumes",
+      "Avoid excessive soy products and raw cruciferous vegetables if you have hypothyroidism",
+      "Stay hydrated with plenty of water daily"
+    ],
+    "medications": [
+      {
+        "name": "Levothyroxine (for hypothyroidism)",
+        "dosage": "As prescribed",
+        "timing": "Once daily on an empty stomach"
+      },
+      {
+        "name": "Antithyroid medications (e.g., Methimazole for hyperthyroidism)",
+        "dosage": "As prescribed",
+        "timing": "As directed"
+      }
+    ],
+    "homeRemedies": [
+      "Maintain a consistent daily routine to support hormone balance",
+      "Manage stress with relaxation techniques such as yoga or meditation",
+      "Get regular physical activity tailored to your energy levels",
+      "Avoid smoking and excessive caffeine intake",
+      "Ensure adequate sleep (7-9 hours)"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take medications exactly as prescribed and at the same time daily",
+        "Attend regular thyroid function tests and medical check-ups",
+        "Follow dietary recommendations tailored to your condition",
+        "Communicate any new symptoms to your healthcare provider"
+      ],
+      "donts": [
+        "Don't skip or alter medication doses without consulting your doctor",
+        "Avoid self-medicating or using supplements without approval",
+        "Don't consume large amounts of goitrogenic foods raw if hypothyroid",
+        "Avoid smoking and limit alcohol intake"
+      ]
+    }
+  },
+  "anemia": {
+    "dietTips": [
+      "Eat iron-rich foods like red meat, spinach, lentils, and fortified cereals",
+      "Include vitamin C-rich foods such as oranges, strawberries, and bell peppers to enhance iron absorption",
+      "Avoid drinking tea or coffee with meals as they can reduce iron absorption",
+      "Consume folate-rich foods like leafy greens, beans, and nuts",
+      "Ensure adequate intake of vitamin B12 through meat, dairy, or supplements if needed"
+    ],
+    "medications": [
+      {
+        "name": "Ferrous sulfate (iron supplement)",
+        "dosage": "325mg",
+        "timing": "Once or twice daily as prescribed"
+      },
+      {
+        "name": "Vitamin B12 injections or supplements",
+        "dosage": "As prescribed",
+        "timing": "As directed"
+      },
+      {
+        "name": "Folic acid supplements",
+        "dosage": "400-800 mcg",
+        "timing": "Once daily"
+      }
+    ],
+    "homeRemedies": [
+      "Rest adequately to help your body recover",
+      "Avoid heavy physical exertion when feeling weak",
+      "Cook in cast iron pans to increase iron content in food",
+      "Avoid smoking and alcohol consumption",
+      "Follow up with your healthcare provider for regular blood tests"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take iron supplements with vitamin C-rich drinks for better absorption",
+        "Attend all medical appointments for monitoring",
+        "Maintain a balanced diet rich in essential nutrients",
+        "Report any unusual symptoms such as persistent fatigue or paleness"
+      ],
+      "donts": [
+        "Don't take iron supplements with calcium-rich foods or antacids",
+        "Avoid skipping doses of prescribed supplements or medications",
+        "Don't ignore symptoms of anemia like dizziness or shortness of breath",
+        "Avoid excessive caffeine intake that can hinder iron absorption"
+      ]
+    }
+  },
+
+    "jetLag": {
+    "dietTips": [
+      "Stay hydrated by drinking plenty of water before, during, and after travel",
+      "Avoid heavy or rich meals close to bedtime",
+      "Include light, balanced meals with protein, fruits, and vegetables",
+      "Limit caffeine and alcohol intake especially in the evening",
+      "Eat small, frequent meals to maintain energy levels"
+    ],
+    "medications": [
+      {
+        "name": "Melatonin",
+        "dosage": "0.5mg to 5mg",
+        "timing": "30 minutes before bedtime in the new time zone"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "200-400mg",
+        "timing": "As needed for headache or discomfort"
+      }
+    ],
+    "homeRemedies": [
+      "Adjust your sleep schedule gradually before traveling",
+      "Expose yourself to natural light during the day to reset your internal clock",
+      "Take short naps (20-30 minutes) to reduce fatigue without affecting nighttime sleep",
+      "Practice relaxation techniques like deep breathing or meditation",
+      "Avoid screen time at least one hour before bedtime"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Try to sleep according to the new time zone as soon as possible",
+        "Stay physically active during the day to improve alertness",
+        "Use blackout curtains or eye masks to improve sleep quality",
+        "Keep a consistent bedtime routine even while traveling"
+      ],
+      "donts": [
+        "Avoid heavy meals and caffeine close to bedtime",
+        "Don't rely excessively on sleeping pills without medical advice",
+        "Avoid alcohol before sleeping as it disrupts sleep cycles",
+        "Don't nap for too long during the day to prevent nighttime insomnia"
+      ]
+    }
+  },
+  "altitudeSickness": {
+    "dietTips": [
+      "Stay well-hydrated by drinking plenty of water throughout the day",
+      "Eat small, frequent meals that are high in carbohydrates",
+      "Avoid heavy, fatty, or salty foods which can worsen symptoms",
+      "Limit alcohol and caffeine as they can cause dehydration",
+      "Include foods rich in iron and antioxidants to support oxygen transport"
+    ],
+    "medications": [
+      {
+        "name": "Acetazolamide (Diamox)",
+        "dosage": "125-250mg",
+        "timing": "Twice daily as prescribed"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed for headache"
+      },
+      {
+        "name": "Dexamethasone",
+        "dosage": "As prescribed",
+        "timing": "In severe cases, under medical supervision"
+      }
+    ],
+    "homeRemedies": [
+      "Ascend slowly to allow your body to acclimatize",
+      "Rest frequently and avoid overexertion",
+      "Sleep at lower altitudes when possible",
+      "Practice deep breathing exercises to improve oxygen intake",
+      "Use supplemental oxygen if advised by a healthcare professional"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Drink plenty of fluids to prevent dehydration",
+        "Take medications as prescribed to prevent or treat symptoms",
+        "Descend to a lower altitude if symptoms worsen",
+        "Monitor symptoms closely and seek medical help if needed"
+      ],
+      "donts": [
+        "Avoid rapid ascent to high altitudes",
+        "Don't ignore severe symptoms like persistent headache, nausea, or shortness of breath",
+        "Avoid alcohol and sedatives which can depress breathing",
+        "Don't overexert yourself during initial days at high altitude"
+      ]
+    }
+  },
+  "travelersDiarrhea": {
+    "dietTips": [
+      "Drink plenty of safe, clean fluids like bottled water or oral rehydration solutions",
+      "Eat easily digestible foods such as bananas, rice, applesauce, and toast (BRAT diet)",
+      "Avoid raw or undercooked meats and seafood",
+      "Avoid unpasteurized dairy products and street foods",
+      "Consume cooked vegetables and peeled fruits only"
+    ],
+    "medications": [
+      {
+        "name": "Loperamide",
+        "dosage": "2mg initially, then 1mg after each loose stool, max 8mg/day",
+        "timing": "As needed"
+      },
+      {
+        "name": "Oral rehydration salts (ORS)",
+        "dosage": "As directed",
+        "timing": "Regularly to prevent dehydration"
+      },
+      {
+        "name": "Antibiotics (e.g., Azithromycin)",
+        "dosage": "As prescribed",
+        "timing": "For moderate to severe cases"
+      }
+    ],
+    "homeRemedies": [
+      "Rest adequately to allow your body to recover",
+      "Maintain hydration with frequent small sips of fluids",
+      "Avoid caffeine and alcohol as they can worsen dehydration",
+      "Practice good hand hygiene to prevent further infection",
+      "Use probiotics to help restore gut flora balance"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Drink plenty of fluids to avoid dehydration",
+        "Use medications as directed by a healthcare provider",
+        "Eat bland, easy-to-digest foods until symptoms improve",
+        "Seek medical help if symptoms persist beyond 3 days or worsen"
+      ],
+      "donts": [
+        "Avoid dairy products and fatty, spicy foods during illness",
+        "Don't ignore signs of severe dehydration like dizziness or dark urine",
+        "Avoid self-medicating with antibiotics unless prescribed",
+        "Don't consume untreated water or ice from questionable sources"
+      ]
+    }
+  },
+  "dengueFever": {
+    "dietTips": [
+      "Drink plenty of fluids like water, coconut water, and oral rehydration solutions",
+      "Consume fruits rich in vitamin C such as oranges, papayas, and kiwis",
+      "Eat soft, easily digestible foods like soups, porridge, and boiled vegetables",
+      "Include papaya leaf juice (consult a doctor) which may help increase platelet count",
+      "Avoid oily, spicy, and processed foods that may irritate the stomach"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol (Acetaminophen)",
+        "dosage": "500-650mg",
+        "timing": "Every 4-6 hours as needed for fever and pain"
+      }
+    ],
+    "homeRemedies": [
+      "Get plenty of rest to support immune function",
+      "Apply cold compresses to reduce high fever",
+      "Drink herbal teas like ginger or tulsi to soothe symptoms (under guidance)",
+      "Monitor temperature and symptoms regularly",
+      "Use mosquito nets and repellents to prevent further bites"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Stay well-hydrated to prevent dehydration",
+        "Seek immediate medical attention if experiencing bleeding, severe abdominal pain, or difficulty breathing",
+        "Wear protective clothing and use insect repellents",
+        "Monitor platelet count and other vital parameters as advised"
+      ],
+      "donts": [
+        "Do not take NSAIDs like ibuprofen or aspirin as they can increase bleeding risk",
+        "Avoid dehydration and skipping meals",
+        "Don't self-medicate without consulting a doctor",
+        "Avoid exposure to mosquitoes, especially during early morning and evening hours"
+      ]
+    }
+  },
+  "malaria": {
+    "dietTips": [
+      "Drink plenty of fluids like water, coconut water, and oral rehydration solutions to prevent dehydration",
+      "Consume foods rich in iron and folate such as spinach, lentils, and lean meats to support red blood cell production",
+      "Include vitamin C-rich fruits like oranges and guava to enhance iron absorption",
+      "Eat small, frequent meals of easily digestible foods like rice, porridge, and boiled vegetables to maintain energy"
+    ],
+    "medications": [
+      {
+        "name": "Artemisinin-based combination therapy (e.g., Artemether-Lumefantrine)",
+        "dosage": "As prescribed",
+        "timing": "Usually twice daily for 3 days"
+      },
+      {
+        "name": "Chloroquine (where effective)",
+        "dosage": "As prescribed",
+        "timing": "Dose schedule depends on species and sensitivity"
+      }
+    ],
+    "homeRemedies": [
+      "Rest in a cool, well-ventilated room to reduce fever and fatigue",
+      "Use paracetamol (acetaminophen) 500-650mg every 4-6 hours as needed to reduce fever and body aches",
+      "Sponge with lukewarm water to help lower body temperature during high fever",
+      "Apply cool compresses to the forehead and armpits to relieve fever",
+      "Ensure bed nets and window screens are in place to prevent further mosquito bites"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek prompt medical attention if you develop high fever, chills, or sweating",
+        "Complete the full course of antimalarial medications as prescribed",
+        "Use insect repellent and sleep under an insecticide-treated net to prevent mosquito bites",
+        "Monitor temperature and symptoms regularly and report any warning signs (e.g., persistent vomiting, difficulty breathing) to a doctor"
+      ],
+      "donts": [
+        "Avoid taking NSAIDs like ibuprofen or aspirin without consulting a healthcare provider, as they can affect bleeding risk",
+        "Don't stop antimalarial treatment prematurely even if symptoms improve",
+        "Avoid exposure to mosquito-prone areas without protective measures",
+        "Don't self-medicate with over-the-counter drugs for malaria—use prescribed antimalarials only"
+      ]
+    }
+  },
+  "chickenpox": {
+    "dietTips": [
+      "Stay well-hydrated with water, clear soups, and coconut water",
+      "Eat soft, bland foods like mashed potatoes, porridge, bananas, and rice if mouth sores are present",
+      "Include vitamin-rich foods like fruits and vegetables to support immune function",
+      "Avoid spicy, acidic, or salty foods that may irritate mouth sores",
+      "Consume yogurt or probiotic-rich foods to support gut health, especially if taking medications"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol (Acetaminophen)",
+        "dosage": "500-650mg",
+        "timing": "Every 4-6 hours as needed for fever and pain"
+      },
+      {
+        "name": "Antihistamines (e.g., Diphenhydramine)",
+        "dosage": "25-50mg",
+        "timing": "Every 6-8 hours for itch relief (consult doctor)"
+      },
+      {
+        "name": "Acyclovir (antiviral)",
+        "dosage": "As prescribed",
+        "timing": "Typically 5 times a day for 5 days (if started early in severe cases)"
+      }
+    ],
+    "homeRemedies": [
+      "Apply calamine lotion to soothe itching",
+      "Take lukewarm oatmeal baths to relieve skin irritation",
+      "Keep fingernails trimmed to prevent skin damage from scratching",
+      "Wear loose, breathable cotton clothing",
+      "Use cool compresses to reduce itching and fever"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Isolate the infected person to prevent spreading the virus",
+        "Maintain good hygiene and keep skin clean to avoid secondary infections",
+        "Get plenty of rest to support immune recovery",
+        "Use soothing lotions or gels as advised by a doctor"
+      ],
+      "donts": [
+        "Do not scratch the blisters to prevent scarring and infection",
+        "Avoid giving aspirin to children due to the risk of Reye's syndrome",
+        "Don't pop the blisters manually",
+        "Avoid close contact with pregnant women, infants, and immunocompromised individuals"
+      ]
+    }
+  },
+  "heatStroke": {
+    "dietTips": [
+      "Stay well-hydrated with water, oral rehydration solutions, and electrolyte-rich drinks",
+      "Consume water-rich fruits and vegetables like watermelon, cucumber, and oranges",
+      "Avoid caffeinated and alcoholic beverages as they can dehydrate the body",
+      "Eat light, easily digestible meals to avoid adding metabolic heat",
+      "Include coconut water or lemon water with a pinch of salt and sugar to restore electrolytes"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol (Acetaminophen)",
+        "dosage": "500-650mg",
+        "timing": "Only if prescribed for associated discomfort—not for core body cooling"
+      },
+      {
+        "name": "IV fluids",
+        "dosage": "As prescribed",
+        "timing": "Administered in hospital settings for rehydration and electrolyte balance"
+      }
+    ],
+    "homeRemedies": [
+      "Move the person to a shaded or air-conditioned area immediately",
+      "Remove excess clothing and apply cool, wet cloths to the skin",
+      "Fan air over the patient while misting with water to promote cooling",
+      "Apply ice packs to armpits, neck, groin, and back to rapidly lower body temperature",
+      "Encourage sips of cool water or electrolyte solution if the person is conscious and alert"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek immediate medical attention if symptoms of heat stroke appear (e.g., high fever, confusion, unconsciousness)",
+        "Rest in a cool, ventilated environment",
+        "Wear light-colored, loose-fitting clothing",
+        "Stay indoors or in the shade during peak sun hours (10 AM to 4 PM)"
+      ],
+      "donts": [
+        "Do not ignore symptoms like dizziness, headache, or rapid heartbeat",
+        "Avoid physical exertion during high temperatures",
+        "Do not consume caffeine, alcohol, or sugary sodas during recovery",
+        "Avoid sudden exposure to cold water (e.g., ice baths) without medical supervision—it can cause shock"
+      ]
+    }
+  },
+  "frostbite": {
+    "dietTips": [
+      "Increase intake of warm fluids like soups, broths, and herbal teas to maintain body heat",
+      "Eat energy-rich foods including whole grains, nuts, and seeds to support metabolic heat generation",
+      "Include iron-rich foods (spinach, beans, lean meats) to support circulation",
+      "Consume vitamin C and E-rich foods (citrus fruits, avocados, almonds) to support skin repair and immune function",
+      "Avoid alcohol and caffeine as they constrict blood vessels and worsen cold-related injuries"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "timing": "Every 6-8 hours as needed to reduce pain and inflammation"
+      },
+      {
+        "name": "Aspirin (if advised)",
+        "dosage": "As prescribed",
+        "timing": "Used in some cases to improve circulation and prevent clotting"
+      },
+      {
+        "name": "Antibiotics",
+        "dosage": "As prescribed",
+        "timing": "If signs of infection or severe tissue damage are present"
+      }
+    ],
+    "homeRemedies": [
+      "Gently rewarm affected area using warm (not hot) water (37-39°C) for 15-30 minutes",
+      "Keep affected body part elevated to reduce swelling",
+      "Wrap the area loosely in sterile dressings, separating fingers and toes if needed",
+      "Use warm blankets and clothing to prevent further heat loss",
+      "Avoid walking on frostbitten feet or toes unless absolutely necessary"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek immediate medical help if there is numbness, discoloration, or blistering",
+        "Rewarm the area only if there is no risk of refreezing",
+        "Stay in a warm, dry environment",
+        "Hydrate well to support circulation and healing"
+      ],
+      "donts": [
+        "Do not rub or massage the frostbitten area—it can worsen tissue damage",
+        "Avoid using direct heat sources like heating pads, fires, or stoves",
+        "Do not break any blisters that form",
+        "Avoid smoking—it restricts blood flow and delays healing"
+      ]
+    }
+  },
+  "seaSickness": {
+    "dietTips": [
+      "Eat small, bland meals before and during travel (e.g., crackers, plain rice, bananas)",
+      "Avoid spicy, greasy, or heavy foods before and during the trip",
+      "Stay hydrated with water or electrolyte drinks—sip frequently",
+      "Consume ginger in forms like tea, candies, or capsules to reduce nausea",
+      "Avoid alcohol and caffeine as they may worsen dehydration and symptoms"
+    ],
+    "medications": [
+      {
+        "name": "Dimenhydrinate (Dramamine)",
+        "dosage": "50-100mg",
+        "timing": "30-60 minutes before travel and every 4-6 hours as needed"
+      },
+      {
+        "name": "Meclizine",
+        "dosage": "25-50mg",
+        "timing": "1 hour before travel; lasts up to 24 hours"
+      },
+      {
+        "name": "Scopolamine patch",
+        "dosage": "1 patch",
+        "timing": "Apply behind the ear at least 4 hours before travel; lasts up to 72 hours"
+      }
+    ],
+    "homeRemedies": [
+      "Focus your gaze on the horizon or a fixed point",
+      "Get fresh air—stay on deck if possible",
+      "Lie down flat on your back if feeling unwell",
+      "Use acupressure wristbands on the P6 (Nei-Kuan) point to help reduce nausea",
+      "Chew gum or suck on mints to reduce the sensation of motion"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Choose a mid-ship, lower-level cabin where motion is less noticeable",
+        "Keep your head as still as possible",
+        "Breathe slowly and deeply if nausea begins",
+        "Stay well-rested before traveling"
+      ],
+      "donts": [
+        "Don't read or look at screens while the boat is in motion",
+        "Avoid strong smells (like food or fuel) that may trigger nausea",
+        "Don't overeat or travel on an empty stomach",
+        "Avoid alcoholic beverages before and during the trip"
+      ]
+    }
+  },
+  "leishmaniasis": {
+    "dietTips": [
+      "Consume protein-rich foods like eggs, lean meats, legumes, and dairy to support tissue repair",
+      "Include vitamin C-rich fruits (like oranges, papaya, guava) to boost immunity and aid skin healing",
+      "Add zinc-rich foods (pumpkin seeds, chickpeas, whole grains) to promote immune function",
+      "Stay hydrated with clean, safe water and oral rehydration solutions if needed",
+      "Avoid raw or undercooked food and unfiltered water to prevent secondary infections"
+    ],
+    "medications": [
+      {
+        "name": "Amphotericin B",
+        "dosage": "As prescribed",
+        "timing": "Administered via IV for visceral leishmaniasis; dosage and schedule per doctor's instruction"
+      },
+      {
+        "name": "Miltefosine",
+        "dosage": "50-100mg",
+        "timing": "Oral medication taken daily for 28 days, depending on weight and condition"
+      },
+      {
+        "name": "Sodium Stibogluconate",
+        "dosage": "20mg/kg",
+        "timing": "Given by injection daily for 20-30 days as prescribed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply cool compresses on cutaneous sores to ease discomfort",
+      "Keep wounds clean and covered to prevent infection",
+      "Use neem or turmeric paste (under medical guidance) to soothe skin lesions",
+      "Rest adequately to allow the body to recover",
+      "Consume light, nutritious meals to support immune strength"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek immediate medical attention for suspected leishmaniasis symptoms",
+        "Use insecticide-treated bed nets and protective clothing to prevent sandfly bites",
+        "Maintain hygiene and sanitize surroundings",
+        "Follow the full course of treatment as prescribed"
+      ],
+      "donts": [
+        "Don't scratch or pick at skin sores to avoid spreading infection",
+        "Avoid outdoor activities during dusk and dawn when sandflies are most active",
+        "Don't self-medicate or interrupt treatment mid-course",
+        "Avoid contact with contaminated water or open wounds"
+      ]
+    }
+  },
+  "guillainBarreSyndrome": {
+    "dietTips": [
+      "Eat a balanced, nutrient-dense diet to support nerve repair and immunity",
+      "Include omega-3 rich foods like fatty fish, flaxseeds, and walnuts for anti-inflammatory effects",
+      "Consume foods high in B vitamins (like eggs, dairy, leafy greens) to support nerve health",
+      "Stay hydrated, especially if immobility affects digestion or bowel function",
+      "Include fiber-rich foods (fruits, vegetables, whole grains) to prevent constipation from inactivity"
+    ],
+    "medications": [
+      {
+        "name": "Intravenous Immunoglobulin (IVIG)",
+        "dosage": "As prescribed",
+        "timing": "Typically given over 5 days early in the disease course"
+      },
+      {
+        "name": "Plasmapheresis (Plasma Exchange)",
+        "dosage": "As prescribed",
+        "timing": "Usually done in 4-6 sessions over several days"
+      },
+      {
+        "name": "Pain relievers (e.g., Gabapentin)",
+        "dosage": "300-900mg",
+        "timing": "1-3 times daily based on severity and doctor's guidance"
+      }
+    ],
+    "homeRemedies": [
+      "Practice gentle range-of-motion exercises as advised by a physiotherapist",
+      "Use warm compresses to ease muscle stiffness and pain",
+      "Rest frequently and avoid physical overexertion",
+      "Engage in breathing exercises to maintain lung function",
+      "Create a calm, stress-free environment to support recovery"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow a structured rehabilitation plan including physical and occupational therapy",
+        "Monitor for signs of respiratory difficulty and seek immediate care if they appear",
+        "Use supportive devices (like braces or walkers) as recommended",
+        "Stay up to date with medical follow-ups to track progress"
+      ],
+      "donts": [
+        "Don't ignore symptoms like tingling, weakness, or difficulty breathing",
+        "Avoid self-medicating without professional advice",
+        "Don't rush physical activity—gradual rehabilitation is key",
+        "Avoid exposure to infections, especially during recovery"
+      ]
+    }
+  },
+  "kawasakiDisease": {
+    "dietTips": [
+      "Encourage a soft, easy-to-swallow diet during the acute phase (e.g., soups, mashed foods, yogurt)",
+      "Ensure adequate fluid intake to prevent dehydration, especially with fever",
+      "Include vitamin C-rich foods like citrus fruits, strawberries, and bell peppers to support immunity",
+      "Offer small, frequent meals if appetite is low",
+      "Avoid spicy, acidic, or hard foods if the mouth or throat is sore"
+    ],
+    "medications": [
+      {
+        "name": "Aspirin (high-dose initially)",
+        "dosage": "80-100 mg/kg/day",
+        "timing": "Divided every 6 hours during the acute phase under medical supervision"
+      },
+      {
+        "name": "Intravenous Immunoglobulin (IVIG)",
+        "dosage": "2g/kg",
+        "timing": "Given once over 10-12 hours during the acute phase"
+      },
+      {
+        "name": "Low-dose Aspirin (maintenance)",
+        "dosage": "3-5 mg/kg/day",
+        "timing": "Once daily until inflammation subsides, or longer if heart issues develop"
+      }
+    ],
+    "homeRemedies": [
+      "Apply cool compresses to reduce fever and discomfort",
+      "Provide a calm, soothing environment to support rest",
+      "Offer lukewarm sponge baths to manage fever naturally",
+      "Use saline nasal drops if congestion is present",
+      "Encourage quiet activities like reading or coloring to promote rest without boredom"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek immediate medical attention if high fever persists beyond 5 days",
+        "Follow the full course of prescribed medications, especially IVIG and aspirin",
+        "Schedule regular follow-ups to monitor heart function (echocardiogram)",
+        "Keep the child well-hydrated and rested"
+      ],
+      "donts": [
+        "Don't delay treatment—early intervention reduces risk of heart complications",
+        "Avoid giving aspirin without a doctor's guidance (especially in children)",
+        "Don't skip follow-up appointments or echocardiograms",
+        "Avoid vaccinations (like live vaccines) for 11 months after IVIG without medical advice"
+      ]
+    }
+  },
+  "celiacDisease": {
+    "dietTips": [
+      "Follow a strict gluten-free diet—avoid wheat, barley, rye, and their derivatives",
+      "Focus on naturally gluten-free foods like rice, quinoa, potatoes, fruits, vegetables, and lean proteins",
+      "Include gluten-free whole grains like buckwheat, millet, and amaranth for fiber",
+      "Read food labels carefully for hidden gluten in sauces, dressings, and processed foods",
+      "Ensure adequate intake of calcium, iron, vitamin B12, and vitamin D through diet or supplements as recommended"
+    ],
+    "medications": [
+      {
+        "name": "Iron supplements",
+        "dosage": "As prescribed",
+        "timing": "Typically once or twice daily for anemia caused by malabsorption"
+      },
+      {
+        "name": "Vitamin D and calcium",
+        "dosage": "As advised",
+        "timing": "Daily to support bone health"
+      },
+      {
+        "name": "Corticosteroids (if severe inflammation)",
+        "dosage": "Short-term, as prescribed",
+        "timing": "Until symptoms are under control"
+      }
+    ],
+    "homeRemedies": [
+      "Use gluten-free herbal teas and broths to soothe digestive discomfort",
+      "Apply warm compresses to the abdomen to relieve cramps",
+      "Keep a food diary to track symptoms and identify hidden gluten exposure",
+      "Practice stress-relief techniques like yoga or breathing exercises to reduce gut sensitivity",
+      "Ensure proper rest to support healing and reduce fatigue"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Consult a dietitian specializing in gluten-free nutrition",
+        "Educate yourself and others about cross-contamination risks in shared kitchens",
+        "Join support groups for ongoing education and encouragement",
+        "Maintain regular checkups to monitor nutritional deficiencies and gut healing"
+      ],
+      "donts": [
+        "Don't consume even small amounts of gluten—this can trigger symptoms and intestinal damage",
+        "Avoid self-diagnosing without proper testing (blood tests and biopsy)",
+        "Don't rely solely on 'gluten-free' labels—check ingredients carefully",
+        "Avoid processed gluten-free foods high in sugar and fat as a staple diet"
+      ]
+    }
+  },
+  "sarcoidosis": {
+    "dietTips": [
+      "Eat a balanced anti-inflammatory diet rich in fruits, vegetables, whole grains, and lean proteins",
+      "Include foods high in antioxidants like berries, spinach, and nuts to help reduce inflammation",
+      "Limit intake of processed foods, refined sugars, and saturated fats",
+      "Avoid excess calcium and vitamin D if you have high blood calcium levels (hypercalcemia), common in sarcoidosis",
+      "Stay hydrated with plenty of water throughout the day"
+    ],
+    "medications": [
+      {
+        "name": "Corticosteroids (e.g., Prednisone)",
+        "dosage": "Typical starting dose 20-40 mg/day",
+        "timing": "Once daily, tapered under supervision"
+      },
+      {
+        "name": "Methotrexate",
+        "dosage": "7.5-25 mg/week",
+        "timing": "Once weekly, with folic acid supplementation"
+      },
+      {
+        "name": "Hydroxychloroquine",
+        "dosage": "200-400 mg/day",
+        "timing": "Once or twice daily for skin/joint symptoms or elevated calcium levels"
+      }
+    ],
+    "homeRemedies": [
+      "Practice deep breathing exercises to support lung function",
+      "Use a humidifier to ease respiratory discomfort",
+      "Engage in gentle physical activity like walking or stretching to maintain energy and reduce fatigue",
+      "Apply warm compresses to swollen joints or muscles for relief",
+      "Ensure regular, restorative sleep to support immune function"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow your treatment plan and attend all follow-up appointments",
+        "Report any new or worsening symptoms to your doctor promptly",
+        "Protect your lungs by avoiding smoke, dust, and pollutants",
+        "Wear sunscreen, especially if taking medications like methotrexate or hydroxychloroquine"
+      ],
+      "donts": [
+        "Don't stop taking medications suddenly without medical advice",
+        "Avoid high-calcium diets if you have hypercalcemia associated with sarcoidosis",
+        "Don't ignore persistent symptoms like cough, fatigue, or vision changes",
+        "Avoid strenuous activities during flare-ups or if experiencing breathing issues"
+      ]
+    }
+  },
+  "sickleCellCrisis": {
+    "dietTips": [
+      "Stay well-hydrated by drinking plenty of water throughout the day to prevent sickling of red blood cells",
+      "Eat iron-rich foods like leafy greens, beans, and fortified cereals unless advised otherwise due to iron overload",
+      "Include folate-rich foods such as spinach, lentils, and oranges to support red blood cell production",
+      "Incorporate foods high in antioxidants like berries, tomatoes, and nuts to help reduce oxidative stress",
+      "Avoid excessive alcohol and caffeine which can dehydrate and trigger a crisis"
+    ],
+    "medications": [
+      {
+        "name": "Hydroxyurea",
+        "dosage": "Varies by weight and response",
+        "timing": "Taken once daily to reduce frequency of crises"
+      },
+      {
+        "name": "Folic acid",
+        "dosage": "1 mg/day",
+        "timing": "Once daily to aid red blood cell production"
+      },
+      {
+        "name": "Acetaminophen or Ibuprofen",
+        "dosage": "As needed per pain level",
+        "timing": "Every 6-8 hours for pain relief during crisis"
+      },
+      {
+        "name": "Prescription opioids",
+        "dosage": "As prescribed",
+        "timing": "For severe pain not relieved by over-the-counter medication"
+      }
+    ],
+    "homeRemedies": [
+      "Apply warm compresses or take warm baths to relieve localized pain",
+      "Practice deep breathing or guided imagery to manage pain and anxiety",
+      "Use gentle stretching or yoga to maintain joint mobility during mild pain episodes",
+      "Keep warm in cold weather to prevent blood vessel constriction",
+      "Rest and avoid strenuous activity during a crisis to conserve energy"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Stay hydrated consistently, not just during a crisis",
+        "Get regular check-ups and vaccinations to prevent infections",
+        "Practice good hygiene to avoid illnesses that can trigger a crisis",
+        "Monitor and manage stress with relaxation techniques"
+      ],
+      "donts": [
+        "Don't ignore fever or signs of infection—seek medical help promptly",
+        "Avoid extreme temperatures, especially cold exposure",
+        "Don't overexert yourself physically during or between crises",
+        "Avoid smoking or secondhand smoke, which can worsen oxygen delivery"
+      ]
+    }
+  },
+  "lupusSLE": {
+    "dietTips": [
+      "Eat a balanced anti-inflammatory diet rich in fruits, vegetables, whole grains, and omega-3 fatty acids (like fish, flaxseeds)",
+      "Limit intake of processed foods, saturated fats, and refined sugars",
+      "Include calcium and vitamin D-rich foods like dairy, leafy greens, and fortified cereals, especially if taking corticosteroids",
+      "Avoid alfalfa sprouts as they may trigger lupus flares",
+      "Stay well-hydrated and maintain a healthy weight to reduce joint stress"
+    ],
+    "medications": [
+      {
+        "name": "Hydroxychloroquine",
+        "dosage": "200-400 mg/day",
+        "timing": "Once or twice daily with food"
+      },
+      {
+        "name": "Prednisone (Corticosteroids)",
+        "dosage": "5-60 mg/day depending on severity",
+        "timing": "Taken once daily in the morning"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200-400 mg",
+        "timing": "Every 6-8 hours for joint or muscle pain"
+      },
+      {
+        "name": "Immunosuppressants (e.g., Azathioprine)",
+        "dosage": "1-3 mg/kg/day",
+        "timing": "As prescribed for organ involvement"
+      }
+    ],
+    "homeRemedies": [
+      "Apply cold or warm compresses to joints for relief",
+      "Practice gentle yoga or stretching to improve flexibility and reduce stiffness",
+      "Use relaxation techniques like meditation or deep breathing to manage stress",
+      "Get adequate rest and pace yourself to prevent fatigue",
+      "Protect your skin with sunscreen and clothing if photosensitive"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow your treatment plan and attend regular check-ups",
+        "Use sunscreen with SPF 30 or higher daily to prevent UV-triggered flares",
+        "Get enough sleep and manage stress effectively",
+        "Report any new symptoms such as chest pain or shortness of breath immediately"
+      ],
+      "donts": [
+        "Don't stop taking medications abruptly without consulting your doctor",
+        "Avoid sun exposure, especially during peak hours",
+        "Don't ignore persistent symptoms or flare-ups",
+        "Avoid smoking and limit alcohol as they can worsen symptoms and medication side effects"
+      ]
+    }
+  },
+  "myastheniaGravis": {
+    "dietTips": [
+      "Eat small, frequent meals to avoid fatigue during eating",
+      "Include protein-rich foods such as lean meats, beans, and dairy to support muscle strength",
+      "Choose soft, easy-to-chew foods if swallowing is difficult",
+      "Stay well-hydrated throughout the day",
+      "Avoid foods that cause bloating or gas which can increase diaphragm pressure"
+    ],
+    "medications": [
+      {
+        "name": "Pyridostigmine",
+        "dosage": "60-120 mg",
+        "timing": "Every 4-6 hours to improve muscle strength"
+      },
+      {
+        "name": "Corticosteroids (e.g., Prednisone)",
+        "dosage": "Varies by severity",
+        "timing": "Taken once daily or as prescribed"
+      },
+      {
+        "name": "Immunosuppressants (e.g., Azathioprine)",
+        "dosage": "1-3 mg/kg/day",
+        "timing": "As prescribed to reduce immune response"
+      }
+    ],
+    "homeRemedies": [
+      "Take frequent rest breaks during activities to prevent muscle fatigue",
+      "Use assistive devices if needed to reduce strain",
+      "Practice gentle stretching and physical therapy exercises",
+      "Sleep with head elevated if breathing or swallowing is affected",
+      "Manage stress through relaxation techniques such as meditation or deep breathing"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take medications exactly as prescribed",
+        "Inform your doctor about any new or worsening symptoms immediately",
+        "Maintain a routine that balances activity and rest",
+        "Keep emergency contacts and a medical alert bracelet in case of crisis"
+      ],
+      "donts": [
+        "Don't skip or adjust medication doses without medical advice",
+        "Avoid excessive physical exertion or overheating",
+        "Don't ignore signs of breathing difficulty or swallowing problems",
+        "Avoid certain medications (e.g., some antibiotics or muscle relaxants) unless approved by your healthcare provider"
+      ]
+    }
+  },
+
+  "sjogrensSyndrome": {
+    "dietTips": [
+      "Stay well-hydrated by drinking plenty of water throughout the day",
+      "Include moist, soft foods to ease swallowing if dry mouth is severe",
+      "Limit caffeine and alcohol, which can worsen dryness",
+      "Eat foods rich in omega-3 fatty acids like flaxseeds, walnuts, and fish to reduce inflammation",
+      "Avoid spicy or acidic foods that can irritate dry mouth or eyes"
+    ],
+    "medications": [
+      {
+        "name": "Artificial tears",
+        "dosage": "As needed",
+        "timing": "Apply several times daily to relieve dry eyes"
+      },
+      {
+        "name": "Pilocarpine",
+        "dosage": "5 mg",
+        "timing": "Three times daily to stimulate saliva production"
+      },
+      {
+        "name": "Hydroxychloroquine",
+        "dosage": "200-400 mg/day",
+        "timing": "Once or twice daily to manage systemic symptoms"
+      }
+    ],
+    "homeRemedies": [
+      "Use a humidifier to add moisture to the air",
+      "Suck on sugar-free candies or chew sugar-free gum to stimulate saliva",
+      "Practice good oral hygiene and visit the dentist regularly",
+      "Apply warm compresses to relieve swollen glands",
+      "Avoid smoking and exposure to smoke"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Keep lips moisturized with lip balm",
+        "Maintain regular dental check-ups to prevent cavities",
+        "Use eye protection like sunglasses to reduce irritation",
+        "Report new symptoms or infections to your healthcare provider promptly"
+      ],
+      "donts": [
+        "Avoid mouthwashes containing alcohol as they can increase dryness",
+        "Don't ignore persistent dry eyes or mouth symptoms",
+        "Avoid excessive caffeine and salty foods that can worsen dehydration",
+        "Don't skip prescribed medications without consulting your doctor"
+      ]
+    }
+  },
+  "raynaudsPhenomenon": {
+    "dietTips": [
+      "Eat a balanced diet rich in fruits, vegetables, and whole grains to support circulation",
+      "Include omega-3 fatty acids from fish, flaxseeds, or walnuts to reduce inflammation",
+      "Limit caffeine and avoid smoking as they constrict blood vessels",
+      "Stay hydrated to maintain healthy blood flow",
+      "Avoid excessive salt intake which can affect blood pressure"
+    ],
+    "medications": [
+      {
+        "name": "Calcium channel blockers (e.g., Nifedipine)",
+        "dosage": "30-60 mg/day",
+        "timing": "As prescribed to dilate blood vessels"
+      },
+      {
+        "name": "Vasodilators (e.g., Sildenafil)",
+        "dosage": "As prescribed",
+        "timing": "For severe cases to improve blood flow"
+      }
+    ],
+    "homeRemedies": [
+      "Keep hands and feet warm with gloves and warm socks",
+      "Avoid sudden temperature changes and cold environments",
+      "Practice gentle hand and foot exercises to improve circulation",
+      "Manage stress through relaxation techniques like deep breathing",
+      "Avoid tight clothing that restricts blood flow"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Dress in layers during cold weather",
+        "Warm up gradually before exposure to cold",
+        "Report any skin ulcers or color changes to a healthcare provider",
+        "Follow medication and lifestyle recommendations closely"
+      ],
+      "donts": [
+        "Don't smoke or use nicotine products",
+        "Avoid caffeine or other stimulants that narrow blood vessels",
+        "Don't ignore worsening symptoms or signs of tissue damage",
+        "Avoid prolonged exposure to cold or damp environments"
+      ]
+    }
+  },
+  "trigeminalNeuralgia": {
+    "dietTips": [
+      "Eat soft foods to avoid triggering pain from chewing",
+      "Maintain balanced nutrition with easy-to-swallow meals",
+      "Avoid very hot or cold foods that may irritate nerves",
+      "Include anti-inflammatory foods like turmeric and ginger",
+      "Stay hydrated to support overall nerve health"
+    ],
+    "medications": [
+      {
+        "name": "Carbamazepine",
+        "dosage": "100-200 mg",
+        "timing": "Twice daily, adjust as prescribed"
+      },
+      {
+        "name": "Oxcarbazepine",
+        "dosage": "150 mg",
+        "timing": "Twice daily, as prescribed"
+      },
+      {
+        "name": "Gabapentin",
+        "dosage": "300 mg",
+        "timing": "Three times daily, as prescribed"
+      }
+    ],
+    "homeRemedies": [
+      "Apply warm compresses to the affected area to soothe pain",
+      "Practice relaxation techniques like deep breathing or meditation to reduce stress",
+      "Avoid triggers such as touching the face, chewing gum, or exposure to cold wind",
+      "Use gentle facial massage carefully to relieve tension",
+      "Rest adequately to reduce nerve irritation"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Take medications exactly as prescribed by your healthcare provider",
+        "Keep a pain diary to track triggers and symptoms",
+        "Consult your doctor promptly if pain worsens or changes",
+        "Maintain good oral hygiene despite sensitivity"
+      ],
+      "donts": [
+        "Don't ignore sudden or severe facial pain",
+        "Avoid known triggers like extreme temperatures or facial movements",
+        "Don't stop medications abruptly without medical advice",
+        "Avoid stressful situations that can trigger attacks"
+      ]
+    }
+  },
+  "depression": {
+    "dietTips": [
+      "Maintain a balanced diet rich in fruits, vegetables, and whole grains",
+      "Include omega-3 fatty acids from fish, flaxseeds, and walnuts",
+      "Limit processed foods and added sugars",
+      "Ensure adequate intake of vitamins like B12, D, and folate",
+      "Stay hydrated throughout the day"
+    ],
+    "medications": [
+      {
+        "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed by doctor"
+      },
+      {
+        "name": "Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      },
+      {
+        "name": "Tricyclic Antidepressants",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      }
+    ],
+    "homeRemedies": [
+      "Engage in regular physical activity, such as walking or yoga",
+      "Practice mindfulness, meditation, or deep breathing exercises",
+      "Maintain a consistent sleep schedule with 7-9 hours of sleep",
+      "Stay connected with friends and family for social support",
+      "Set small, achievable goals to boost motivation"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek professional help if symptoms persist or worsen",
+        "Follow prescribed medication regimen carefully",
+        "Establish a daily routine for meals, exercise, and sleep",
+        "Be patient with yourself during recovery"
+      ],
+      "donts": [
+        "Don't isolate yourself from loved ones",
+        "Avoid alcohol and recreational drugs",
+        "Don't ignore feelings of hopelessness or thoughts of self-harm",
+        "Avoid excessive caffeine or energy drinks that may worsen anxiety"
+      ]
+    }
+  },
+  "panicAttacks": {
+    "dietTips": [
+      "Avoid caffeine and stimulants that can trigger anxiety",
+      "Eat balanced meals with complex carbohydrates to stabilize blood sugar",
+      "Include magnesium-rich foods like nuts and leafy greens",
+      "Stay hydrated by drinking plenty of water",
+      "Limit alcohol intake as it can increase anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed by doctor"
+      },
+      {
+        "name": "Benzodiazepines (short-term use)",
+        "dosage": "As prescribed",
+        "timing": "As needed for acute attacks"
+      },
+      {
+        "name": "Beta-blockers",
+        "dosage": "As prescribed",
+        "timing": "As needed to manage physical symptoms"
+      }
+    ],
+    "homeRemedies": [
+      "Practice deep breathing exercises to calm the nervous system",
+      "Engage in mindfulness or meditation to reduce stress",
+      "Use grounding techniques like focusing on your senses",
+      "Avoid stressful situations when possible",
+      "Create a calm and safe environment during attacks"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow your treatment plan consistently",
+        "Seek professional help if attacks are frequent or severe",
+        "Use relaxation techniques regularly",
+        "Maintain a regular sleep schedule"
+      ],
+      "donts": [
+        "Don't avoid all anxiety-provoking situations without support",
+        "Avoid excessive caffeine or energy drinks",
+        "Don't panic during an attack—try to stay calm and breathe",
+        "Don't self-medicate with alcohol or drugs"
+      ]
+    }
+  },
+  "burnout": {
+    "dietTips": [
+      "Eat regular, balanced meals rich in fruits, vegetables, and whole grains",
+      "Include protein-rich foods to sustain energy levels",
+      "Stay hydrated throughout the day",
+      "Limit caffeine and sugar to avoid energy crashes",
+      "Incorporate foods high in antioxidants like berries and nuts"
+    ],
+    "medications": [
+      {
+        "name": "Consult healthcare provider",
+        "dosage": "As prescribed",
+        "timing": "For any recommended supplements or medications"
+      }
+    ],
+    "homeRemedies": [
+      "Take regular breaks during work or study sessions",
+      "Practice mindfulness, meditation, or yoga to reduce stress",
+      "Ensure 7-9 hours of quality sleep each night",
+      "Engage in enjoyable hobbies and social activities",
+      "Set realistic goals and prioritize tasks"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Seek professional help if feelings of burnout persist",
+        "Maintain a healthy work-life balance",
+        "Practice self-care regularly",
+        "Communicate your needs and limits clearly"
+      ],
+      "donts": [
+        "Don't ignore signs of exhaustion or chronic stress",
+        "Avoid overworking or skipping rest periods",
+        "Don't rely heavily on caffeine or stimulants",
+        "Avoid isolating yourself socially"
+      ]
+    }
+  },
+  "adhd": {
+    "dietTips": [
+      "Eat balanced meals with plenty of protein to support focus",
+      "Include omega-3 fatty acids from fish, flaxseeds, and walnuts",
+      "Limit sugary snacks and processed foods",
+      "Maintain regular meal times to stabilize blood sugar",
+      "Stay well-hydrated throughout the day"
+    ],
+    "medications": [
+      {
+        "name": "Stimulants (e.g., Methylphenidate)",
+        "dosage": "As prescribed",
+        "timing": "Usually morning and early afternoon"
+      },
+      {
+        "name": "Non-stimulants (e.g., Atomoxetine)",
+        "dosage": "As prescribed",
+        "timing": "As directed by doctor"
+      }
+    ],
+    "homeRemedies": [
+      "Establish a consistent daily routine",
+      "Use organizational tools like planners and reminders",
+      "Practice mindfulness and breathing exercises to improve focus",
+      "Engage in regular physical activity to reduce restlessness",
+      "Ensure adequate sleep (7-9 hours) every night"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow medication and therapy plans as directed",
+        "Break tasks into smaller, manageable steps",
+        "Create a distraction-free work environment",
+        "Seek professional support when needed"
+      ],
+      "donts": [
+        "Don't skip medications or therapy sessions",
+        "Avoid excessive screen time without breaks",
+        "Don't rely on sugary foods or caffeine for energy",
+        "Avoid multitasking that may increase distraction"
+      ]
+    }
+  },
+  "bipolarDisorder": {
+    "dietTips": [
+      "Maintain a balanced diet rich in fruits, vegetables, and whole grains",
+      "Include omega-3 fatty acids from fish and flaxseeds",
+      "Avoid excessive caffeine and alcohol which can affect mood",
+      "Stay hydrated throughout the day",
+      "Limit processed and sugary foods to stabilize energy levels"
+    ],
+    "medications": [
+      {
+        "name": "Mood stabilizers (e.g., Lithium)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed by doctor"
+      },
+      {
+        "name": "Antipsychotics",
+        "dosage": "As prescribed",
+        "timing": "As directed"
+      },
+      {
+        "name": "Antidepressants (with caution)",
+        "dosage": "As prescribed",
+        "timing": "Only under doctor supervision"
+      }
+    ],
+    "homeRemedies": [
+      "Maintain a consistent daily routine including sleep and meals",
+      "Practice stress-reduction techniques like meditation or yoga",
+      "Engage in regular physical activity",
+      "Monitor mood changes and triggers",
+      "Stay connected with supportive friends and family"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow medication and therapy plans strictly",
+        "Seek immediate help if experiencing severe mood swings",
+        "Ensure adequate sleep (7-9 hours)",
+        "Keep regular appointments with mental health professionals"
+      ],
+      "donts": [
+        "Don't abruptly stop medications without medical advice",
+        "Avoid alcohol and recreational drugs",
+        "Don't ignore warning signs of mood episodes",
+        "Avoid excessive stress and sleep deprivation"
+      ]
+    }
+  },
+  "ocd": {
+    "dietTips": [
+      "Maintain a balanced diet with plenty of fruits and vegetables",
+      "Include foods rich in omega-3 fatty acids like fish and walnuts",
+      "Limit caffeine and sugar to reduce anxiety symptoms",
+      "Stay hydrated throughout the day",
+      "Avoid excessive processed foods and additives"
+    ],
+    "medications": [
+      {
+        "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      }
+    ],
+    "homeRemedies": [
+      "Practice mindfulness and relaxation techniques",
+      "Establish a consistent daily routine",
+      "Engage in physical activity to reduce stress",
+      "Use structured schedules to manage compulsions",
+      "Seek social support from friends, family, or support groups"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow treatment and therapy plans diligently",
+        "Seek professional help early",
+        "Practice stress management regularly",
+        "Be patient with progress and setbacks"
+      ],
+      "donts": [
+        "Don't attempt to self-diagnose or self-medicate",
+        "Avoid excessive caffeine or stimulants",
+        "Don't isolate yourself socially",
+        "Avoid avoiding triggers without coping strategies"
+      ]
+    }
+  },
+  "ptsd": {
+    "dietTips": [
+      "Eat a balanced diet rich in whole grains, fruits, and vegetables",
+      "Include omega-3 fatty acids from fish, flaxseeds, and walnuts",
+      "Avoid excessive caffeine and sugar to reduce anxiety",
+      "Stay hydrated throughout the day",
+      "Limit processed and fast foods"
+    ],
+    "medications": [
+      {
+        "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      },
+      {
+        "name": "Prazosin (for nightmares)",
+        "dosage": "As prescribed",
+        "timing": "As directed"
+      }
+    ],
+    "homeRemedies": [
+      "Practice mindfulness, meditation, or yoga to manage stress",
+      "Engage in regular physical exercise",
+      "Maintain a consistent sleep schedule",
+      "Seek support from trusted friends, family, or support groups",
+      "Use grounding techniques to cope with flashbacks"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow your treatment plan closely",
+        "Attend therapy sessions regularly",
+        "Communicate openly with healthcare providers",
+        "Practice self-care and stress management"
+      ],
+      "donts": [
+        "Don't isolate yourself socially",
+        "Avoid alcohol and recreational drugs",
+        "Don't suppress your emotions without support",
+        "Avoid situations that trigger severe anxiety without coping strategies"
+      ]
+    }
+  },
+  "socialAnxiety": {
+    "dietTips": [
+      "Eat balanced meals with whole grains, lean proteins, and fruits",
+      "Limit caffeine and sugar to help reduce anxiety",
+      "Include magnesium-rich foods like nuts and leafy greens",
+      "Stay hydrated throughout the day",
+      "Avoid heavy or processed foods before social events"
+    ],
+    "medications": [
+      {
+        "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      },
+      {
+        "name": "Beta-blockers (for situational anxiety)",
+        "dosage": "As prescribed",
+        "timing": "Before anxiety-provoking events"
+      }
+    ],
+    "homeRemedies": [
+      "Practice deep breathing and relaxation techniques",
+      "Gradually expose yourself to social situations",
+      "Engage in regular physical exercise",
+      "Use positive self-talk and cognitive behavioral strategies",
+      "Build a support network of trusted friends or family"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow your treatment and therapy plans consistently",
+        "Prepare ahead for social interactions",
+        "Practice mindfulness and stress reduction",
+        "Seek professional support when needed"
+      ],
+      "donts": [
+        "Don't avoid all social situations",
+        "Avoid excessive caffeine or alcohol",
+        "Don't isolate yourself",
+        "Avoid negative self-talk or harsh self-criticism"
+      ]
+    }
+  },
+  "seasonalAffectiveDisorder": {
+    "dietTips": [
+      "Eat a balanced diet rich in fruits, vegetables, and whole grains",
+      "Include foods high in vitamin D, like fortified dairy and fatty fish",
+      "Incorporate omega-3 fatty acids from fish and flaxseeds",
+      "Limit caffeine and sugar intake to stabilize mood",
+      "Stay hydrated throughout the day"
+    ],
+    "medications": [
+      {
+        "name": "Antidepressants (SSRIs or SNRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      }
+    ],
+    "homeRemedies": [
+      "Spend time outdoors in natural sunlight",
+      "Maintain a consistent sleep schedule",
+      "Engage in regular physical exercise",
+      "Practice relaxation techniques like meditation or yoga",
+      "Stay socially connected with friends and family"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow prescribed treatment plans carefully",
+        "Use light therapy consistently during darker months",
+        "Seek professional support when symptoms worsen",
+        "Keep a regular daily routine"
+      ],
+      "donts": [
+        "Don't skip medication or therapy sessions",
+        "Avoid excessive alcohol or caffeine",
+        "Don't isolate yourself socially",
+        "Avoid irregular sleep patterns"
+      ]
+    }
+  },
+  "eatingDisorders": {
+    "dietTips": [
+      "Eat balanced meals with adequate protein, healthy fats, and carbohydrates",
+      "Maintain regular meal times to support metabolism",
+      "Include nutrient-dense foods like fruits, vegetables, and whole grains",
+      "Stay hydrated with water throughout the day",
+      "Avoid restrictive diets or skipping meals"
+    ],
+    "medications": [
+      {
+        "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "dosage": "As prescribed",
+        "timing": "Regularly as directed"
+      },
+      {
+        "name": "Nutritional supplements",
+        "dosage": "As recommended",
+        "timing": "With meals or as advised"
+      }
+    ],
+    "homeRemedies": [
+      "Seek professional counseling or therapy",
+      "Practice mindful eating and listen to hunger cues",
+      "Keep a food journal to track progress",
+      "Engage in gentle physical activity",
+      "Build a support network of friends and family"
+    ],
+    "dosDonts": {
+      "dos": [
+        "Follow treatment plans with healthcare providers",
+        "Practice self-compassion and patience",
+        "Communicate openly about feelings and challenges",
+        "Focus on gradual, sustainable progress"
+      ],
+      "donts": [
+        "Don't engage in self-criticism or negative body talk",
+        "Avoid skipping meals or binge eating episodes",
+        "Don't isolate yourself socially",
+        "Avoid triggers without developing coping strategies"
+      ]
+    }
+  }
+    
+}
